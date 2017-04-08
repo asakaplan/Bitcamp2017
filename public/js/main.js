@@ -1,3 +1,20 @@
+function markovProb(dict, edges, node, P, k) {
+    for(var k in dict) dict[k].cur = dict[k].prob = 0;
+    node.cur = 1;
+    for(var i=0; i<k; i++) {
+        for(var k in dict) dict[k].ncur = 0;
+        for(var i in edges) {
+            var e = edges[i];
+            dict[e.b].ncur += dict[e.a].cur * e.w;
+        }
+        if(i===k-1) P=1;
+        for(var k in dict) {
+            dict[k].cur = dict[k].ncur * (1-P);
+            dict[k].prob += dict[k].ncur * P;
+        }
+    }
+}
+
 var svg = d3.select("svg"),
     width = +svg.attr("width"),
     height = +svg.attr("height");
@@ -13,6 +30,8 @@ var selected = null;
 
 d3.json("/js/data.json", function(error, graph) {
   if (error) throw error;
+  var dict = {};
+  graph.nodes.forEach(n => dict[n.id] = n);
 
   var link = svg.append("g")
       .attr("class", "links")
