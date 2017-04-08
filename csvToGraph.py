@@ -1,7 +1,8 @@
-samplePeopleRaw = [a.split(",") for a in open("frontEndTestData/samplePeople.csv","r")]
-sampleLinksRaw =  [a.split(",") for a in open("frontEndTestData/sampleLinks.csv","r")]
+samplePeopleRaw = [a.split(",") for a in open("frontEndTestData/samplePeopleMedium.csv","r")]
+sampleLinksRaw =  [a.split(",") for a in open("frontEndTestData/sampleLinksMedium.csv","r")]
 
 outp = {"nodes":[[int(a[0]),a[1].strip()[1:-1],a[3].strip()[1:-1],float(a[2])] for a in samplePeopleRaw],
         "links":[[*map(int,a)] for a in sampleLinksRaw]
         }
-print(outp)
+
+open("public/js/data.json","w").write(str(outp).replace("'",'"'))

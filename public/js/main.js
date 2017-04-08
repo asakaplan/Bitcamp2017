@@ -1,6 +1,6 @@
 function deprocess(data) {
     var mult = 10;
-    var maxval = data.links.reduce((best, l) => 
+    var maxval = data.links.reduce((best, l) =>
         Math.max(best, l[2]), 1);
     return {
         nodes: data.nodes.map(a => ({
@@ -63,9 +63,9 @@ var svg = d3.select("svg"),
 var color = d3.scaleOrdinal(d3.schemeCategory20);
 
 var charge =  d3.forceManyBody();
-charge.distanceMax(60);
+charge.distanceMax(100);
 var grav =  d3.forceManyBody();
-grav.strength(80);
+grav.strength(30);
 
 var simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(function(d) { return d.id; }))
@@ -100,7 +100,7 @@ d3.json("/js/data.json", function(error, graph) {
           .on("drag", dragged)
           .on("end", dragended));
   var txt = d3.select("#status");
-  
+
   function dragstarted(d) {
     if (!d3.event.active) simulation.alphaTarget(0.3).restart();
     d.fx = d.x;
