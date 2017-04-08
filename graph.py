@@ -1,3 +1,5 @@
+import json
+
 def Node:
   def __init__(self, name, company, goodness):
     self.name = name
@@ -14,6 +16,12 @@ def norm(v, s=None):
 #normalizes outgoing probabilities of a directed graph
 def preprocess(net):
   return [norm(vec) for vec in net]
+
+def makeJSON(nodes, edges):
+  return json.dumps({
+    'nodes': list(map(lambda n: [n.name, n.company, n.goodness], nodes)),
+    'edges': list(map(lambda e: [e.name1, e.name2, e.strength], edges)),
+  })
 
 '''
 graph - weighted adjacency matrix.
