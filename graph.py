@@ -1,3 +1,13 @@
+def Node:
+  def __init__(self, name, company, goodness):
+    self.name = name
+    self.company = company
+    self.goodness = goodness
+def Edge:
+  def __init__(self, name1, name2, strength):
+    self.name1, self.name2 = name1, name2
+    self.strength = strength
+
 def norm(v, s=None):
   s = s or sum(v)
   return [e/s for e in v]
