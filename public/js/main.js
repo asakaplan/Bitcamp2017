@@ -1,4 +1,7 @@
 function deprocess(data) {
+    var mult = 10;
+    var maxval = data.links.reduce((best, l) => 
+        Math.max(best, l[2]), 1);
     return {
         nodes: data.nodes.map(a => ({
             id: a[0],
@@ -8,7 +11,7 @@ function deprocess(data) {
         })),
         links: data.links.map(a => ({
             source: a[0], target: a[1],
-            value: a[2]
+            value: mult*a[2]/maxval
         }))
     };
 }
@@ -59,9 +62,15 @@ var svg = d3.select("svg"),
 
 var color = d3.scaleOrdinal(d3.schemeCategory20);
 
+var charge =  d3.forceManyBody();
+charge.distanceMax(60);
+var grav =  d3.forceManyBody();
+grav.strength(80);
+
 var simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(function(d) { return d.id; }))
-    .force("charge", d3.forceManyBody())
+    .force("charge", charge)
+    .force("grav", d3.for)
     .force("center", d3.forceCenter(width / 2, height / 2));
 
 var selected = null;
@@ -72,14 +81,12 @@ d3.json("/js/data.json", function(error, graph) {
   var dict = {};
   graph.nodes.forEach(n => dict[n.id] = n);
   var dedges = dirEdges(graph.links);
-  markovProb(dict, dedges, graph.nodes[0], 0.1, 5);
-  console.log(dict);
   var link = svg.append("g")
       .attr("class", "links")
     .selectAll("line")
     .data(graph.links)
     .enter().append("line")
-      .attr("stroke-width", function(d) { return Math.sqrt(d.value); });
+      .attr("stroke-width", function(d) { return Math.pow(d.value, 2/3); });
 
   var node = svg.append("g")
       .attr("class", "nodes")
@@ -87,7 +94,7 @@ d3.json("/js/data.json", function(error, graph) {
     .data(graph.nodes)
     .enter().append("circle")
       .attr("r", 5)
-      .attr("fill", function(d) { return color(d.group); })
+      .attr("fill", function(d) { return d3.hsl(d.good*100, 1, 0.5); })
       .call(d3.drag()
           .on("start", dragstarted)
           .on("drag", dragged)
@@ -114,7 +121,10 @@ d3.json("/js/data.json", function(error, graph) {
   updateSel();
   function updateSel() {
     node.attr("class", function(d) { return selected === d ? 'selected' : ''; });
-    txt.text(selected ? 'Selected: '+selected.name : 'Click on a point...')
+    txt.text(selected ? 'Selected: '+selected.name : 'Click on a point...');
+    if(!selected) return;
+    markovProb(dict, dedges, selected, 0.1, 5);
+    console.log(dict);
   }
 
 
