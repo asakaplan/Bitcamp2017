@@ -13,7 +13,10 @@ def trainNetwork(inputFile = 'trainingInput.pkl',expectedOutputFile = 'trainingO
 
 	# Create Model
 	logreg = linear_model.LogisticRegression(C=1e5)
+
 	logreg.fit(X, Y)
+	print logreg.predict(X)
+
 
 	# Save Model
 	joblib.dump(logreg, 'model.pkl') 
