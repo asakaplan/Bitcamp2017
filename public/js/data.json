@@ -1,0 +1,12 @@
+{
+  "nodes": [
+    ["Foo", "F Corp", 1],
+    ["Bar", "B Corp", 1],
+    ["Baz", "B Corp", 0]
+  ],
+  "links": [
+    ["Foo","Bar",9],
+    ["Bar","Baz",9],
+    ["Baz","Foo",1]
+  ]
+}

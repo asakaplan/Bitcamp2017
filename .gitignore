@@ -2,3 +2,6 @@ credentials.txt
 rawXMLs/
 consolodatedOutput.pic
 .vscode/
+node_modules/
+bower_components/
+*.log
