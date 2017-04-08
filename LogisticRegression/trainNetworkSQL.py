@@ -9,6 +9,7 @@ from random import random
 cnx = connection.MySQLConnection(user="root", password="fuck", database='people')
 cursor = cnx.cursor()
 bigTableName = "people"
+badness = "badness"
 # Load Data
 def trainNetwork(inputFile = 'trainingInput.pkl',expectedOutputFile = 'trainingOutput.pkl', modelOutputFile = 'model.pkl'):
 	X = []
@@ -43,11 +44,13 @@ def trainNetwork(inputFile = 'trainingInput.pkl',expectedOutputFile = 'trainingO
 	#print(scores)
 	logreg.fit(X, Y)
 	#print X[:10]
-	print(logreg.predict_proba(X))
-	# Save Model
-	joblib.dump(logreg, 'model.pkl')
+	res = logreg.predict_proba(X)[:,1]
 
-	# Update Training Input
-	joblib.dump(X,'trainingInput.pkl')
-
+	cursor.execute("SELECT * FROM %s"%bigTableName)
+	for i, val in enumerate(cursor.fetchall()):
+		print "UPDATE %s SET `%s`=%.5f WHERE `pk`=%d"%(bigTableName,badness,res[i],val[0])
+		cursor.execute("UPDATE %s SET `%s`=%.5f WHERE `pk`=%d"%(bigTableName,badness,res[i],val[0]))
+	cnx.commit()
+	cursor.close()
+	cnx.close()
 trainNetwork()
