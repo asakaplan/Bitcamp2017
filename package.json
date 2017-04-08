@@ -1,0 +1,22 @@
+{
+  "name": "bitcamp2017",
+  "version": "1.0.0",
+  "description": "bitcamp 2017",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asakaplan/Bitcamp2017.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asakaplan/Bitcamp2017/issues"
+  },
+  "homepage": "https://github.com/asakaplan/Bitcamp2017#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}

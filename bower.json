@@ -1,0 +1,16 @@
+{
+  "name": "bitcamp2017",
+  "description": "bitcamp 2017",
+  "main": "app.js",
+  "authors": [
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/asakaplan/Bitcamp2017",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
