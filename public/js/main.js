@@ -13,16 +13,16 @@ function deprocess(data) {
     };
 }
 
-function markovProb(dict, dedges, node, P, k) {
+function markovProb(dict, dedges, node, P, iters) {
     for(var k in dict) dict[k].cur = dict[k].prob = 0;
     node.cur = 1;
-    for(var i=0; i<k; i++) {
+    for(var iter=0; iter<iters; iter++) {
         for(var k in dict) dict[k].ncur = 0;
         for(var i in dedges) {
             var e = dedges[i];
-            dict[e.b].ncur += dict[e.a].cur * e.w;
+            dict[e.target].ncur += dict[e.source].cur * e.value;
         }
-        if(i===k-1) P=1;
+        if(iter===iters-1) P=1;
         for(var k in dict) {
             dict[k].cur = dict[k].ncur * (1-P);
             dict[k].prob += dict[k].ncur * P;
@@ -72,7 +72,8 @@ d3.json("/js/data.json", function(error, graph) {
   var dict = {};
   graph.nodes.forEach(n => dict[n.id] = n);
   var dedges = dirEdges(graph.links);
-
+  markovProb(dict, dedges, graph.nodes[0], 0.1, 5);
+  console.log(dict);
   var link = svg.append("g")
       .attr("class", "links")
     .selectAll("line")
