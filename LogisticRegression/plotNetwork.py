@@ -26,7 +26,6 @@ y_min, y_max = X[:, 1].min() - .5, X[:, 1].max() + .5
 xx, yy = np.meshgrid(np.arange(x_min, x_max, h), np.arange(y_min, y_max, h))
 
 Z = logreg.predict(np.c_[xx.ravel(), yy.ravel()])
-print logreg.predict(X)
 # Put the result into a color plot
 Z = Z.reshape(xx.shape)
 plt.figure(1, figsize=(4, 3))

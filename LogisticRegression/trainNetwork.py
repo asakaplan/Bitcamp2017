@@ -15,7 +15,6 @@ def trainNetwork(inputFile = 'trainingInput.pkl',expectedOutputFile = 'trainingO
 	logreg = linear_model.LogisticRegression(C=1e5)
 
 	logreg.fit(X, Y)
-	print logreg.predict(X)
 
 
 	# Save Model
