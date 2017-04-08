@@ -8,7 +8,7 @@ class Wrapper:
         self.value=value
 DRPNames = [""]
 numDrps = 9
-('hasCustComp', 'hasRegAction', 'hasBankrupt', 'hasCriminal', u'hasCivilJudc', u'N'), (u'hasBond', u'N'), (u'hasInvstgn', u'N'), (u'hasJudgment', u'N'), (u'hasTermination', u'N')
+('hasCustComp', 'hasRegAction', 'hasBankrupt', 'hasCriminal', 'hasCivilJudc', 'hasBond', 'hasInvstgn', 'hasJudgment', 'hasTermination')
 if __name__ == "__main__":
     listOfFiles = sorted([f for f in listdir(PATH) if isfile(join(PATH, f))])#["testData/354962.json"]
     print listOfFiles
