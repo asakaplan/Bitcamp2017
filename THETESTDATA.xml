@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<IAPDIndividualReport GenOn="2017-04-07">
+<Indvls>
+<Indvl>
+<Info lastNm="GASSNER" firstNm="TRAVIS" midNm="JOHN" indvlPK="6040651" actvAGReg="Y" link="http://www.adviserinfo.sec.gov/IAPD/Individual/6040651"/>
+<OthrNms/>
+<CrntEmps>
+<CrntEmp orgNm="MORGAN STANLEY" orgPK="149777" str1="2000 WESTCHESTER AVENUE" city="PURCHASE" state="NY" cntry="United States" postlCd="10577-2530">
+<CrntRgstns>
+<CrntRgstn regAuth="NJ" regCat="RA" st="APPROVED" stDt="2015-12-22"/>
+</CrntRgstns>
+<BrnchOfLocs>
+<BrnchOfLoc str1="2000 WESTCHESTER AVENUE" city="PURCHASE" state="NY" cntry="USA" postlCd="10577-2530"/>
+</BrnchOfLocs>
+</CrntEmp>
+</CrntEmps>
+<Exms>
+<Exm exmCd="S66" exmNm="Uniform Combined State Law Examination" exmDt="2015-12-18"/>
+</Exms>
+<Dsgntns/>
+<PrevRgstns/>
+<EmpHss>
+<EmpHs fromDt="08/2007" toDt="12/2011" orgNm="UNIVERSITY OF DELAWARE" city="NEWARK" state="DE"/>
+<EmpHs fromDt="08/2012" toDt="10/2014" orgNm="MORGAN STANLEY" city="WILMINGTON" state="DE"/>
+<EmpHs fromDt="03/2012" toDt="08/2012" orgNm="FIRE SOLUTIONS" city="WARREN" state="NJ"/>
+<EmpHs fromDt="12/2011" toDt="03/2012" orgNm="UNEMPLOYED" city="MANASQUAN" state="NJ"/>
+<EmpHs fromDt="06/2007" toDt="08/2007" orgNm="BARLOW FLOWER FARM" city="SEA GIRT" state="NJ"/>
+<EmpHs fromDt="08/2006" toDt="06/2007" orgNm="UNEMPLOYED" city="MANASQUAN" state="NJ"/>
+<EmpHs fromDt="10/2014" toDt="10/2016" orgNm="MORGAN STANLEY" city="PURCHASE" state="NY"/>
+<EmpHs fromDt="01/2017" orgNm="MORGAN STANLEY" city="PURCHASE" state="NY"/>
+<EmpHs fromDt="10/2016" toDt="01/2017" orgNm="MORGAN STANLEY" city="PURCHASE" state="NY"/>
+</EmpHss>
+<OthrBuss/>
+<DRPs/>
+</Indvl>
+
+
+
+
+
+
+<Indvl>
+<Info lastNm="SIRECI" firstNm="KRISTIN" midNm="VICTORIA" indvlPK="6078173" actvAGReg="Y" link="http://www.adviserinfo.sec.gov/IAPD/Individual/6078173"/>
+<OthrNms>
+<OthrNm lastNm="SIRECI" firstNm="KRISTIN" midNm="V"/>
+<OthrNm lastNm="SIRECI" firstNm="KRISTIN" midNm="V"/>
+<OthrNm lastNm="SIRECI" firstNm="KRISTIN" midNm="V"/>
+</OthrNms>
+<CrntEmps>
+<CrntEmp orgNm="CAPITAL ONE ADVISORS, LLC" orgPK="136865" str1="1750 TYSONS BLVD" str2="12TH FLOOR" city="MCLEAN" state="VA" cntry="United States" postlCd="22102">
+<CrntRgstns>
+<CrntRgstn regAuth="NJ" regCat="RA" st="APPROVED" stDt="2017-01-31"/>
+</CrntRgstns>
+<BrnchOfLocs>
+<BrnchOfLoc str1="2050 Jericho Tpke" city="Commack" state="NY" cntry="United States" postlCd="11725"/>
+<BrnchOfLoc str1="1750 TYSONS BLVD" str2="12TH FLOOR" city="MCLEAN" state="VA" cntry="United States" postlCd="22102"/>
+</BrnchOfLocs>
+</CrntEmp>
+</CrntEmps>
+<Exms>
+<Exm exmCd="S66" exmNm="Uniform Combined State Law Examination" exmDt="2016-07-12"/>
+<Exm exmCd="S63" exmNm="Uniform Securities Agent State Law Examination" exmDt="2014-07-07"/>
+</Exms>
+<Dsgntns/>
+<PrevRgstns>
+<PrevRgstn orgNm="MERRILL LYNCH, PIERCE, FENNER &amp; SMITH INCORPORATED" orgPK="7691" regBeginDt="2016-07-13" regEndDt="2016-12-14">
+<BrnchOfLocs>
+<BrnchOfLoc city="GREAT NECK" state="NY"/>
+</BrnchOfLocs>
+</PrevRgstn>
+</PrevRgstns>
+<EmpHss>
+<EmpHs fromDt="01/2002" toDt="08/2012" orgNm="TAX ADVISORS OF PALM BEACH" city="BOYNTON BEACH" state="FL"/>
+<EmpHs fromDt="04/2014" toDt="07/2014" orgNm="JP MORGAN SECURITIES LLC" city="BROOKLYN" state="NY"/>
+<EmpHs fromDt="04/2014" toDt="07/2014" orgNm="JPMORGAN CHASE BANK" city="BROOKLYN" state="NY"/>
+<EmpHs fromDt="08/2012" toDt="12/2013" orgNm="CITIBANK NA" city="BOYNTON BEACH" state="FL"/>
+<EmpHs fromDt="01/2014" toDt="03/2014" orgNm="UNEMPLOYED" city="JAMAICA" state="NY"/>
+<EmpHs fromDt="09/2013" toDt="01/2014" orgNm="TAX ADVISORS OF PALM BEACH / CETERA FINANCIAL SPECIALIST" city="BOYNTON BEACH" state="FL"/>
+<EmpHs fromDt="12/2016" orgNm="Capital One Investing LLC" city="Melville" state="NY"/>
+<EmpHs fromDt="09/2015" toDt="12/2016" orgNm="MERRILL LYNCH, PIERCE, FENNER &amp; SMITH INCORPORATED" city="GREAT NECK" state="NY"/>
+<EmpHs fromDt="07/2014" toDt="09/2015" orgNm="TD BANK" city="BROOKLYN" state="NY"/>
+<EmpHs fromDt="08/2007" toDt="05/2012" orgNm="Florida Atlantic University" city="Boca Raton" state="FL"/>
+<EmpHs fromDt="08/2013" toDt="12/2013" orgNm="BUCA SPG Group" city="Boynton Beach" state="FL"/>
+<EmpHs fromDt="09/2015" toDt="12/2016" orgNm="BANK OF AMERICA, N.A." city="GREAT NECK" state="NY"/>
+</EmpHss>
+<OthrBuss/>
+<DRPs>
+<DRP hasRegAction="N" hasCriminal="N" hasBankrupt="Y" hasCivilJudc="N" hasBond="N" hasJudgment="N" hasInvstgn="N" hasCustComp="N" hasTermination="N"/>
+</DRPs>
+</Indvl>
+</Indvls>
+</IAPDIndividualReport>
+
+
