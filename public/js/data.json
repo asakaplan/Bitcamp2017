@@ -1,12 +1,12 @@
 {
   "nodes": [
-    ["Foo", "F Corp", 1],
-    ["Bar", "B Corp", 1],
-    ["Baz", "B Corp", 0]
+    [27, "Foo", "F Corp", 1],
+    [32, "Bar", "B Corp", 1],
+    [45, "Baz", "B Corp", 0]
   ],
   "links": [
-    ["Foo","Bar",9],
-    ["Bar","Baz",9],
-    ["Baz","Foo",1]
+    [27, 32, 9],
+    [32, 45, 9],
+    [45, 27, 1]
   ]
 }
