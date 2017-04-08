@@ -9,6 +9,8 @@ var simulation = d3.forceSimulation()
     .force("charge", d3.forceManyBody())
     .force("center", d3.forceCenter(width / 2, height / 2));
 
+var selected = null;
+
 d3.json("/js/data.json", function(error, graph) {
   if (error) throw error;
 
@@ -30,6 +32,31 @@ d3.json("/js/data.json", function(error, graph) {
           .on("start", dragstarted)
           .on("drag", dragged)
           .on("end", dragended));
+  var txt = d3.select("#status");
+  
+  function dragstarted(d) {
+    if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+    d.fx = d.x;
+    d.fy = d.y;
+    selected = selected == d ? null : d;
+    updateSel();
+  }
+
+  function dragged(d) {
+    d.fx = d3.event.x;
+    d.fy = d3.event.y;
+  }
+
+  function dragended(d) {
+    if (!d3.event.active) simulation.alphaTarget(0);
+    d.fx = d.fy = null;
+  }
+  updateSel();
+  function updateSel() {
+    node.attr("class", function(d) { return selected === d ? 'selected' : ''; });
+    txt.text(selected ? 'Selected: '+selected.id : 'Click on a point...')
+  }
+
 
   node.append("title")
       .text(function(d) { return d.id; });
@@ -53,20 +80,3 @@ d3.json("/js/data.json", function(error, graph) {
         .attr("cy", function(d) { return d.y; });
   }
 });
-
-function dragstarted(d) {
-  if (!d3.event.active) simulation.alphaTarget(0.3).restart();
-  d.fx = d.x;
-  d.fy = d.y;
-}
-
-function dragged(d) {
-  d.fx = d3.event.x;
-  d.fy = d3.event.y;
-}
-
-function dragended(d) {
-  if (!d3.event.active) simulation.alphaTarget(0);
-  d.fx = null;
-  d.fy = null;
-}
