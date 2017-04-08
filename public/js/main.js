@@ -2,10 +2,11 @@ function deprocess(data) {
     return {
         nodes: data.nodes.map(a => ({
             id: a[0],
-            comp: a[1],
-            good: a[2]
+            name: a[1],
+            comp: a[2],
+            good: a[3]
         })),
-        edges: data.edges.map(a => ({
+        links: data.links.map(a => ({
             source: a[0], target: a[1],
             value: a[2]
         }))
@@ -28,6 +29,29 @@ function markovProb(dict, dedges, node, P, k) {
         }
     }
 }
+function dirEdges(edges) {
+    var seen = {};
+    var totals = {};
+    var out = [];
+    edges.map(e => {
+        var st = [e.source, e.target];
+        st.sort();
+        e.source = st[0], e.target = st[1];
+        var key = st.join("'");//apostrophes don't exist in input data
+        if(seen[key]) return null;
+        seen[key] = true;
+        st.forEach(k => totals[k] = (totals[k]||0) + e.value);
+        return e;
+    }).filter(e => e).forEach(e => {
+        var a = Object.assign({}, e),
+          b = Object.assign({}, e);
+        b.source = a.target; b.target = a.source;
+        a.value /= totals[a.source];
+        b.value /= totals[b.source];
+        out.push(a); out.push(b);
+    });
+    return out;
+}
 
 var svg = d3.select("svg"),
     width = +svg.attr("width"),
@@ -47,7 +71,7 @@ d3.json("/js/data.json", function(error, graph) {
   graph = deprocess(graph);
   var dict = {};
   graph.nodes.forEach(n => dict[n.id] = n);
-  var dedges = [];
+  var dedges = dirEdges(graph.links);
 
   var link = svg.append("g")
       .attr("class", "links")
@@ -89,12 +113,12 @@ d3.json("/js/data.json", function(error, graph) {
   updateSel();
   function updateSel() {
     node.attr("class", function(d) { return selected === d ? 'selected' : ''; });
-    txt.text(selected ? 'Selected: '+selected.id : 'Click on a point...')
+    txt.text(selected ? 'Selected: '+selected.name : 'Click on a point...')
   }
 
 
   node.append("title")
-      .text(function(d) { return d.id; });
+      .text(function(d) { return d.name; });
 
   simulation
       .nodes(graph.nodes)
