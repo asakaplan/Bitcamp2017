@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1544583/",
+  "absolute_url": "/opinion/1544583/warren-v-commissioner-of-internal-revenue/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1544583/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2013-10-30T06:40:26.579248Z",
+  "date_modified": "2016-04-26T04:43:24.641720Z",
+  "type": "010combined",
+  "sha1": "4ad79ab806cb427146f5f083b93fb6ae3b76e800",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>133 F.2d 312 (1942)</b></center>\n<center><h1>Ellis H. WARREN, Petitioner,<br>\nv.<br>\nCOMMISSIONER OF INTERNAL REVENUE, Respondent.</h1></center>\n<center>No. 9230.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>December 17, 1942.</center>\n<p>Benjamin E. Jaffe and R. M. O'Hara, both of Detroit, Mich., for petitioner.</p>\n<p>Samuel O. Clark, Jr., J. P. Wenchel, Sewall Key, John W. Smith, Gerald L. Wallace, and Edward H. Hammond, all of Washington, D. C., for respondent.</p>\n<p>Before SIMONS, MARTIN, and McALLISTER, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>This case having been considered upon the record and upon the briefs and oral argument of the attorneys for the parties, and the court being of the opinion that Helvering v. R. Douglas Stuart, 63 S.Ct. 140, 87 L.Ed. ___, decided by the Supreme Court of the United States on November 16, 1942, is decisive of the issue presented here, it is ordered that the judgment of the Tax Court of the United States (formerly the United States Board of Tax Appeals), 45 B.T.A. 379, be and hereby is affirmed.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">133</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">312</span></span> (1942)</b></center>\n<center><h1>Ellis H. WARREN, Petitioner,<br>\nv.<br>\nCOMMISSIONER OF INTERNAL REVENUE, Respondent.</h1></center>\n<center>No. 9230.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>December 17, 1942.</center>\n<p>Benjamin E. Jaffe and R. M. O'Hara, both of Detroit, Mich., for petitioner.</p>\n<p>Samuel O. Clark, Jr., J. P. Wenchel, Sewall Key, John W. Smith, Gerald L. Wallace, and Edward H. Hammond, all of Washington, D. C., for respondent.</p>\n<p>Before SIMONS, MARTIN, and McALLISTER, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>This case having been considered upon the record and upon the briefs and oral argument of the attorneys for the parties, and the court being of the opinion that Helvering v. R. Douglas Stuart, <span class=\"citation no-link\"><span class=\"volume\">63</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">140</span></span>, 87 L.Ed. ___, decided by the Supreme Court of the United States on November 16, 1942, is decisive of the issue presented here, it is ordered that the judgment of the Tax Court of the United States (formerly the United States Board of Tax Appeals), <span class=\"citation no-link\"><span class=\"volume\">45</span> <span class=\"reporter\">B.T.A.</span> <span class=\"page\">379</span></span>, be and hereby is affirmed.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

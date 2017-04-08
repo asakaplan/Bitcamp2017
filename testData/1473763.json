@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1473763/",
+  "absolute_url": "/opinion/1473763/smith-v-commissioner-of-internal-revenue/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1473763/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2013-10-30T06:24:10.374423Z",
+  "date_modified": "2016-04-26T05:08:34.717307Z",
+  "type": "010combined",
+  "sha1": "521561cab38547ef5b9ba429123045af969922ad",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>173 F.2d 224 (1949)</b></center>\n<center><h1>HUGH SMITH, Inc., Petitioner,<br>\nv.<br>\nCOMMISSIONER OF INTERNAL REVENUE, Respondent.</h1></center>\n<center>No. 10616.</center>\n<center><p><b>United States Court of Appeals Sixth Circuit.</b></p></center>\n<center>February 1, 1949.</center>\n<p>F. E. Hagler, of Memphis, Tenn., for petitioner.</p>\n<p>Theron L. Caudle, Charles Oliphant, Sewall Key, John W. Smith, Ellis N. Slack and Harry Baum, all of Washington, D. C., for respondent.</p>\n<p>Before HICKS, Chief Judge, and ALLEN and MARTIN, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>This cause was heard on the transcript of record, briefs and arguments of counsel, and on consideration whereof it is ordered and adjudged that the decision of the Tax Court, entered June 25, 1947, and herein sought to be reviewed, be and the same is in all things affirmed upon the grounds and for the reasons set forth in the findings of fact and opinion of the Tax Court, 8 T.C. 660; promulgated March 28, 1947.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">173</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">224</span></span> (1949)</b></center>\n<center><h1>HUGH SMITH, Inc., Petitioner,<br>\nv.<br>\nCOMMISSIONER OF INTERNAL REVENUE, Respondent.</h1></center>\n<center>No. 10616.</center>\n<center><p><b>United States Court of Appeals Sixth Circuit.</b></p></center>\n<center>February 1, 1949.</center>\n<p>F. E. Hagler, of Memphis, Tenn., for petitioner.</p>\n<p>Theron L. Caudle, Charles Oliphant, Sewall Key, John W. Smith, Ellis N. Slack and Harry Baum, all of Washington, D. C., for respondent.</p>\n<p>Before HICKS, Chief Judge, and ALLEN and MARTIN, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>This cause was heard on the transcript of record, briefs and arguments of counsel, and on consideration whereof it is ordered and adjudged that the decision of the Tax Court, entered June 25, 1947, and herein sought to be reviewed, be and the same is in all things affirmed upon the grounds and for the reasons set forth in the findings of fact and opinion of the Tax Court, 8 T.C. 660; promulgated March 28, 1947.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1480167/",
+  "absolute_url": "/opinion/1480167/may-v-mulligan/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1480167/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2013-10-30T06:25:51.488875Z",
+  "date_modified": "2016-04-26T04:24:28.697591Z",
+  "type": "010combined",
+  "sha1": "193e4e7d2dd3935cdb911087de0816a7e61bc599",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>117 F.2d 259 (1940)</b></center>\n<center><h1>George S. MAY, d. b. a. George S. May Company, Appellant,<br>\nv.<br>\nGeorge V. R. MULLIGAN, Appellee.</h1></center>\n<center>No. 8371.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>November 7, 1940.</center>\n<p>Howard, Howard &amp; Howard, of Kalamazoo, Mich., for appellant.</p>\n<p>Mason, Sharpe &amp; Stratton, of Kalamazoo, Mich., for appellee.</p>\n<p>Before HICKS, ALLEN, and ARANT, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>This cause was heard upon the transcript of the record, briefs and arguments of counsel, on consideration whereof, the court is of the opinion that there is no reversible error upon the record.</p>\n<p>It is therefore, ordered, adjudged and decreed that the judgment appealed from be and the same is in all things affirmed upon the grounds and for the reasons stated in the opinion of the District Court filed June 15, 1939, 36 F.Supp. 596.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">117</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">259</span></span> (1940)</b></center>\n<center><h1>George S. MAY, d. b. a. George S. May Company, Appellant,<br>\nv.<br>\nGeorge V. R. MULLIGAN, Appellee.</h1></center>\n<center>No. 8371.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>November 7, 1940.</center>\n<p>Howard, Howard &amp; Howard, of Kalamazoo, Mich., for appellant.</p>\n<p>Mason, Sharpe &amp; Stratton, of Kalamazoo, Mich., for appellee.</p>\n<p>Before HICKS, ALLEN, and ARANT, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>This cause was heard upon the transcript of the record, briefs and arguments of counsel, on consideration whereof, the court is of the opinion that there is no reversible error upon the record.</p>\n<p>It is therefore, ordered, adjudged and decreed that the judgment appealed from be and the same is in all things affirmed upon the grounds and for the reasons stated in the opinion of the District Court filed June 15, 1939, 36 F.Supp. 596.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

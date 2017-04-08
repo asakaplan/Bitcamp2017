@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1503823/",
+  "absolute_url": "/opinion/1503823/lorenz-v-commissioner-of-internal-revenue/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1503823/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2013-10-30T06:30:23.540723Z",
+  "date_modified": "2016-04-26T12:57:19.338011Z",
+  "type": "010combined",
+  "sha1": "278730346d61719fa7483ed17e651f903ff362e4",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>148 F.2d 527 (1945)</b></center>\n<center><h1>Frank J. LORENZ, Petitioner,<br>\nv.<br>\nCOMMISSIONER OF INTERNAL REVENUE, Respondent.</h1></center>\n<center>No. 9871.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>April 13, 1945.</center>\n<p>Marion A. Ross, of Columbus, Ohio, for petitioner.</p>\n<p><span class=\"star-pagination\">*528</span> Samuel O. Clark, Jr., J. P. Wenchel, Sewall Key, Helen R. Carloss, and John F. Costelloe, all of Washington, D. C., for respondent.</p>\n<p>Before ALLEN, HAMILTON, and MARTIN, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>This case came on to be heard upon the record and briefs and oral argument of counsel.</p>\n<p>On consideration whereof, the decision of the Tax Court of the United States, 3 T.C. 746, is affirmed, for the reasons stated in the opinion of the Tax Court. Dobson v. Commissioner, 320 U.S. 489, 64 S.Ct. 239, 88 L.Ed. 248.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">148</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">527</span></span> (1945)</b></center>\n<center><h1>Frank J. LORENZ, Petitioner,<br>\nv.<br>\nCOMMISSIONER OF INTERNAL REVENUE, Respondent.</h1></center>\n<center>No. 9871.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>April 13, 1945.</center>\n<p>Marion A. Ross, of Columbus, Ohio, for petitioner.</p>\n<p><span class=\"star-pagination\">*528</span> Samuel O. Clark, Jr., J. P. Wenchel, Sewall Key, Helen R. Carloss, and John F. Costelloe, all of Washington, D. C., for respondent.</p>\n<p>Before ALLEN, HAMILTON, and MARTIN, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>This case came on to be heard upon the record and briefs and oral argument of counsel.</p>\n<p>On consideration whereof, the decision of the Tax Court of the United States, <span class=\"citation no-link\"><span class=\"volume\">3</span> <span class=\"reporter\">T.C.</span> <span class=\"page\">746</span></span>, is affirmed, for the reasons stated in the opinion of the Tax Court. Dobson v. Commissioner, <span class=\"citation\" data-id=\"103904\"><a href=\"/opinion/103904/dobson-v-commissioner/\"><span class=\"volume\">320</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">489</span></a></span>, <span class=\"citation no-link\"><span class=\"volume\">64</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">239</span></span>, 88 L.Ed. 248.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/103904/"
+  ]
+}

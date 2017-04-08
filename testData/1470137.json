@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1470137/",
+  "absolute_url": "/opinion/1470137/bell-v-jones/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1470137/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2013-10-30T06:23:18.960733Z",
+  "date_modified": "2016-04-26T05:26:36.791013Z",
+  "type": "010combined",
+  "sha1": "452a445033eed7ef222df9513f6dd84bf5fb6b3b",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>566 F.3d 688 (2009)</b></center>\n<center><h1>Derrick BELL, Petitioner-Appellant,<br>\nv.<br>\nKurt JONES, Warden, Carson City Correctional Facility, Respondent-Appellee.</h1></center>\n<center>No. 08-1775.</center>\n<center><p><b>United States Court of Appeals, Sixth Circuit.</b></p></center>\n<center>May 12, 2009.</center>\n<p>Derrick Bell, Carson City, MI, pro se.</p>\n<p>Raina I. Korbakis, Assistant Attorney General, Brenda E. Turner, Office of the Michigan Attorney General, Lansing, MI, for Respondent-Appellee.</p>\n<p>Before: MERRITT, MARTIN, and SUHRHEINRICH, Circuit Judges.</p>\n<p></p>\n<h2>ORDER</h2>\n<p>Derrick Bell petitions for rehearing en banc of this court's order entered January <span class=\"star-pagination\">*689</span> 6, 2009, by a single judge of this court denying his application for a certificate of appealability. The petition was initially referred to a panel of three judges on which the original deciding judge does not sit. After review of the petition, this panel composed of one active judge and two senior judges issued an order announcing its conclusion that the original application was properly denied. The petition was then circulated to all of the active judges of the court.</p>\n<p>No active judge nor the senior judges of this panel having requested a vote on the suggestion for an en banc rehearing, the panel now, pursuant to established court procedures, denies the petition for rehearing en banc.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">566</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">688</span></span> (2009)</b></center>\n<center><h1>Derrick BELL, Petitioner-Appellant,<br>\nv.<br>\nKurt JONES, Warden, Carson City Correctional Facility, Respondent-Appellee.</h1></center>\n<center>No. 08-1775.</center>\n<center><p><b>United States Court of Appeals, Sixth Circuit.</b></p></center>\n<center>May 12, 2009.</center>\n<p>Derrick Bell, Carson City, MI, pro se.</p>\n<p>Raina I. Korbakis, Assistant Attorney General, Brenda E. Turner, Office of the Michigan Attorney General, Lansing, MI, for Respondent-Appellee.</p>\n<p>Before: MERRITT, MARTIN, and SUHRHEINRICH, Circuit Judges.</p>\n<p></p>\n<h2>ORDER</h2>\n<p>Derrick Bell petitions for rehearing en banc of this court's order entered January <span class=\"star-pagination\">*689</span> 6, 2009, by a single judge of this court denying his application for a certificate of appealability. The petition was initially referred to a panel of three judges on which the original deciding judge does not sit. After review of the petition, this panel composed of one active judge and two senior judges issued an order announcing its conclusion that the original application was properly denied. The petition was then circulated to all of the active judges of the court.</p>\n<p>No active judge nor the senior judges of this panel having requested a vote on the suggestion for an en banc rehearing, the panel now, pursuant to established court procedures, denies the petition for rehearing en banc.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1486117/",
+  "absolute_url": "/opinion/1486117/schlitz-brewing-co-v-johnson/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1486117/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2013-10-30T06:27:11.529732Z",
+  "date_modified": "2016-04-26T07:36:30.033048Z",
+  "type": "010combined",
+  "sha1": "485868d1e13e1a2165c13925d724ede0b48677ff",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>123 F.2d 1016 (1941)</b></center>\n<center><h1>Jos. SCHLITZ BREWING CO., Appellant,<br>\nv.<br>\nE. A. JOHNSON and A. H. Gould, Doing Business as Chattanooga Beer Distributors, Appellees.</h1></center>\n<center>No. 8733.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>November 7, 1941.</center>\n<p>Corrigan &amp; Backus and Francis H. Parson, all of Milwaukee, Wis., John A. Chambliss, of Chattanooga, Tenn., and Kenneth F. Webster, of Milwaukee, Wis., for appellant.</p>\n<p><span class=\"star-pagination\">*1017</span> Phil B. Whitaker, W. C. Smith, and W. M. Haynes, all of Chattanooga, Tenn., for appellees.</p>\n<p>Before HICKS, ALLEN, and MARTIN, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>It appearing from consideration of the record, oral argument and briefs in this cause that the judgment of the District Court entered on the verdict of a jury was correct, for the reasons stated by the District Court in its opinion filed on motion for judgment notwithstanding the verdict and for a new trial (33 F.Supp. 176), the judgment of the District Court is affirmed.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">123</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">1016</span></span> (1941)</b></center>\n<center><h1>Jos. SCHLITZ BREWING CO., Appellant,<br>\nv.<br>\nE. A. JOHNSON and A. H. Gould, Doing Business as Chattanooga Beer Distributors, Appellees.</h1></center>\n<center>No. 8733.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>November 7, 1941.</center>\n<p>Corrigan &amp; Backus and Francis H. Parson, all of Milwaukee, Wis., John A. Chambliss, of Chattanooga, Tenn., and Kenneth F. Webster, of Milwaukee, Wis., for appellant.</p>\n<p><span class=\"star-pagination\">*1017</span> Phil B. Whitaker, W. C. Smith, and W. M. Haynes, all of Chattanooga, Tenn., for appellees.</p>\n<p>Before HICKS, ALLEN, and MARTIN, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>It appearing from consideration of the record, oral argument and briefs in this cause that the judgment of the District Court entered on the verdict of a jury was correct, for the reasons stated by the District Court in its opinion filed on motion for judgment notwithstanding the verdict and for a new trial (33 F.Supp. 176), the judgment of the District Court is affirmed.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

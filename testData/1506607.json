@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1506607/",
+  "absolute_url": "/opinion/1506607/anchor-hocking-glass-corporation-lancaster-ohio-v-federal-trade/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1506607/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": true,
+  "date_created": "2013-10-30T06:30:51.439198Z",
+  "date_modified": "2016-04-26T20:51:55.771071Z",
+  "type": "010combined",
+  "sha1": "dcd7e86c9788fefd9298fa5160cae9b8272c06c5",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>124 F.2d 187 (1941)</b></center>\n<center><h1>ANCHOR HOCKING GLASS CORPORATION, LANCASTER, OHIO, and W. H. Peterson, Petitioners,<br>\nv.<br>\nFEDERAL TRADE COMMISSION, Respondent.</h1></center>\n<center>No. 9062.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>December 4, 1941.</center>\n<p>Deffenbaugh &amp; Miller, of Lancaster, Ohio, for petitioners.</p>\n<p>W. T. Kelley, of Washington, D. C., for respondent.</p>\n<p>PER CURIAM.</p>\n<p>Upon application of the petitioners herein, and it being brought to the attention of this court that subsequent to the filing herein of the petition for review, the respondent, Federal Trade Commission, has issued a modified order to cease and desist, it is therefore ordered that said petition for review be, and the same is hereby, dismissed with costs to the petitioners.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">124</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">187</span></span> (1941)</b></center>\n<center><h1>ANCHOR HOCKING GLASS CORPORATION, LANCASTER, OHIO, and W. H. Peterson, Petitioners,<br>\nv.<br>\nFEDERAL TRADE COMMISSION, Respondent.</h1></center>\n<center>No. 9062.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>December 4, 1941.</center>\n<p>Deffenbaugh &amp; Miller, of Lancaster, Ohio, for petitioners.</p>\n<p>W. T. Kelley, of Washington, D. C., for respondent.</p>\n<p>PER CURIAM.</p>\n<p>Upon application of the petitioners herein, and it being brought to the attention of this court that subsequent to the filing herein of the petition for review, the respondent, Federal Trade Commission, has issued a modified order to cease and desist, it is therefore ordered that said petition for review be, and the same is hereby, dismissed with costs to the petitioners.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

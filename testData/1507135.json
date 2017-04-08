@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1507135/",
+  "absolute_url": "/opinion/1507135/cleveland-graphite-bronze-company-v-commissioner-of-internal-revenue/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1507135/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2013-10-30T06:30:56.790419Z",
+  "date_modified": "2016-04-26T07:32:49.967173Z",
+  "type": "010combined",
+  "sha1": "13862689f953cd5cb218609a30f35992df0a32e6",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>177 F.2d 200 (1949)</b></center>\n<center><h1>CLEVELAND GRAPHITE BRONZE COMPANY, Petitioner,<br>\nv.<br>\nCOMMISSIONER OF INTERNAL REVENUE, Respondent.</h1></center>\n<center>No. 10857.</center>\n<center><p><b>United States Court of Appeals Sixth Circuit.</b></p></center>\n<center>October 17, 1949.</center>\n<p>Jones, Day, Cockley &amp; Reaves, Cleveland, Ohio, and Sturgis Warner, Washington, D. C., Wm. B. Cockley, Theodore R. Colborn, Cleveland, Ohio, for appellant.</p>\n<p>Theron L. Caudle, Chas. Oliphant, Claude R. Marshall, Ellis N. Slack, Robert N. Anderson and Irving I. Axelrad, Washington, D. C., for respondent.</p>\n<p>Before HICKS, Chief Judge, and ALLEN and McALLISTER, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>The above cause coming on to be heard on the transcript of the record, the briefs of counsel, and arguments in open court, and the court being duly advised,</p>\n<p>It is hereby ordered, adjudged, and decreed that the decision in the above case be and is hereby affirmed upon the findings of fact and opinion of the Tax Court of the United States, 10 T.C. 974.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation\" data-id=\"1507424\"><a href=\"/opinion/1507424/commissioner-of-internal-revenue-v-american-bemberg-corporation/\"><span class=\"volume\">177</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">200</span></a></span> (1949)</b></center>\n<center><h1>CLEVELAND GRAPHITE BRONZE COMPANY, Petitioner,<br>\nv.<br>\nCOMMISSIONER OF INTERNAL REVENUE, Respondent.</h1></center>\n<center>No. 10857.</center>\n<center><p><b>United States Court of Appeals Sixth Circuit.</b></p></center>\n<center>October 17, 1949.</center>\n<p>Jones, Day, Cockley &amp; Reaves, Cleveland, Ohio, and Sturgis Warner, Washington, D. C., Wm. B. Cockley, Theodore R. Colborn, Cleveland, Ohio, for appellant.</p>\n<p>Theron L. Caudle, Chas. Oliphant, Claude R. Marshall, Ellis N. Slack, Robert N. Anderson and Irving I. Axelrad, Washington, D. C., for respondent.</p>\n<p>Before HICKS, Chief Judge, and ALLEN and McALLISTER, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>The above cause coming on to be heard on the transcript of the record, the briefs of counsel, and arguments in open court, and the court being duly advised,</p>\n<p>It is hereby ordered, adjudged, and decreed that the decision in the above case be and is hereby affirmed upon the findings of fact and opinion of the Tax Court of the United States, 10 T.C. 974.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/1507424/"
+  ]
+}

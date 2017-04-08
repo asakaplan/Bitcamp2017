@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1545348/",
+  "absolute_url": "/opinion/1545348/pulfer-v-commissioner-of-internal-revenue/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1545348/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2013-10-30T06:40:38.508507Z",
+  "date_modified": "2016-04-26T04:20:20.050851Z",
+  "type": "010combined",
+  "sha1": "b81f5f7a5bbedecea04664b8dffee514c5258e7d",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>128 F.2d 742 (1942)</b></center>\n<center><h1>Robert A. PULFER, Petitioner,<br>\nv.<br>\nCOMMISSIONER OF INTERNAL REVENUE, Respondent.</h1></center>\n<center>No. 9057.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>May 13, 1942.</center>\n<p>William A. Borrusch, of Detroit, Mich., for petitioner.</p>\n<p>Samuel O. Clark, Jr., Sewall Key, J. P. Wenchel, John M. Morawski, J. Louis Monarch, and Samuel H. Levy, all of Washington, D. C., for respondent.</p>\n<p>Before HICKS, SIMONS, and MARTIN, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>This cause was heard upon the transcript of the record, briefs and arguments of counsel; upon consideration whereof, the decision of the Board of Tax Appeals is affirmed upon the grounds and for the reasons set forth in the opinion of the Board promulgated February 19, 1941. 43 B. T. A. 677.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">128</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">742</span></span> (1942)</b></center>\n<center><h1>Robert A. PULFER, Petitioner,<br>\nv.<br>\nCOMMISSIONER OF INTERNAL REVENUE, Respondent.</h1></center>\n<center>No. 9057.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>May 13, 1942.</center>\n<p>William A. Borrusch, of Detroit, Mich., for petitioner.</p>\n<p>Samuel O. Clark, Jr., Sewall Key, J. P. Wenchel, John M. Morawski, J. Louis Monarch, and Samuel H. Levy, all of Washington, D. C., for respondent.</p>\n<p>Before HICKS, SIMONS, and MARTIN, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>This cause was heard upon the transcript of the record, briefs and arguments of counsel; upon consideration whereof, the decision of the Board of Tax Appeals is affirmed upon the grounds and for the reasons set forth in the opinion of the Board promulgated February 19, 1941. 43 B. T. A. 677.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

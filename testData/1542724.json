@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1542724/",
+  "absolute_url": "/opinion/1542724/louisville-title-mortgage-company-v-louisville-storage-company/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1542724/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2013-10-30T06:40:00.049556Z",
+  "date_modified": "2016-04-26T05:21:27.250358Z",
+  "type": "010combined",
+  "sha1": "e9de5dad24372fe97ff8bd4b31aa9bdb124afb87",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>93 F.2d 1008 (1938)</b></center>\n<center><h1>LOUISVILLE TITLE MORTGAGE COMPANY, Individually, Title Insurance and Trust Company, Individually, and as Trustee, All Corporations, Appellants,<br>\nv.<br>\nLOUISVILLE STORAGE COMPANY, a Corporation, H. M. Denton, Thomas S. Dawson, Charles Schimpeler, Thomas B. Bullitt and F. J. Miller, Appellees.</h1></center>\n<center>No. 7354.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>January 7, 1938.</center>\n<p>Elliot Lee Maddox and Andrew M. Sea, Jr., both of Louisville, Ky., for appellants.</p>\n<p>H. M. Denton and Thomas S. Dawson, both of Louisville, Ky., for appellees.</p>\n<p>Before MOORMAN and HICKS, Circuit Judges, and SWINFORD, District Judge.</p>\n<p>PER CURIAM.</p>\n<p>The order appealed from herein is affirmed.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">93</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">1008</span></span> (1938)</b></center>\n<center><h1>LOUISVILLE TITLE MORTGAGE COMPANY, Individually, Title Insurance and Trust Company, Individually, and as Trustee, All Corporations, Appellants,<br>\nv.<br>\nLOUISVILLE STORAGE COMPANY, a Corporation, H. M. Denton, Thomas S. Dawson, Charles Schimpeler, Thomas B. Bullitt and F. J. Miller, Appellees.</h1></center>\n<center>No. 7354.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>January 7, 1938.</center>\n<p>Elliot Lee Maddox and Andrew M. Sea, Jr., both of Louisville, Ky., for appellants.</p>\n<p>H. M. Denton and Thomas S. Dawson, both of Louisville, Ky., for appellees.</p>\n<p>Before MOORMAN and HICKS, Circuit Judges, and SWINFORD, District Judge.</p>\n<p>PER CURIAM.</p>\n<p>The order appealed from herein is affirmed.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

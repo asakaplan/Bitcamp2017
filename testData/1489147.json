@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1489147/",
+  "absolute_url": "/opinion/1489147/commissioner-of-internal-revenue-v-johnson/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1489147/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": true,
+  "date_created": "2013-10-30T06:27:47.740576Z",
+  "date_modified": "2016-04-27T01:38:42.276618Z",
+  "type": "010combined",
+  "sha1": "dd8d8b5a9592b40f18d2f3dda3ccc11a03f9f352",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>51 F.2d 1075 (1931)</b></center>\n<center><h1>COMMISSIONER OF INTERNAL REVENUE<br>\nv.<br>\nHomer S. JOHNSON and Charles B. Johnson, Executors of Estate of Stephen O. Johnson, Deceased.</h1></center>\n<center>No. 5325.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>April 15, 1931.</center>\n<p>C. M. Charest, of Washington D. C., for petitioner.</p>\n<p>H. E. Spalding, of Detroit, Mich., for respondents.</p>\n<p>PER CURIAM.</p>\n<p>Order of Board of Tax Appeals affirmed upon authority of May v. Heiner, 281 U. S. 238, 50 S. Ct. 286, 74 L. Ed. 826, 67 A. L. R. 1244, and journal entry of Supreme Court affirming Commissioner v. Northern Trust Co. (C. C. A.) 41 F.(2d) 732.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">51</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">1075</span></span> (1931)</b></center>\n<center><h1>COMMISSIONER OF INTERNAL REVENUE<br>\nv.<br>\nHomer S. JOHNSON and Charles B. Johnson, Executors of Estate of Stephen O. Johnson, Deceased.</h1></center>\n<center>No. 5325.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>April 15, 1931.</center>\n<p>C. M. Charest, of Washington D. C., for petitioner.</p>\n<p>H. E. Spalding, of Detroit, Mich., for respondents.</p>\n<p>PER CURIAM.</p>\n<p>Order of Board of Tax Appeals affirmed upon authority of May v. Heiner, <span class=\"citation\" data-id=\"101552\"><a href=\"/opinion/101552/may-v-heiner/\"><span class=\"volume\">281</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">238</span></a></span>, <span class=\"citation no-link\"><span class=\"volume\">50</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">286</span></span>, <span class=\"citation no-link\"><span class=\"volume\">74</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">826</span></span>, 67 A. L. R. 1244, and journal entry of Supreme Court affirming Commissioner v. Northern Trust Co. (C. C. A.) 41 F.(2d) 732.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/101552/"
+  ]
+}

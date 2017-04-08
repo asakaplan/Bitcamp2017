@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1210115/",
+  "absolute_url": "/opinion/1210115/robinson-v-livingston/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1210115/",
+  "author": "http://www.courtlistener.com/api/rest/v3/people/2057/",
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2013-10-30T05:01:17.386745Z",
+  "date_modified": "2016-04-26T23:03:13.768580Z",
+  "type": "010combined",
+  "sha1": "41efc61cb5e8bd551b6c1a9e086bd1643ab5d073",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>565 F.3d 343 (2009)</b></center>\n<center><h1>Darryl A. ROBINSON, Plaintiff-Appellant,<br>\nv.<br>\nUnknown LIVINGSTON, Defendant-Appellee.</h1></center>\n<center>No. 09-1119.</center>\n<center><p><b>United States Court of Appeals, Sixth Circuit.</b></p></center>\n<center>April 29, 2009.</center>\n<p>Before: BOYCE F. MARTIN, JR., Circuit Judge.</p>\n<p></p>\n<h2>ORDER</h2>\n<p>This court entered an order on February 6, 2009, directing the appellant to show cause within twenty-one days why the appeal <span class=\"star-pagination\">*344</span> should not be dismissed for failure to comply with Fed. R.App. P. 4(a). The appellant failed to respond.</p>\n<p>The documents before this court reflect that the decision of the district court was entered on December 12, 2008. The time for filing a notice of appeal runs from entry of the judgment. <i>See</i> Fed. R.App. P. 4(a)(1). Because no separate judgment was entered by the district court as required by Fed.R.Civ.P. 58(a)(1), the judgment is treated as filed 150 days after entry of the decision. <i>See</i> Fed. R.App. P. 4(a)(7)(A)(ii). Accordingly, the notice of appeal was timely filed on January 14, 2009. <i>See</i> Fed. R.App. P. 4(a), and 26(a).</p>\n<p>It is ordered that the show cause order is withdrawn.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">565</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">343</span></span> (2009)</b></center>\n<center><h1>Darryl A. ROBINSON, Plaintiff-Appellant,<br>\nv.<br>\nUnknown LIVINGSTON, Defendant-Appellee.</h1></center>\n<center>No. 09-1119.</center>\n<center><p><b>United States Court of Appeals, Sixth Circuit.</b></p></center>\n<center>April 29, 2009.</center>\n<p>Before: BOYCE F. MARTIN, JR., Circuit Judge.</p>\n<p></p>\n<h2>ORDER</h2>\n<p>This court entered an order on February 6, 2009, directing the appellant to show cause within twenty-one days why the appeal <span class=\"star-pagination\">*344</span> should not be dismissed for failure to comply with Fed. R.App. P. 4(a). The appellant failed to respond.</p>\n<p>The documents before this court reflect that the decision of the district court was entered on December 12, 2008. The time for filing a notice of appeal runs from entry of the judgment. <i>See</i> Fed. R.App. P. 4(a)(1). Because no separate judgment was entered by the district court as required by Fed.R.Civ.P. 58(a)(1), the judgment is treated as filed 150 days after entry of the decision. <i>See</i> Fed. R.App. P. 4(a)(7)(A)(ii). Accordingly, the notice of appeal was timely filed on January 14, 2009. <i>See</i> Fed. R.App. P. 4(a), and 26(a).</p>\n<p>It is ordered that the show cause order is withdrawn.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1238412/",
+  "absolute_url": "/opinion/1238412/hughlett-v-oglebay-norton-marine-services-company-/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1238412/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2013-10-30T05:10:18.122922Z",
+  "date_modified": "2016-04-26T04:38:31.335458Z",
+  "type": "010combined",
+  "sha1": "180c42d23784f2eb739d5353b9d1d95f9a93995e",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>569 F.3d 547 (2007)</b></center>\n<center><h1>Lee HUGHLETT, Plaintiff-Appellant,<br>\nv.<br>\nOGLEBAY NORTON MARINE SERVICES COMPANY, LLC, Defendant-Appellee.</h1></center>\n<center>No. 07-3466.</center>\n<center><p><b>United States Court of Appeals, Sixth Circuit.</b></p></center>\n<center>December 7, 2007.</center>\n<p>Before MERRITT, COLE and GRIFFIN, Circuit Judges.</p>\n<p></p>\n<h2>ORDER</h2>\n<p>This cause having come on to be heard upon the record, the briefs and the oral argument of the parties, and upon due consideration thereof,</p>\n<p>It is ORDERED that the judgment of the district court be, and it hereby is, affirmed upon the opinion of the district court.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">569</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">547</span></span> (2007)</b></center>\n<center><h1>Lee HUGHLETT, Plaintiff-Appellant,<br>\nv.<br>\nOGLEBAY NORTON MARINE SERVICES COMPANY, LLC, Defendant-Appellee.</h1></center>\n<center>No. 07-3466.</center>\n<center><p><b>United States Court of Appeals, Sixth Circuit.</b></p></center>\n<center>December 7, 2007.</center>\n<p>Before MERRITT, COLE and GRIFFIN, Circuit Judges.</p>\n<p></p>\n<h2>ORDER</h2>\n<p>This cause having come on to be heard upon the record, the briefs and the oral argument of the parties, and upon due consideration thereof,</p>\n<p>It is ORDERED that the judgment of the district court be, and it hereby is, affirmed upon the opinion of the district court.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

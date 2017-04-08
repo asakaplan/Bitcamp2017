@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1547023/",
+  "absolute_url": "/opinion/1547023/langstaff-v-lucas/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1547023/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2013-10-30T06:41:01.553034Z",
+  "date_modified": "2016-04-26T07:42:41.329876Z",
+  "type": "010combined",
+  "sha1": "eca326b7a606f582399b70a97e170530f20c657d",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>13 F.2d 1022 (1926)</b></center>\n<center><h1>George LANGSTAFF, Plaintiff in Error,<br>\nv.<br>\nRobert H. LUCAS, Collector, Defendant in Error.</h1></center>\n<center>No. 4582.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>June 30, 1926.</center>\n<p>Chas. K. Wheeler, of Paducah, Ky. (Wheeler &amp; Hughes and Bernard Posey, all of Paducah, Ky., on the brief), for plaintiff in error.</p>\n<p>Floyd F. Toomey, Sp. Atty., of Washington, D. C. (W. S. Ball, U. S. Atty., of Louisville, Ky., and A. W. Gregg, Solicitor of Internal Revenue, and Floyd F. Toomey, Sp. Atty. Bureau of Internal Revenue, both of Washington, D. C., on the brief), for defendant in error.</p>\n<p>Before DENISON, DONAHUE, and MOORMAN, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>After considering carefully the reasons urged against it, we feel satisfied to affirm the judgment (9 F.[2d] 691), and we do so upon the reasoning and conclusions of the District Judge. Although the half interest in the corporate assets which came to Langstaff was within the broad definition of \"dividend\" in section 201 (a), being Comp. St. Ann. Supp. 1919, § 6336 1/8b, yet the transaction was the very one specifically provided for in the last sentence of section 201 (c), and the half interest became the proceeds of the sale of Langstaff's stock in the corporation, instead of a corporate dividend. Only so can the sections be effectively read together.</p>\n<p>Judgment affirmed.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">13</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">1022</span></span> (1926)</b></center>\n<center><h1>George LANGSTAFF, Plaintiff in Error,<br>\nv.<br>\nRobert H. LUCAS, Collector, Defendant in Error.</h1></center>\n<center>No. 4582.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>June 30, 1926.</center>\n<p>Chas. K. Wheeler, of Paducah, Ky. (Wheeler &amp; Hughes and Bernard Posey, all of Paducah, Ky., on the brief), for plaintiff in error.</p>\n<p>Floyd F. Toomey, Sp. Atty., of Washington, D. C. (W. S. Ball, U. S. Atty., of Louisville, Ky., and A. W. Gregg, Solicitor of Internal Revenue, and Floyd F. Toomey, Sp. Atty. Bureau of Internal Revenue, both of Washington, D. C., on the brief), for defendant in error.</p>\n<p>Before DENISON, DONAHUE, and MOORMAN, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>After considering carefully the reasons urged against it, we feel satisfied to affirm the judgment (9 F.[2d] 691), and we do so upon the reasoning and conclusions of the District Judge. Although the half interest in the corporate assets which came to Langstaff was within the broad definition of \"dividend\" in section 201 (a), being Comp. St. Ann. Supp. 1919, § 6336 1/8b, yet the transaction was the very one specifically provided for in the last sentence of section 201 (c), and the half interest became the proceeds of the sale of Langstaff's stock in the corporation, instead of a corporate dividend. Only so can the sections be effectively read together.</p>\n<p>Judgment affirmed.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

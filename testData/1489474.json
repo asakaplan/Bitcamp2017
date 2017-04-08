@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1489474/",
+  "absolute_url": "/opinion/1489474/commissioner-of-internal-revenue-v-reakirt/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1489474/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2013-10-30T06:27:51.277303Z",
+  "date_modified": "2016-04-26T06:36:34.934796Z",
+  "type": "010combined",
+  "sha1": "306cc7e6dec4f94a2ac01af32270f21a0eed235f",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>84 F.2d 996 (1936)</b></center>\n<center><h1>COMMISSIONER OF INTERNAL REVENUE<br>\nv.<br>\nL. B. REAKIRT.</h1></center>\n<center>No. 6896.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>February 11, 1936.</center>\n<p>Robert H. Jackson, Asst. Atty. Gen., for petitioner.</p>\n<p>John W. Peck, of Cincinnati, Ohio, for respondent.</p>\n<p>Before HICKS, SIMONS, and ALLEN, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>The order of the Board of Tax Appeals is affirmed upon the authority of Kornhauser v. United States, 276 U.S. 145, 48 S.Ct. 219, 72 L.Ed. 505; Com'r of Int. Rev. v. Continental Screen Co., 58 F.(2d) 625 (C.C.A.6); and Bliss v. Com'r of Int. Rev., 57 F.(2d) 984 (C.C.A.6).</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">84</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">996</span></span> (1936)</b></center>\n<center><h1>COMMISSIONER OF INTERNAL REVENUE<br>\nv.<br>\nL. B. REAKIRT.</h1></center>\n<center>No. 6896.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>February 11, 1936.</center>\n<p>Robert H. Jackson, Asst. Atty. Gen., for petitioner.</p>\n<p>John W. Peck, of Cincinnati, Ohio, for respondent.</p>\n<p>Before HICKS, SIMONS, and ALLEN, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>The order of the Board of Tax Appeals is affirmed upon the authority of Kornhauser v. United States, <span class=\"citation no-link\"><span class=\"volume\">276</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">145</span></span>, <span class=\"citation no-link\"><span class=\"volume\">48</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">219</span></span>, 72 L.Ed. 505; Com'r of Int. Rev. v. Continental Screen Co., 58 F.(2d) 625 (C.C.A.6); and Bliss v. Com'r of Int. Rev., 57 F.(2d) 984 (C.C.A.6).</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

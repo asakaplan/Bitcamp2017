@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1481852/",
+  "absolute_url": "/opinion/1481852/ohio-cloverleaf-dairy-co-v-commissioner-of-interna/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1481852/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": true,
+  "date_created": "2013-10-30T06:26:16.393791Z",
+  "date_modified": "2016-04-27T00:22:27.189216Z",
+  "type": "010combined",
+  "sha1": "06a5e9dae2f79319f1bce5e5d2b58940c5391e5e",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>34 F.2d 1022 (1929)</b></center>\n<center><h1>OHIO CLOVERLEAF DAIRY CO.<br>\nv.<br>\nCOMMISSIONER OF INTERNAL REVENUE.</h1></center>\n<center>No. 5202.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>June 29, 1929.</center>\n<p>Marshall, Melhorn, Marlar &amp; Martin, of Toledo, Ohio, and Harry J. Gerrity, of Washington, D. C., for petitioner.</p>\n<p>C. M. Charest, Gen. Counsel, Bureau of Internal Revenue, of Washington, D. C., for respondent.</p>\n<p>PER CURIAM.</p>\n<p>Order of Board of Tax Appeals affirmed.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">34</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">1022</span></span> (1929)</b></center>\n<center><h1>OHIO CLOVERLEAF DAIRY CO.<br>\nv.<br>\nCOMMISSIONER OF INTERNAL REVENUE.</h1></center>\n<center>No. 5202.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>June 29, 1929.</center>\n<p>Marshall, Melhorn, Marlar &amp; Martin, of Toledo, Ohio, and Harry J. Gerrity, of Washington, D. C., for petitioner.</p>\n<p>C. M. Charest, Gen. Counsel, Bureau of Internal Revenue, of Washington, D. C., for respondent.</p>\n<p>PER CURIAM.</p>\n<p>Order of Board of Tax Appeals affirmed.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

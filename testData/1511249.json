@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1511249/",
+  "absolute_url": "/opinion/1511249/frischkorn-development-company-v-commissioner-of-internal-revenue/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1511249/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2013-10-30T06:31:40.721283Z",
+  "date_modified": "2016-04-26T13:45:10.211874Z",
+  "type": "010combined",
+  "sha1": "c75c46cccec61510670d3884bfffca0b9bb612a4",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>88 F.2d 1009 (1937)</b></center>\n<center><h1>FRISCHKORN DEVELOPMENT COMPANY, Petitioner,<br>\nv.<br>\nCOMMISSIONER OF INTERNAL REVENUE, Respondent.</h1></center>\n<center>No. 7139.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>March 11, 1937.</center>\n<p>Wm. A. Rhodes, of Detroit, Mich., for petitioner.</p>\n<p>Frank J. Wideman, Asst. Atty. Gen., for respondent.</p>\n<p>Before MOORMAN, HICKS, and ALLEN, Circuit Judges.</p>\n<p>ALLEN, Circuit Judge.</p>\n<p>The court being of opinion that it is a question of fact whether the promissory note and the shares of stock received by the Frischkorn Homes Company as consideration for the transfer of all of its assets to the petitioner had a readily realizable market value within the meaning of section 202 (c) of the Revenue Act of 1921, 42 Stat. 229; and it appearing that it is a question of fact whether the taxpayer has expended all of the money received for real property taken in condemnation proceedings in the purchase of other property similar and related in use [section 203 (b) (5) of the Revenue Act of 1924, 43 Stat. 256]; and there being substantial evidence to support the findings of the Board of Tax Appeals [Old Mission Portland Cement Co. v. Helvering, Commissioner, 293 U.S. 289, 294, 55 S.Ct. 158, 79 L.Ed. 649; Helvering, Commissioner, v. Rankin, Extr., 295 U.S. 123, 131, 55 S.Ct. 732, 79 L.Ed. 1343; Tracy v. Commissioner, 53 F.(2d) 575 (C.C.A.6)];</p>\n<p>The order of the Board of Tax Appeals is affirmed for the reasons stated in its opinion. 30 B.T.A. 8.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">88</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">1009</span></span> (1937)</b></center>\n<center><h1>FRISCHKORN DEVELOPMENT COMPANY, Petitioner,<br>\nv.<br>\nCOMMISSIONER OF INTERNAL REVENUE, Respondent.</h1></center>\n<center>No. 7139.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>March 11, 1937.</center>\n<p>Wm. A. Rhodes, of Detroit, Mich., for petitioner.</p>\n<p>Frank J. Wideman, Asst. Atty. Gen., for respondent.</p>\n<p>Before MOORMAN, HICKS, and ALLEN, Circuit Judges.</p>\n<p>ALLEN, Circuit Judge.</p>\n<p>The court being of opinion that it is a question of fact whether the promissory note and the shares of stock received by the Frischkorn Homes Company as consideration for the transfer of all of its assets to the petitioner had a readily realizable market value within the meaning of section 202 (c) of the Revenue Act of 1921, 42 Stat. 229; and it appearing that it is a question of fact whether the taxpayer has expended all of the money received for real property taken in condemnation proceedings in the purchase of other property similar and related in use [section 203 (b) (5) of the Revenue Act of 1924, 43 Stat. 256]; and there being substantial evidence to support the findings of the Board of Tax Appeals [Old Mission Portland Cement Co. v. Helvering, Commissioner, <span class=\"citation\" data-id=\"102337\"><a href=\"/opinion/102337/old-mission-portland-cement-co-v-helvering/\"><span class=\"volume\">293</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">289</span></a></span>, 294, <span class=\"citation no-link\"><span class=\"volume\">55</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">158</span></span>, 79 L.Ed. 649; Helvering, Commissioner, v. Rankin, Extr., <span class=\"citation no-link\"><span class=\"volume\">295</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">123</span></span>, 131, <span class=\"citation no-link\"><span class=\"volume\">55</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">732</span></span>, 79 L.Ed. 1343; Tracy v. Commissioner, 53 F.(2d) 575 (C.C.A.6)];</p>\n<p>The order of the Board of Tax Appeals is affirmed for the reasons stated in its opinion. 30 B.T.A. 8.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/102337/"
+  ]
+}

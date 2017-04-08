@@ -1,0 +1,24 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1547564/",
+  "absolute_url": "/opinion/1547564/hubbard-ragsdale-company-v-dean/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1547564/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": true,
+  "date_created": "2013-10-30T06:41:10.272074Z",
+  "date_modified": "2016-04-26T21:18:33.798852Z",
+  "type": "010combined",
+  "sha1": "8f6a326d63a4399c45ae515423a8e35c1f932bdd",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>15 F.2d 1013 (1926)</b></center>\n<center><h1>HUBBARD-RAGSDALE COMPANY<br>\nv.<br>\nCharles M. DEAN, Collector of Internal Revenue for the First District of Ohio.</h1></center>\n<center>No. 4693.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>October 15, 1926.</center>\n<p>Norwood J. Utter, of Cincinnati, Ohio, for plaintiff in error.</p>\n<p>Haveth E. Mau, U. S. Atty., and Simon Ross, Asst. U. S. Atty., both of Cincinnati, Ohio, for defendant in error.</p>\n<p><span class=\"star-pagination\">*1014</span> PER CURIAM.</p>\n<p>Judgment of the District Court affirmed, upon the authority of Law v. United States, 266 U. S. 494, 45 S. Ct. 175, 69 L. Ed. 401; Fleischman v. United States, 270 U. S. 349, 46 S. Ct. 284, 70 L. Ed. 624; United States v. Gordin (C. C. A. 6) 9 F.(2d) 394.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">15</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">1013</span></span> (1926)</b></center>\n<center><h1>HUBBARD-RAGSDALE COMPANY<br>\nv.<br>\nCharles M. DEAN, Collector of Internal Revenue for the First District of Ohio.</h1></center>\n<center>No. 4693.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>October 15, 1926.</center>\n<p>Norwood J. Utter, of Cincinnati, Ohio, for plaintiff in error.</p>\n<p>Haveth E. Mau, U. S. Atty., and Simon Ross, Asst. U. S. Atty., both of Cincinnati, Ohio, for defendant in error.</p>\n<p><span class=\"star-pagination\">*1014</span> PER CURIAM.</p>\n<p>Judgment of the District Court affirmed, upon the authority of Law v. United States, <span class=\"citation\" data-id=\"100538\"><a href=\"/opinion/100538/law-v-united-states/\"><span class=\"volume\">266</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">494</span></a></span>, <span class=\"citation no-link\"><span class=\"volume\">45</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">175</span></span>, 69 L. Ed. 401; Fleischman v. United States, <span class=\"citation\" data-id=\"100808\"><a href=\"/opinion/100808/fleischmann-constr-co-v-united-states-ex-rel-forsberg/\"><span class=\"volume\">270</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">349</span></a></span>, <span class=\"citation no-link\"><span class=\"volume\">46</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">284</span></span>, 70 L. Ed. 624; United States v. Gordin (C. C. A. 6) 9 F.(2d) 394.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/100538/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/100808/"
+  ]
+}

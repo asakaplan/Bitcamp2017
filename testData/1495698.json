@@ -1,0 +1,23 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1495698/",
+  "absolute_url": "/opinion/1495698/blue-grass-mining-co-v-richardson/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1495698/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2013-10-30T06:28:58.164465Z",
+  "date_modified": "2016-04-26T04:40:18.377433Z",
+  "type": "010combined",
+  "sha1": "582c72dd49a5acc496f4e3cc1b00700c84ffb346",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>127 F.2d 291 (1942)</b></center>\n<center><h1>BLUE GRASS MINING CO. et al., Appellant,<br>\nv.<br>\nW. E. RICHARDSON et al., Appellees. W. E. RICHARDSON et al., Appellants,<br>\nv.<br>\nBLUE GRASS MINING CO., et al., Appellees.</h1></center>\n<center>Nos. 8870, 8871.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>March 2, 1942.</center>\n<p>S. S. Willis, of Ashland, Ky., and J. W. Craft and W. A. Stanfill, both of Hazard, Ky., for appellants and cross-appellees.</p>\n<p><span class=\"star-pagination\">*292</span> J. R. Simmonds, of Johnson City, Tenn., W. E. Faulkner, of Hazard, Ky., and B. P. Wootton, of Frankfort, Ky., for appellees and cross-appellants.</p>\n<p>Before HICKS, MARTIN, and McALLISTER, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>These causes, which were consolidated for hearing, having been submitted on oral argument, briefs of counsel, and the six-volume record, and the court, having duly considered and deliberated upon the same, is of opinion that the District Court correctly decided all the issues involved, for the reasons clearly and fully appearing in the opinion, findings of fact (supported by substantial evidence), and conclusions of law of the district judge.</p>\n<p>Accordingly, the decree of the district court, 29 F.Supp. 658, is, in all particulars, affirmed.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">127</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">291</span></span> (1942)</b></center>\n<center><h1>BLUE GRASS MINING CO. et al., Appellant,<br>\nv.<br>\nW. E. RICHARDSON et al., Appellees. W. E. RICHARDSON et al., Appellants,<br>\nv.<br>\nBLUE GRASS MINING CO., et al., Appellees.</h1></center>\n<center>Nos. 8870, 8871.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>March 2, 1942.</center>\n<p>S. S. Willis, of Ashland, Ky., and J. W. Craft and W. A. Stanfill, both of Hazard, Ky., for appellants and cross-appellees.</p>\n<p><span class=\"star-pagination\">*292</span> J. R. Simmonds, of Johnson City, Tenn., W. E. Faulkner, of Hazard, Ky., and B. P. Wootton, of Frankfort, Ky., for appellees and cross-appellants.</p>\n<p>Before HICKS, MARTIN, and McALLISTER, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>These causes, which were consolidated for hearing, having been submitted on oral argument, briefs of counsel, and the six-volume record, and the court, having duly considered and deliberated upon the same, is of opinion that the District Court correctly decided all the issues involved, for the reasons clearly and fully appearing in the opinion, findings of fact (supported by substantial evidence), and conclusions of law of the district judge.</p>\n<p>Accordingly, the decree of the district court, <span class=\"citation\" data-id=\"1480282\"><a href=\"/opinion/1480282/richardson-v-blue-grass-mining-co/\"><span class=\"volume\">29</span> <span class=\"reporter\">F. Supp.</span> <span class=\"page\">658</span></a></span>, is, in all particulars, affirmed.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/1480282/"
+  ]
+}

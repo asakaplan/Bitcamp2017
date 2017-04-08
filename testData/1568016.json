@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1568016/",
+  "absolute_url": "/opinion/1568016/commissioner-of-internal-revenue-v-camden/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1568016/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2013-10-30T06:48:07.869170Z",
+  "date_modified": "2016-04-26T12:52:30.150860Z",
+  "type": "010combined",
+  "sha1": "e572a05db22c29dae1ef7a253640c840b7188518",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>139 F.2d 697 (1943)</b></center>\n<center><h1>COMMISSIONER OF INTERNAL REVENUE, Petitioner,<br>\nv.<br>\nAgnes McEvoy CAMDEN, Respondent.</h1></center>\n<center>No. 9575.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>December 15, 1943.</center>\n<p>Samuel O. Clark, Jr., J. P. Wenchel, Sewall Key, Bernard D. Daniels, J. Louis Monarch, and L. W. Post, all of Washington, D. C., for petitioner.</p>\n<p><span class=\"star-pagination\">*698</span> Bradley &amp; Blanton, of Paris, Ky., and Woodward, Dawson &amp; Hobson, of Louisville, Ky., for respondent.</p>\n<p>Before ALLEN, HAMILTON, and McALLISTER, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>This case came on to be heard on the record and briefs and oral argument of counsel. On consideration whereof, it appearing that the sale by the taxpayer of a life estate in real property owned by herself, the proceeds of which the Commissioner sought to tax as income from rental on a lease, was a sale of a capital asset within the meaning of Sec. 117(b) of the Revenue Act of 1936, 26 U.S.C.A. Int.Rev. Acts, page 874: It is ordered that the decision of the United States Board of Tax Appeals (now the Tax Court of the United States) be, and it hereby is, affirmed.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">139</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">697</span></span> (1943)</b></center>\n<center><h1>COMMISSIONER OF INTERNAL REVENUE, Petitioner,<br>\nv.<br>\nAgnes McEvoy CAMDEN, Respondent.</h1></center>\n<center>No. 9575.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>December 15, 1943.</center>\n<p>Samuel O. Clark, Jr., J. P. Wenchel, Sewall Key, Bernard D. Daniels, J. Louis Monarch, and L. W. Post, all of Washington, D. C., for petitioner.</p>\n<p><span class=\"star-pagination\">*698</span> Bradley &amp; Blanton, of Paris, Ky., and Woodward, Dawson &amp; Hobson, of Louisville, Ky., for respondent.</p>\n<p>Before ALLEN, HAMILTON, and McALLISTER, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>This case came on to be heard on the record and briefs and oral argument of counsel. On consideration whereof, it appearing that the sale by the taxpayer of a life estate in real property owned by herself, the proceeds of which the Commissioner sought to tax as income from rental on a lease, was a sale of a capital asset within the meaning of Sec. 117(b) of the Revenue Act of 1936, 26 U.S.C.A. Int.Rev. Acts, page 874: It is ordered that the decision of the United States Board of Tax Appeals (now the Tax Court of the United States) be, and it hereby is, affirmed.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

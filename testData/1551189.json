@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1551189/",
+  "absolute_url": "/opinion/1551189/commissioner-of-internal-revenue-v-motor-products-corporation/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1551189/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2013-10-30T06:42:07.298740Z",
+  "date_modified": "2016-02-29T15:55:00.883731Z",
+  "type": "010combined",
+  "sha1": "0b2528f8307fa1a441a2201426df10ca99b7b0e1",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>142 F.2d 449 (1944)</b></center>\n<center><h1>COMMISSIONER OF INTERNAL REVENUE, Petitioner,<br>\nv.<br>\nMOTOR PRODUCTS CORPORATION, Respondent. MOTOR PRODUCTS CORPORATION, Petitioner,<br>\nv.<br>\nCOMMISSIONER OF INTERNAL REVENUE, Respondent.</h1></center>\n<center>Nos. 9623, 9624.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>April 13, 1944.</center>\n<p>Samuel O. Clark, Jr., J. P. Wenchel, Sewall Key, Charles E. Lowery, Helen R. Carloss, and Ray A. Brown, all of Washington, <span class=\"star-pagination\">*450</span> D. C., for Commissioner of Internal Revenue.</p>\n<p>Sherwin A. Hill and Thomas H. Adams, both of Detroit, Mich., for Motor Products Corporation.</p>\n<p>Before ALLEN, HAMILTON, and MARTIN, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>These consolidated cases came on for hearing upon the record and briefs and oral argument of counsel. On consideration whereof, it is ordered that the decision of the Tax Court of the United States, 47 B. T.A. 983, be and it hereby is affirmed, for the reasons stated in the findings of fact and opinion of the United States Board of Tax Appeals (now the Tax Court of the United States), promulgated November 10, 1942.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">142</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">449</span></span> (1944)</b></center>\n<center><h1>COMMISSIONER OF INTERNAL REVENUE, Petitioner,<br>\nv.<br>\nMOTOR PRODUCTS CORPORATION, Respondent. MOTOR PRODUCTS CORPORATION, Petitioner,<br>\nv.<br>\nCOMMISSIONER OF INTERNAL REVENUE, Respondent.</h1></center>\n<center>Nos. 9623, 9624.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>April 13, 1944.</center>\n<p>Samuel O. Clark, Jr., J. P. Wenchel, Sewall Key, Charles E. Lowery, Helen R. Carloss, and Ray A. Brown, all of Washington, <span class=\"star-pagination\">*450</span> D. C., for Commissioner of Internal Revenue.</p>\n<p>Sherwin A. Hill and Thomas H. Adams, both of Detroit, Mich., for Motor Products Corporation.</p>\n<p>Before ALLEN, HAMILTON, and MARTIN, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>These consolidated cases came on for hearing upon the record and briefs and oral argument of counsel. On consideration whereof, it is ordered that the decision of the Tax Court of the United States, 47 B. T.A. 983, be and it hereby is affirmed, for the reasons stated in the findings of fact and opinion of the United States Board of Tax Appeals (now the Tax Court of the United States), promulgated November 10, 1942.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1480545/",
+  "absolute_url": "/opinion/1480545/kentucky-river-coal-corporation-v-lucas/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1480545/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": true,
+  "date_created": "2013-10-30T06:25:56.669287Z",
+  "date_modified": "2016-04-27T02:43:52.757478Z",
+  "type": "010combined",
+  "sha1": "8cfaf065323c697036cb6cbe6a3c380606ac459a",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>63 F.2d 1007 (1932)</b></center>\n<center><h1>KENTUCKY RIVER COAL CORPORATION<br>\nv.<br>\nRobert H. LUCAS, Formerly Collector of Internal Revenue for District of Kentucky.</h1></center>\n<center>No. 6048.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>December 8, 1932.</center>\n<p><span class=\"star-pagination\">*1008</span> Woodward, Hamilton &amp; Hobson, of Louisville, Ky., for appellant.</p>\n<p>Frank A. Ropke, Asst. U. S. Atty., of Louisville, Ky., for appellee.</p>\n<p>PER CURIAM.</p>\n<p>Judgment of District Court [51 F.(2d) 586] affirmed.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">63</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">1007</span></span> (1932)</b></center>\n<center><h1>KENTUCKY RIVER COAL CORPORATION<br>\nv.<br>\nRobert H. LUCAS, Formerly Collector of Internal Revenue for District of Kentucky.</h1></center>\n<center>No. 6048.</center>\n<center><p><b>Circuit Court of Appeals, Sixth Circuit.</b></p></center>\n<center>December 8, 1932.</center>\n<p><span class=\"star-pagination\">*1008</span> Woodward, Hamilton &amp; Hobson, of Louisville, Ky., for appellant.</p>\n<p>Frank A. Ropke, Asst. U. S. Atty., of Louisville, Ky., for appellee.</p>\n<p>PER CURIAM.</p>\n<p>Judgment of District Court [51 F.(2d) 586] affirmed.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

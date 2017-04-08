@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1372537/",
+  "absolute_url": "/opinion/1372537/bell-v-jones/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1372537/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2013-10-30T05:50:20.047536Z",
+  "date_modified": "2016-04-26T14:21:45.118192Z",
+  "type": "010combined",
+  "sha1": "40018b3edb3b76cf3286f1bbf34b827314e87e0c",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>561 F.3d 655 (2009)</b></center>\n<center><h1>Derrick BELL, Petitioner-Appellant,<br>\nv.<br>\nKurt JONES, Warden, Carson City Correctional Facility, Respondent-Appellee.</h1></center>\n<center>No. 08-1775.</center>\n<center><p><b>United States Court of Appeals, Sixth Circuit.</b></p></center>\n<center>April 14, 2009.</center>\n<p>Derrick Bell, Carson City, MI, pro se.</p>\n<p>Raina I. Korbakis, Assistant Attorney General, Office of the Michigan Attorney <span class=\"star-pagination\">*656</span> General, Appellate Division, Brenda E. Turner, Office of the Attorney General, Habeas Corpus Division, Lansing, MI, for Respondent-Appellee.</p>\n<p>Before: MERRITT, MARTIN, and SUHRHEI RICH, Circuit Judges.</p>\n<p></p>\n<h2>ORDER</h2>\n<p>Derrick Bell, a pro se Michigan prisoner, petitions the court to rehear en banc an order denying him a certificate of appealability. The motion has been referred to this panel of three judges, two of whom are senior judges, on which the original deciding judge does not sit, for a determination on the merits of the petition for rehearing. We conclude that the original deciding judge did not misapprehend or overlook any point of law or fact when he issued his order, and, accordingly, declines to rehear the matter. Fed. R.App. P. 40(a).</p>\n<p>The Clerk shall now refer the matter to all of the active eligible members of the court for further proceedings on the suggestion for en banc rehearing.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">561</span> <span class=\"reporter\">F.3d</span> <span class=\"page\">655</span></span> (2009)</b></center>\n<center><h1>Derrick BELL, Petitioner-Appellant,<br>\nv.<br>\nKurt JONES, Warden, Carson City Correctional Facility, Respondent-Appellee.</h1></center>\n<center>No. 08-1775.</center>\n<center><p><b>United States Court of Appeals, Sixth Circuit.</b></p></center>\n<center>April 14, 2009.</center>\n<p>Derrick Bell, Carson City, MI, pro se.</p>\n<p>Raina I. Korbakis, Assistant Attorney General, Office of the Michigan Attorney <span class=\"star-pagination\">*656</span> General, Appellate Division, Brenda E. Turner, Office of the Attorney General, Habeas Corpus Division, Lansing, MI, for Respondent-Appellee.</p>\n<p>Before: MERRITT, MARTIN, and SUHRHEI RICH, Circuit Judges.</p>\n<p></p>\n<h2>ORDER</h2>\n<p>Derrick Bell, a pro se Michigan prisoner, petitions the court to rehear en banc an order denying him a certificate of appealability. The motion has been referred to this panel of three judges, two of whom are senior judges, on which the original deciding judge does not sit, for a determination on the merits of the petition for rehearing. We conclude that the original deciding judge did not misapprehend or overlook any point of law or fact when he issued his order, and, accordingly, declines to rehear the matter. Fed. R.App. P. 40(a).</p>\n<p>The Clerk shall now refer the matter to all of the active eligible members of the court for further proceedings on the suggestion for en banc rehearing.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

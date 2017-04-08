@@ -1,0 +1,7458 @@
+{
+  "entities": [
+    {
+      "relevance": 0.920496,
+      "type": "GeographicFeature",
+      "text": "Lake Bluff",
+      "count": 66
+    },
+    {
+      "disambiguation": {
+        "name": "Lake Bluff, Illinois",
+        "dbpedia_resource": "http://dbpedia.org/resource/Lake_Bluff,_Illinois",
+        "subtype": [
+          "City"
+        ]
+      },
+      "relevance": 0.459134,
+      "type": "Location",
+      "text": "Lake Bluff",
+      "count": 6
+    },
+    {
+      "relevance": 0.389721,
+      "type": "GeographicFeature",
+      "text": "Lake Bluff III",
+      "count": 4
+    },
+    {
+      "relevance": 0.364652,
+      "type": "Organization",
+      "text": "Lake Bluff Housing Partners",
+      "count": 3
+    },
+    {
+      "relevance": 0.328162,
+      "type": "GeographicFeature",
+      "text": "Lake Bluff II",
+      "count": 3
+    },
+    {
+      "relevance": 0.296331,
+      "type": "Location",
+      "text": "Lake Bluff Housing",
+      "count": 1
+    },
+    {
+      "disambiguation": {
+        "name": "Wisconsin Supreme Court",
+        "dbpedia_resource": "http://dbpedia.org/resource/Wisconsin_Supreme_Court",
+        "subtype": []
+      },
+      "relevance": 0.244379,
+      "type": "Organization",
+      "text": "Wisconsin Supreme Court",
+      "count": 1
+    },
+    {
+      "disambiguation": {
+        "name": "Wisconsin",
+        "dbpedia_resource": "http://dbpedia.org/resource/Wisconsin",
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ]
+      },
+      "relevance": 0.2439,
+      "type": "Location",
+      "text": "Wis.",
+      "count": 11
+    },
+    {
+      "disambiguation": {
+        "name": "Court of Appeal of Cameroon",
+        "dbpedia_resource": "http://dbpedia.org/resource/Court_of_Appeal_of_Cameroon",
+        "subtype": []
+      },
+      "relevance": 0.242199,
+      "type": "Organization",
+      "text": "Court of Appeals",
+      "count": 1
+    },
+    {
+      "disambiguation": {
+        "name": "Milwaukee",
+        "dbpedia_resource": "http://dbpedia.org/resource/Milwaukee",
+        "subtype": [
+          "PlaceWithNeighborhoods",
+          "City"
+        ]
+      },
+      "relevance": 0.20013,
+      "type": "Location",
+      "text": "MILWAUKEE",
+      "count": 9
+    },
+    {
+      "relevance": 0.156161,
+      "type": "Person",
+      "text": "Goode",
+      "count": 4
+    },
+    {
+      "relevance": 0.152595,
+      "type": "Location",
+      "text": "Lake Bluff.",
+      "count": 1
+    },
+    {
+      "relevance": 0.150999,
+      "type": "Location",
+      "text": "Ct",
+      "count": 5
+    },
+    {
+      "disambiguation": {
+        "name": "Forest County, Wisconsin",
+        "dbpedia_resource": "http://dbpedia.org/resource/Forest_County,_Wisconsin",
+        "subtype": [
+          "AdministrativeDivision",
+          "USCounty",
+          "StateOrCounty"
+        ]
+      },
+      "relevance": 0.134829,
+      "type": "Location",
+      "text": "Forest County",
+      "count": 1
+    },
+    {
+      "relevance": 0.134242,
+      "type": "Location",
+      "text": "R-A",
+      "count": 2
+    },
+    {
+      "disambiguation": {
+        "name": "Gillian Murphy",
+        "dbpedia_resource": "http://dbpedia.org/resource/Gillian_Murphy",
+        "subtype": []
+      },
+      "relevance": 0.133239,
+      "type": "Person",
+      "text": "Joseph G. Murphy",
+      "count": 1
+    },
+    {
+      "disambiguation": {
+        "name": "South Milwaukee, Wisconsin",
+        "dbpedia_resource": "http://dbpedia.org/resource/South_Milwaukee,_Wisconsin",
+        "subtype": [
+          "City"
+        ]
+      },
+      "relevance": 0.132752,
+      "type": "Location",
+      "text": "South Milwaukee",
+      "count": 2
+    },
+    {
+      "relevance": 0.12758,
+      "type": "Organization",
+      "text": "WHEDA",
+      "count": 5
+    },
+    {
+      "relevance": 0.126628,
+      "type": "Location",
+      "text": "WI",
+      "count": 1
+    },
+    {
+      "relevance": 0.122674,
+      "type": "Location",
+      "text": "South Milwaukee",
+      "count": 1
+    },
+    {
+      "relevance": 0.120675,
+      "type": "Person",
+      "text": "Wedemeyer",
+      "count": 2
+    },
+    {
+      "relevance": 0.118634,
+      "type": "Location",
+      "text": "Wisconsin.",
+      "count": 1
+    },
+    {
+      "disambiguation": {
+        "name": "Security Pacific Bank",
+        "dbpedia_resource": "http://dbpedia.org/resource/Security_Pacific_Bank",
+        "subtype": []
+      },
+      "relevance": 0.118308,
+      "type": "Company",
+      "text": "Security Pacific National Bank",
+      "count": 1
+    },
+    {
+      "disambiguation": {
+        "name": "Ralph Adam Fine",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ralph_Adam_Fine",
+        "subtype": []
+      },
+      "relevance": 0.118037,
+      "type": "Person",
+      "text": "Judge Ralph Adam Fine",
+      "count": 1
+    },
+    {
+      "relevance": 0.116911,
+      "type": "Location",
+      "text": "Milwaukee.",
+      "count": 2
+    },
+    {
+      "relevance": 0.113387,
+      "type": "Person",
+      "text": "Fox",
+      "count": 1
+    },
+    {
+      "relevance": 0.113372,
+      "type": "Location",
+      "text": "S.C.",
+      "count": 1
+    },
+    {
+      "relevance": 0.113338,
+      "type": "Person",
+      "text": "Diane Slomowitz",
+      "count": 1
+    },
+    {
+      "relevance": 0.107689,
+      "type": "Person",
+      "text": "Bruce C. O'Neill",
+      "count": 2
+    },
+    {
+      "relevance": 0.10733,
+      "type": "Organization",
+      "text": "Charolais Breeding Ranches",
+      "count": 1
+    },
+    {
+      "relevance": 0.106336,
+      "type": "Organization",
+      "text": "Kenosha County Board of Adjustment",
+      "count": 1
+    },
+    {
+      "relevance": 0.104722,
+      "type": "Person",
+      "text": "P.J.",
+      "count": 2
+    },
+    {
+      "relevance": 0.10456,
+      "type": "Company",
+      "text": "C. General Equities.",
+      "count": 1
+    },
+    {
+      "relevance": 0.104132,
+      "type": "Person",
+      "text": "JJ.",
+      "count": 1
+    },
+    {
+      "relevance": 0.103934,
+      "type": "Person",
+      "text": "Shannon",
+      "count": 1
+    },
+    {
+      "relevance": 0.103864,
+      "type": "Company",
+      "text": "FPC Securities",
+      "count": 1
+    },
+    {
+      "relevance": 0.103859,
+      "type": "Person",
+      "text": "Ginkowski",
+      "count": 1
+    },
+    {
+      "disambiguation": {
+        "name": "Belle Terre, New York",
+        "dbpedia_resource": "http://dbpedia.org/resource/Belle_Terre,_New_York",
+        "subtype": [
+          "GovernmentalJurisdiction",
+          "City"
+        ]
+      },
+      "relevance": 0.102821,
+      "type": "Location",
+      "text": "Belle Terre",
+      "count": 1
+    },
+    {
+      "relevance": 0.101127,
+      "type": "Person",
+      "text": "Carter",
+      "count": 1
+    },
+    {
+      "relevance": 0.100075,
+      "type": "Person",
+      "text": "Curley",
+      "count": 1
+    },
+    {
+      "relevance": 0.0994481,
+      "type": "Company",
+      "text": "WHEDA",
+      "count": 2
+    },
+    {
+      "relevance": 0.0985294,
+      "type": "Person",
+      "text": "Boraas",
+      "count": 1
+    },
+    {
+      "relevance": 0.0966717,
+      "type": "Person",
+      "text": "Harper",
+      "count": 1
+    },
+    {
+      "relevance": 0.0938544,
+      "type": "Person",
+      "text": "Marshall",
+      "count": 1
+    },
+    {
+      "relevance": 0.0908069,
+      "type": "Organization",
+      "text": "Wisconsin Housing and Economic Development Authority",
+      "count": 1
+    },
+    {
+      "relevance": 0.0908069,
+      "type": "Quantity",
+      "text": "million dollar",
+      "count": 1
+    }
+  ],
+  "language": "en",
+  "relations": [
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "<br>\nCITY"
+            }
+          ],
+          "text": "<br>\nCITY"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "SOUTH MILWAUKEE"
+            }
+          ],
+          "text": "SOUTH MILWAUKEE"
+        }
+      ],
+      "score": 0.872433,
+      "type": "residesIn",
+      "sentence": "<br> CITY OF SOUTH MILWAUKEE, Defendant-Respondent."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "claims"
+            }
+          ],
+          "text": "claims"
+        }
+      ],
+      "score": 0.984306,
+      "type": "agentOf",
+      "sentence": "Lake Bluff claims the trial court erred when it found that there were no compelling equitable reasons to allow the Lake Bluff buildings to remain on the property."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "contends"
+            }
+          ],
+          "text": "contends"
+        }
+      ],
+      "score": 0.503935,
+      "type": "affectedBy",
+      "sentence": "Lake Bluff contends that the trial court erroneously exercised its discretion when it did not conclude that the City acted with unclean hands."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.572683,
+      "type": "affectedBy",
+      "sentence": "Lake Bluff contends that the trial court erroneously exercised its discretion when it did not conclude that the City acted with unclean hands."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "claims"
+            }
+          ],
+          "text": "claims"
+        }
+      ],
+      "score": 0.998711,
+      "type": "agentOf",
+      "sentence": "Lake Bluff claims that the City had unclean hands because it failed to respond to Lake Bluff's inquiries about the plans submitted for approval, and because the City enacted a building moratorium in 1993 while it was considering a request to rezone the property."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "City"
+            }
+          ],
+          "text": "City"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "building"
+            }
+          ],
+          "text": "building"
+        }
+      ],
+      "score": 0.448755,
+      "type": "ownerOf",
+      "sentence": "Lake Bluff claims that the City had unclean hands because it failed to respond to Lake Bluff's inquiries about the plans submitted for approval, and because the City enacted a building moratorium in 1993 while it was considering a request to rezone the property."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.564846,
+      "type": "agentOf",
+      "sentence": "The trial court addressed both concerns in its twenty-seven page written opinion."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "addressed"
+            }
+          ],
+          "text": "addressed"
+        }
+      ],
+      "score": 0.884023,
+      "type": "agentOf",
+      "sentence": "The trial court addressed both concerns in its twenty-seven page written opinion."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</p>\n<p>\u00b6"
+            }
+          ],
+          "text": "</p>\n<p>\u00b6"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.488797,
+      "type": "agentOf",
+      "sentence": "</p> <p>\u00b6 13. The trial court first set forth the pertinent law, citing <i>Security Pacific National Bank v."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.492342,
+      "type": "agentOf",
+      "sentence": "</p> <p>\u00b6 13. The trial court first set forth the pertinent law, citing <i>Security Pacific National Bank v."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "<i>Security"
+            }
+          ],
+          "text": "<i>Security"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeographicFeature",
+              "text": "Pacific"
+            }
+          ],
+          "text": "Pacific"
+        }
+      ],
+      "score": 0.391547,
+      "type": "locatedAt",
+      "sentence": "</p> <p>\u00b6 13. The trial court first set forth the pertinent law, citing <i>Security Pacific National Bank v."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Cardinal",
+              "text": "332"
+            }
+          ],
+          "text": "332"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Wis."
+            }
+          ],
+          "text": "Wis."
+        }
+      ],
+      "score": 0.40463,
+      "type": "populationOf",
+      "sentence": "Ginkowski,</i> 140 Wis. 2d 332, 410 N.W.2d 589 (Ct."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "buildings"
+            }
+          ],
+          "text": "buildings"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        }
+      ],
+      "score": 0.929548,
+      "type": "locatedAt",
+      "sentence": "Lake Bluff claims the trial court erred when it found that there were no compelling equitable reasons to allow the Lake Bluff buildings to remain on the property."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</p>\n<blockquote>"
+            }
+          ],
+          "text": "</p>\n<blockquote>"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "denied"
+            }
+          ],
+          "text": "denied"
+        }
+      ],
+      "score": 0.733722,
+      "type": "agentOf",
+      "sentence": "1987):</p> <blockquote>For relief to be denied a plaintiff in equity under the \"clean hands\" doctrine, it must be shown that the alleged conduct constituting \"unclean hands\" caused the harm from which the plaintiff seeks relief.... \"[I]t must clearly appear that the things from which the plaintiff seeks relief are the fruit of <i>its own</i> wrongful or unlawful course of conduct."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "plaintiff"
+            }
+          ],
+          "text": "plaintiff"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "denied"
+            }
+          ],
+          "text": "denied"
+        }
+      ],
+      "score": 0.665945,
+      "type": "affectedBy",
+      "sentence": "1987):</p> <blockquote>For relief to be denied a plaintiff in equity under the \"clean hands\" doctrine, it must be shown that the alleged conduct constituting \"unclean hands\" caused the harm from which the plaintiff seeks relief.... \"[I]t must clearly appear that the things from which the plaintiff seeks relief are the fruit of <i>its own</i> wrongful or unlawful course of conduct."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "<p>"
+            }
+          ],
+          "text": "<p>"
+        },
+        {
+          "entities": [
+            {
+              "type": "TitleWork",
+              "text": "</blockquote>"
+            }
+          ],
+          "text": "</blockquote>"
+        }
+      ],
+      "score": 0.494978,
+      "type": "authorOf",
+      "sentence": "\"</blockquote> <p><span class=\"star-pagination\">*794</span> <i>Id."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "<i>Id"
+            }
+          ],
+          "text": "<i>Id"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "</span>"
+            }
+          ],
+          "text": "</span>"
+        }
+      ],
+      "score": 0.407122,
+      "type": "locatedAt",
+      "sentence": "\"</blockquote> <p><span class=\"star-pagination\">*794</span> <i>Id."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.476304,
+      "type": "agentOf",
+      "sentence": "The trial court found that the \"`conduct constituting unclean hands' ... was not the building moratorium or the failure to respond to Lake Bluff's inquiries."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.497458,
+      "type": "agentOf",
+      "sentence": "\" The trial court further found that although the City did contribute to making the Lake Bluff buildings nonconforming by changing the zoning classification and by challenging the legality of the project, neither action was \"wrongful or unlawful ... conduct."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "buildings"
+            }
+          ],
+          "text": "buildings"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        }
+      ],
+      "score": 0.835184,
+      "type": "locatedAt",
+      "sentence": "\" The trial court further found that although the City did contribute to making the Lake Bluff buildings nonconforming by changing the zoning classification and by challenging the legality of the project, neither action was \"wrongful or unlawful ... conduct."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.490554,
+      "type": "agentOf",
+      "sentence": "\" The trial court was correct."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</p>\n<p>[3]</p>\n<p>\u00b6"
+            }
+          ],
+          "text": "</p>\n<p>[3]</p>\n<p>\u00b6"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.477492,
+      "type": "agentOf",
+      "sentence": "</p> <p>[3]</p> <p>\u00b6 14. The trial court's decision was based in part upon Lake Bluff's own actions."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.529641,
+      "type": "agentOf",
+      "sentence": "</p> <p>[3]</p> <p>\u00b6 14. The trial court's decision was based in part upon Lake Bluff's own actions."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "buildings"
+            }
+          ],
+          "text": "buildings"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "property"
+            }
+          ],
+          "text": "property"
+        }
+      ],
+      "score": 0.450638,
+      "type": "locatedAt",
+      "sentence": "Lake Bluff claims the trial court erred when it found that there were no compelling equitable reasons to allow the Lake Bluff buildings to remain on the property."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.428301,
+      "type": "agentOf",
+      "sentence": "The trial court found that Lake Bluff's decision to build the apartment buildings on the R-A zoned property was \"a business decision,\" based primarily on \"potential financial gain."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "apartment buildings"
+            }
+          ],
+          "text": "apartment buildings"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "R-A zoned"
+            }
+          ],
+          "text": "R-A zoned"
+        }
+      ],
+      "score": 0.653598,
+      "type": "locatedAt",
+      "sentence": "The trial court found that Lake Bluff's decision to build the apartment buildings on the R-A zoned property was \"a business decision,\" based primarily on \"potential financial gain."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "apartment buildings"
+            }
+          ],
+          "text": "apartment buildings"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "property"
+            }
+          ],
+          "text": "property"
+        }
+      ],
+      "score": 0.75311,
+      "type": "locatedAt",
+      "sentence": "The trial court found that Lake Bluff's decision to build the apartment buildings on the R-A zoned property was \"a business decision,\" based primarily on \"potential financial gain."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "R-A zoned"
+            }
+          ],
+          "text": "R-A zoned"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "property"
+            }
+          ],
+          "text": "property"
+        }
+      ],
+      "score": 0.819491,
+      "type": "partOfMany",
+      "sentence": "The trial court found that Lake Bluff's decision to build the apartment buildings on the R-A zoned property was \"a business decision,\" based primarily on \"potential financial gain."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.49954,
+      "type": "agentOf",
+      "sentence": "\" The trial court found that there \"were signs along the way which warned Lake Bluff of the magnitude of the risk it was taking."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "City"
+            }
+          ],
+          "text": "City"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "appeal"
+            }
+          ],
+          "text": "appeal"
+        }
+      ],
+      "score": 0.969181,
+      "type": "agentOf",
+      "sentence": "\" These signs included the City's appeal, the language in the building permits indicating the permits were issued solely to comply with the trial court's order, the language in the occupancy permits stating that the permits were \"subject to revocation,\" Judge Ralph Adam Fine's dissent in <i>Lake Bluff I,</i> and the supreme court's decision to grant the City's petition for review."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.448792,
+      "type": "agentOf",
+      "sentence": "\" These signs included the City's appeal, the language in the building permits indicating the permits were issued solely to comply with the trial court's order, the language in the occupancy permits stating that the permits were \"subject to revocation,\" Judge Ralph Adam Fine's dissent in <i>Lake Bluff I,</i> and the supreme court's decision to grant the City's petition for review."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "order"
+            }
+          ],
+          "text": "order"
+        }
+      ],
+      "score": 0.927675,
+      "type": "agentOf",
+      "sentence": "\" These signs included the City's appeal, the language in the building permits indicating the permits were issued solely to comply with the trial court's order, the language in the occupancy permits stating that the permits were \"subject to revocation,\" Judge Ralph Adam Fine's dissent in <i>Lake Bluff I,</i> and the supreme court's decision to grant the City's petition for review."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.50439,
+      "type": "agentOf",
+      "sentence": "The trial court found, as a result, that the harm was caused by Lake Bluff's business decision to proceed with construction before the final legality was determined."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.564846,
+      "type": "agentOf",
+      "sentence": "In essence, the trial court concluded that <span class=\"star-pagination\">*795</span> Lake Bluff was the party with unclean hands."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Goode,</i>"
+            }
+          ],
+          "text": "Goode,</i>"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Wis."
+            }
+          ],
+          "text": "Wis."
+        }
+      ],
+      "score": 0.547834,
+      "type": "residesIn",
+      "sentence": "Goode,</i> 219 Wis. 2d 654, 681-85, 579 N.W.2d 715 (1998), there was no erroneous exercise of discretion."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "concluded"
+            }
+          ],
+          "text": "concluded"
+        }
+      ],
+      "score": 0.955622,
+      "type": "agentOf",
+      "sentence": "In essence, the trial court concluded that <span class=\"star-pagination\">*795</span> Lake Bluff was the party with unclean hands."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "class=\"star-pagination\">"
+            }
+          ],
+          "text": "class=\"star-pagination\">"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "</span> Lake"
+            }
+          ],
+          "text": "</span> Lake"
+        }
+      ],
+      "score": 0.620678,
+      "type": "locatedAt",
+      "sentence": "In essence, the trial court concluded that <span class=\"star-pagination\">*795</span> Lake Bluff was the party with unclean hands."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Bluff"
+            }
+          ],
+          "text": "Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "</span> Lake"
+            }
+          ],
+          "text": "</span> Lake"
+        }
+      ],
+      "score": 0.477908,
+      "type": "locatedAt",
+      "sentence": "In essence, the trial court concluded that <span class=\"star-pagination\">*795</span> Lake Bluff was the party with unclean hands."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.541053,
+      "type": "agentOf",
+      "sentence": "The trial court's findings were not clearly erroneous, and its decision was reasonable."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</i></p>\n<p>\u00b6"
+            }
+          ],
+          "text": "</i></p>\n<p>\u00b6"
+        },
+        {
+          "entities": [
+            {
+              "type": "Age",
+              "text": "15"
+            }
+          ],
+          "text": "15"
+        }
+      ],
+      "score": 0.975271,
+      "type": "hasAttribute",
+      "sentence": "</i></p> <p>\u00b6 15."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "claims"
+            }
+          ],
+          "text": "claims"
+        }
+      ],
+      "score": 0.957368,
+      "type": "agentOf",
+      "sentence": "Lake Bluff also claims that the trial court's decision to order the buildings razed was erroneous because such action would cause \"unnecessary hardship."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.529287,
+      "type": "agentOf",
+      "sentence": "Lake Bluff also claims that the trial court's decision to order the buildings razed was erroneous because such action would cause \"unnecessary hardship."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</p>\n<p>[4]</p>\n<p>\u00b6"
+            }
+          ],
+          "text": "</p>\n<p>[4]</p>\n<p>\u00b6"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.557051,
+      "type": "agentOf",
+      "sentence": "</p> <p>[4]</p> <p>\u00b6 16. The trial court addressed the \"unnecessary hardship\" factor in its written decision, citing <i>State v."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.449018,
+      "type": "agentOf",
+      "sentence": "</p> <p>[4]</p> <p>\u00b6 16. The trial court addressed the \"unnecessary hardship\" factor in its written decision, citing <i>State v."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "addressed"
+            }
+          ],
+          "text": "addressed"
+        }
+      ],
+      "score": 0.924545,
+      "type": "agentOf",
+      "sentence": "</p> <p>[4]</p> <p>\u00b6 16. The trial court addressed the \"unnecessary hardship\" factor in its written decision, citing <i>State v."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Cardinal",
+              "text": "654"
+            }
+          ],
+          "text": "654"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Wis."
+            }
+          ],
+          "text": "Wis."
+        }
+      ],
+      "score": 0.336989,
+      "type": "populationOf",
+      "sentence": "Goode,</i> 219 Wis. 2d 654, 681-85, 579 N.W.2d 715 (1998), there was no erroneous exercise of discretion."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "citing"
+            }
+          ],
+          "text": "citing"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "addressed"
+            }
+          ],
+          "text": "addressed"
+        }
+      ],
+      "score": 0.742911,
+      "type": "partOf",
+      "sentence": "</p> <p>[4]</p> <p>\u00b6 16. The trial court addressed the \"unnecessary hardship\" factor in its written decision, citing <i>State v."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "<i>"
+            }
+          ],
+          "text": "<i>"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "State"
+            }
+          ],
+          "text": "State"
+        }
+      ],
+      "score": 0.674761,
+      "type": "managerOf",
+      "sentence": "</p> <p>[4]</p> <p>\u00b6 16. The trial court addressed the \"unnecessary hardship\" factor in its written decision, citing <i>State v."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Board of Adjustment,</i> 218 Wis."
+            }
+          ],
+          "text": "Board of Adjustment,</i> 218 Wis."
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Kenosha County"
+            }
+          ],
+          "text": "Kenosha County"
+        }
+      ],
+      "score": 0.993499,
+      "type": "partOf",
+      "sentence": "Kenosha County Board of Adjustment,</i> 218 Wis. 2d 396, 577 N.W.2d 813 (1998), which sets forth the standard applied to that term."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "explained"
+            }
+          ],
+          "text": "explained"
+        }
+      ],
+      "score": 0.956749,
+      "type": "agentOf",
+      "sentence": "The court explained that: \"the proper test is not whether a variance would maximize the economic value of the property, but whether a feasible use is possible without the variance."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</i></p>\n<p>\u00b6"
+            }
+          ],
+          "text": "</i></p>\n<p>\u00b6"
+        },
+        {
+          "entities": [
+            {
+              "type": "Age",
+              "text": "17"
+            }
+          ],
+          "text": "17"
+        }
+      ],
+      "score": 0.95434,
+      "type": "hasAttribute",
+      "sentence": "</i></p> <p>\u00b6 17."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.471069,
+      "type": "agentOf",
+      "sentence": "Here, the trial court found that a reasonable use for the property in compliance with the R-A zoning was possible."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "property"
+            }
+          ],
+          "text": "property"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "R-A zoning"
+            }
+          ],
+          "text": "R-A zoning"
+        }
+      ],
+      "score": 0.50721,
+      "type": "locatedAt",
+      "sentence": "Here, the trial court found that a reasonable use for the property in compliance with the R-A zoning was possible."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "argues"
+            }
+          ],
+          "text": "argues"
+        }
+      ],
+      "score": 0.997753,
+      "type": "agentOf",
+      "sentence": "Lake Bluff argues that the City's plan to build ten single-family homes on this piece of property was unreasonable and they would never provide the economic value that the apartment buildings would provide."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "they"
+            }
+          ],
+          "text": "they"
+        }
+      ],
+      "score": 0.509852,
+      "type": "partOfMany",
+      "sentence": "Lake Bluff argues that the City's plan to build ten single-family homes on this piece of property was unreasonable and they would never provide the economic value that the apartment buildings would provide."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</p>\n<p>[5]</p>\n<p>\u00b6"
+            }
+          ],
+          "text": "</p>\n<p>[5]</p>\n<p>\u00b6"
+        },
+        {
+          "entities": [
+            {
+              "type": "Age",
+              "text": "18"
+            }
+          ],
+          "text": "18"
+        }
+      ],
+      "score": 0.957208,
+      "type": "hasAttribute",
+      "sentence": "</p> <p>[5]</p> <p>\u00b6 18."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "<p>\u00b6"
+            }
+          ],
+          "text": "<p>\u00b6"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "case"
+            }
+          ],
+          "text": "case"
+        }
+      ],
+      "score": 0.596716,
+      "type": "agentOf",
+      "sentence": "</p> <p></p> <h2>I. BACKGROUND</h2> <p>\u00b6 2. This case has been in litigation for over six years, including two appeals to this court and one to the Wisconsin Supreme Court."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "class=\"star-pagination\">"
+            }
+          ],
+          "text": "class=\"star-pagination\">"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.337743,
+      "type": "agentOf",
+      "sentence": "The <span class=\"star-pagination\">*796</span> trial court found in the City's favor on this issue, and there is evidence in the record to support that decision."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "</span>"
+            }
+          ],
+          "text": "</span>"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "City"
+            }
+          ],
+          "text": "City"
+        }
+      ],
+      "score": 0.568033,
+      "type": "locatedAt",
+      "sentence": "The <span class=\"star-pagination\">*796</span> trial court found in the City's favor on this issue, and there is evidence in the record to support that decision."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.511354,
+      "type": "affectedBy",
+      "sentence": "The <span class=\"star-pagination\">*796</span> trial court found in the City's favor on this issue, and there is evidence in the record to support that decision."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</i></p>\n<p>\u00b6"
+            }
+          ],
+          "text": "</i></p>\n<p>\u00b6"
+        },
+        {
+          "entities": [
+            {
+              "type": "Age",
+              "text": "19"
+            }
+          ],
+          "text": "19"
+        }
+      ],
+      "score": 0.983068,
+      "type": "hasAttribute",
+      "sentence": "</i></p> <p>\u00b6 19."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "contends"
+            }
+          ],
+          "text": "contends"
+        }
+      ],
+      "score": 0.963918,
+      "type": "agentOf",
+      "sentence": "Lake Bluff also contends that the trial court erroneously exercised its discretion for several additional reasons, which we group together in a category of \"general equities."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "contends"
+            }
+          ],
+          "text": "contends"
+        }
+      ],
+      "score": 0.503935,
+      "type": "affectedBy",
+      "sentence": "Lake Bluff also contends that the trial court erroneously exercised its discretion for several additional reasons, which we group together in a category of \"general equities."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.572683,
+      "type": "affectedBy",
+      "sentence": "Lake Bluff also contends that the trial court erroneously exercised its discretion for several additional reasons, which we group together in a category of \"general equities."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "argues"
+            }
+          ],
+          "text": "argues"
+        }
+      ],
+      "score": 0.989896,
+      "type": "agentOf",
+      "sentence": "\" First, Lake Bluff argues that the trial court ignored the devastating financial impact it would incur if the buildings were destroyed."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.493078,
+      "type": "affectedBy",
+      "sentence": "\" First, Lake Bluff argues that the trial court ignored the devastating financial impact it would incur if the buildings were destroyed."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "argues"
+            }
+          ],
+          "text": "argues"
+        }
+      ],
+      "score": 0.493187,
+      "type": "affectedBy",
+      "sentence": "\" First, Lake Bluff argues that the trial court ignored the devastating financial impact it would incur if the buildings were destroyed."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Supreme Court"
+            }
+          ],
+          "text": "Supreme Court"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Wisconsin"
+            }
+          ],
+          "text": "Wisconsin"
+        }
+      ],
+      "score": 0.768277,
+      "type": "basedIn",
+      "sentence": "</p> <p></p> <h2>I. BACKGROUND</h2> <p>\u00b6 2. This case has been in litigation for over six years, including two appeals to this court and one to the Wisconsin Supreme Court."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.462624,
+      "type": "affectedBy",
+      "sentence": "\" First, Lake Bluff argues that the trial court ignored the devastating financial impact it would incur if the buildings were destroyed."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "argues"
+            }
+          ],
+          "text": "argues"
+        }
+      ],
+      "score": 0.997055,
+      "type": "agentOf",
+      "sentence": "Lake Bluff argues that its multi-million dollar investment in the property should outweigh the other factors, and that the trial court's disregard of this factor is wrong."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "its"
+            }
+          ],
+          "text": "its"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "property"
+            }
+          ],
+          "text": "property"
+        }
+      ],
+      "score": 0.38688,
+      "type": "ownerOf",
+      "sentence": "Lake Bluff argues that its multi-million dollar investment in the property should outweigh the other factors, and that the trial court's disregard of this factor is wrong."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.542432,
+      "type": "agentOf",
+      "sentence": "Lake Bluff argues that its multi-million dollar investment in the property should outweigh the other factors, and that the trial court's disregard of this factor is wrong."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "Money",
+              "text": "$4.2 million"
+            }
+          ],
+          "text": "$4.2 million"
+        }
+      ],
+      "score": 0.533252,
+      "type": "hasAttribute",
+      "sentence": "Lake Bluff indicates that it invested $4.2 million into the property and to raze the buildings will cost an additional $350,000."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "suggests"
+            }
+          ],
+          "text": "suggests"
+        }
+      ],
+      "score": 0.997279,
+      "type": "agentOf",
+      "sentence": "Lake Bluff suggests that this factor alone is sufficient to outweigh all the other equitable factors."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.584919,
+      "type": "agentOf",
+      "sentence": "The trial court disagreed and so do we."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "disagreed"
+            }
+          ],
+          "text": "disagreed"
+        }
+      ],
+      "score": 0.965833,
+      "type": "agentOf",
+      "sentence": "The trial court disagreed and so do we."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</p>\n<p>[6]</p>\n<p>\u00b6"
+            }
+          ],
+          "text": "</p>\n<p>[6]</p>\n<p>\u00b6"
+        },
+        {
+          "entities": [
+            {
+              "type": "Age",
+              "text": "21"
+            }
+          ],
+          "text": "21"
+        }
+      ],
+      "score": 0.977055,
+      "type": "hasAttribute",
+      "sentence": "</p> <p>[6]</p> <p>\u00b6 21."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</i>"
+            }
+          ],
+          "text": "</i>"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.564239,
+      "type": "agentOf",
+      "sentence": "</i> The trial court considered the factor, and found that Lake Bluff's financial investment was an economic factor which favored Lake Bluff."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "<i>See </i><i>Lake Bluff"
+            }
+          ],
+          "text": "<i>See </i><i>Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Partners v"
+            }
+          ],
+          "text": "Partners v"
+        }
+      ],
+      "score": 0.621472,
+      "type": "employedBy",
+      "sentence": "<i>See </i><i>Lake Bluff Housing Partners v."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.487118,
+      "type": "affectedBy",
+      "sentence": "</i> The trial court considered the factor, and found that Lake Bluff's financial investment was an economic factor which favored Lake Bluff."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.516731,
+      "type": "agentOf",
+      "sentence": "However, the trial court found that this factor alone <span class=\"star-pagination\">*797</span> was insufficient to justify equitable relief and, under the totality of the circumstances, this factor does not outweigh the other equitable factors favoring the City."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.575864,
+      "type": "agentOf",
+      "sentence": "The trial court reasoned that a party should not be able to \"buy a variance\" by making financial expenditures."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "reasoned"
+            }
+          ],
+          "text": "reasoned"
+        }
+      ],
+      "score": 0.952777,
+      "type": "agentOf",
+      "sentence": "The trial court reasoned that a party should not be able to \"buy a variance\" by making financial expenditures."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "its"
+            }
+          ],
+          "text": "its"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "case"
+            }
+          ],
+          "text": "case"
+        }
+      ],
+      "score": 0.385243,
+      "type": "affectedBy",
+      "sentence": "Lake Bluff could have reduced its financial exposure if it would have delayed construction until the litigation in this case was completed."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.495603,
+      "type": "agentOf",
+      "sentence": "The trial court determined that Lake Bluff's business choice to proceed with construction, despite the City's appeal, resulted in the self-created financial exposure."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "City"
+            }
+          ],
+          "text": "City"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "appeal"
+            }
+          ],
+          "text": "appeal"
+        }
+      ],
+      "score": 0.971151,
+      "type": "agentOf",
+      "sentence": "The trial court determined that Lake Bluff's business choice to proceed with construction, despite the City's appeal, resulted in the self-created financial exposure."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.535976,
+      "type": "agentOf",
+      "sentence": "The trial court's decision was reasonable."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "decision"
+            }
+          ],
+          "text": "decision"
+        }
+      ],
+      "score": 0.940108,
+      "type": "agentOf",
+      "sentence": "The trial court's decision was reasonable."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</p>\n<p>[7]</p>\n<p>\u00b6"
+            }
+          ],
+          "text": "</p>\n<p>[7]</p>\n<p>\u00b6"
+        },
+        {
+          "entities": [
+            {
+              "type": "Age",
+              "text": "22"
+            }
+          ],
+          "text": "22"
+        }
+      ],
+      "score": 0.97536,
+      "type": "hasAttribute",
+      "sentence": "</p> <p>[7]</p> <p>\u00b6 22."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "<i>rev'g</i>"
+            }
+          ],
+          "text": "<i>rev'g</i>"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Wis."
+            }
+          ],
+          "text": "Wis."
+        }
+      ],
+      "score": 0.57989,
+      "type": "residesIn",
+      "sentence": "City of South Milwaukee,</i> 197 Wis. 2d 157, 540 N.W.2d 189 (1995) (<i>Lake Bluff II</i>), <i>rev'g</i> 188 Wis. 2d 230, 525 N.W.2d 59 (Ct."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "claims"
+            }
+          ],
+          "text": "claims"
+        }
+      ],
+      "score": 0.737903,
+      "type": "agentOf",
+      "sentence": "Second, Lake Bluff claims the trial court failed to adequately consider the interests of the tenants living in the building."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.471194,
+      "type": "affectedBy",
+      "sentence": "Second, Lake Bluff claims the trial court failed to adequately consider the interests of the tenants living in the building."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "tenants"
+            }
+          ],
+          "text": "tenants"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "building"
+            }
+          ],
+          "text": "building"
+        }
+      ],
+      "score": 0.81251,
+      "type": "locatedAt",
+      "sentence": "Second, Lake Bluff claims the trial court failed to adequately consider the interests of the tenants living in the building."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.529881,
+      "type": "agentOf",
+      "sentence": "Contrary to Lake Bluff's claim, the trial court did properly consider the tenants' interests."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.48548,
+      "type": "agentOf",
+      "sentence": "In addressing this factor, the trial court found that although the situation of the tenants cannot be ignored, Lake Bluff may not convey a tenancy interest for the use of an apartment in a single-family area."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "apartment"
+            }
+          ],
+          "text": "apartment"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "area"
+            }
+          ],
+          "text": "area"
+        }
+      ],
+      "score": 0.843916,
+      "type": "locatedAt",
+      "sentence": "In addressing this factor, the trial court found that although the situation of the tenants cannot be ignored, Lake Bluff may not convey a tenancy interest for the use of an apartment in a single-family area."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.52145,
+      "type": "agentOf",
+      "sentence": "The trial court also found that the tenants moved into the apartments knowing about the \"rezoning litigation."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "tenants"
+            }
+          ],
+          "text": "tenants"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "apartments"
+            }
+          ],
+          "text": "apartments"
+        }
+      ],
+      "score": 0.812891,
+      "type": "locatedAt",
+      "sentence": "The trial court also found that the tenants moved into the apartments knowing about the \"rezoning litigation."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.527804,
+      "type": "agentOf",
+      "sentence": "\" Further, the trial court's order provided that the tenants would be permitted to finish out their leases before moving."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "order"
+            }
+          ],
+          "text": "order"
+        }
+      ],
+      "score": 0.966145,
+      "type": "agentOf",
+      "sentence": "\" Further, the trial court's order provided that the tenants would be permitted to finish out their leases before moving."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</i><i>Lake Bluff"
+            }
+          ],
+          "text": "</i><i>Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Partners v"
+            }
+          ],
+          "text": "Partners v"
+        }
+      ],
+      "score": 0.71206,
+      "type": "employedBy",
+      "sentence": "1994); <i>see also </i><i>Lake Bluff Housing Partners v."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "provided"
+            }
+          ],
+          "text": "provided"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "order"
+            }
+          ],
+          "text": "order"
+        }
+      ],
+      "score": 0.644023,
+      "type": "partOf",
+      "sentence": "\" Further, the trial court's order provided that the tenants would be permitted to finish out their leases before moving."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "tenants"
+            }
+          ],
+          "text": "tenants"
+        },
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "their"
+            }
+          ],
+          "text": "their"
+        }
+      ],
+      "score": 0.480742,
+      "type": "partOfMany",
+      "sentence": "\" Further, the trial court's order provided that the tenants would be permitted to finish out their leases before moving."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.495071,
+      "type": "agentOf",
+      "sentence": "The trial court properly considered this factor and reached a reasonable compromise so as to limit the harshness of the situation on Lake Bluff's tenants."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "<sup>[3]</sup></p>\n<p>"
+            }
+          ],
+          "text": "<sup>[3]</sup></p>\n<p>"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "</span>"
+            }
+          ],
+          "text": "</span>"
+        }
+      ],
+      "score": 0.467882,
+      "type": "locatedAt",
+      "sentence": "<sup>[3]</sup></p> <p><span class=\"star-pagination\">*798</span> \u00b6 23."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "WHEDA"
+            }
+          ],
+          "text": "WHEDA"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Wisconsin Housing"
+            }
+          ],
+          "text": "Wisconsin Housing"
+        }
+      ],
+      "score": 0.64661,
+      "type": "residesIn",
+      "sentence": "Third, Lake Bluff refers to WHEDA's (Wisconsin Housing and Economic Development Authority) involvement in support of its claim that there is an interest in providing affordable housing in South Milwaukee."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.554644,
+      "type": "agentOf",
+      "sentence": "The trial court addressed this factor, and concluded that WHEDA's involvement in this project is strong evidence of the state's interest in providing affordable housing at the property; nonetheless, WHEDA's approval is premised on compliance with local codes."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "addressed"
+            }
+          ],
+          "text": "addressed"
+        }
+      ],
+      "score": 0.963951,
+      "type": "agentOf",
+      "sentence": "The trial court addressed this factor, and concluded that WHEDA's involvement in this project is strong evidence of the state's interest in providing affordable housing at the property; nonetheless, WHEDA's approval is premised on compliance with local codes."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "property"
+            }
+          ],
+          "text": "property"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "state"
+            }
+          ],
+          "text": "state"
+        }
+      ],
+      "score": 0.820502,
+      "type": "locatedAt",
+      "sentence": "The trial court addressed this factor, and concluded that WHEDA's involvement in this project is strong evidence of the state's interest in providing affordable housing at the property; nonetheless, WHEDA's approval is premised on compliance with local codes."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.566893,
+      "type": "agentOf",
+      "sentence": "The trial court reasoned that because Lake Bluff did not comply with the local codes, WHEDA's award of credits would be withdrawn and, therefore, would not favor granting a variance."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "reasoned"
+            }
+          ],
+          "text": "reasoned"
+        }
+      ],
+      "score": 0.948747,
+      "type": "agentOf",
+      "sentence": "The trial court reasoned that because Lake Bluff did not comply with the local codes, WHEDA's award of credits would be withdrawn and, therefore, would not favor granting a variance."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</center>\n<center><p><b>"
+            }
+          ],
+          "text": "</center>\n<center><p><b>"
+        },
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Court of Appeals"
+            }
+          ],
+          "text": "Court of Appeals"
+        }
+      ],
+      "score": 0.411742,
+      "type": "employedBy",
+      "sentence": "</center> <center><p><b>Court of Appeals of Wisconsin."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</i>"
+            }
+          ],
+          "text": "</i>"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "City of South Milwaukee"
+            }
+          ],
+          "text": "City of South Milwaukee"
+        }
+      ],
+      "score": 0.385899,
+      "type": "locatedAt",
+      "sentence": "City of South Milwaukee,</i> 222 Wis. 2d 222, 588 N.W.2d 45 (Ct."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</p>\n<p>[9]</p>\n<p>\u00b6"
+            }
+          ],
+          "text": "</p>\n<p>[9]</p>\n<p>\u00b6"
+        },
+        {
+          "entities": [
+            {
+              "type": "Age",
+              "text": "24"
+            }
+          ],
+          "text": "24"
+        }
+      ],
+      "score": 0.975488,
+      "type": "hasAttribute",
+      "sentence": "</p> <p>[9]</p> <p>\u00b6 24."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "suggests"
+            }
+          ],
+          "text": "suggests"
+        }
+      ],
+      "score": 0.938541,
+      "type": "agentOf",
+      "sentence": "Lake Bluff also suggests that WHEDA's award of credits was a large factor in its inability to forego building until the legality of the issue had been resolved."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "EntertainmentAward",
+              "text": "award"
+            }
+          ],
+          "text": "award"
+        },
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "WHEDA"
+            }
+          ],
+          "text": "WHEDA"
+        }
+      ],
+      "score": 0.455906,
+      "type": "awardedTo",
+      "sentence": "Lake Bluff argues that WHEDA's tax credit award would disappear if Lake Bluff failed to complete construction of the project by December 1994."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.554644,
+      "type": "agentOf",
+      "sentence": "The trial court addressed this factor, noting that the December 1994 deadline was not met."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "addressed"
+            }
+          ],
+          "text": "addressed"
+        }
+      ],
+      "score": 0.923966,
+      "type": "agentOf",
+      "sentence": "The trial court addressed this factor, noting that the December 1994 deadline was not met."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "noting"
+            }
+          ],
+          "text": "noting"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "addressed"
+            }
+          ],
+          "text": "addressed"
+        }
+      ],
+      "score": 0.601072,
+      "type": "partOf",
+      "sentence": "The trial court addressed this factor, noting that the December 1994 deadline was not met."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "<sup>[4]</sup></p>\n<p>\u00b6"
+            }
+          ],
+          "text": "<sup>[4]</sup></p>\n<p>\u00b6"
+        },
+        {
+          "entities": [
+            {
+              "type": "Age",
+              "text": "25"
+            }
+          ],
+          "text": "25"
+        }
+      ],
+      "score": 0.957044,
+      "type": "hasAttribute",
+      "sentence": "<sup>[4]</sup></p> <p>\u00b6 25."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.506977,
+      "type": "agentOf",
+      "sentence": "Finally, the trial court considered a myriad of other equitable factors."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.564846,
+      "type": "agentOf",
+      "sentence": "Second, the trial court addressed whether the City's gain outweighed Lake Bluff's loss; it found that it did."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "addressed"
+            }
+          ],
+          "text": "addressed"
+        }
+      ],
+      "score": 0.966787,
+      "type": "agentOf",
+      "sentence": "Second, the trial court addressed whether the City's gain outweighed Lake Bluff's loss; it found that it did."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "City of South Milwaukee"
+            }
+          ],
+          "text": "City of South Milwaukee"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Wis."
+            }
+          ],
+          "text": "Wis."
+        }
+      ],
+      "score": 0.522824,
+      "type": "locatedAt",
+      "sentence": "City of South Milwaukee,</i> 222 Wis. 2d 222, 588 N.W.2d 45 (Ct."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.538445,
+      "type": "agentOf",
+      "sentence": "In making this determination, the trial court reasoned that municipalities have the power to adopt comprehensive zoning ordinances, <i>see generally </i><i>State ex rel. Carter v."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "reasoned"
+            }
+          ],
+          "text": "reasoned"
+        }
+      ],
+      "score": 0.97776,
+      "type": "agentOf",
+      "sentence": "In making this determination, the trial court reasoned that municipalities have the power to adopt comprehensive zoning ordinances, <i>see generally </i><i>State ex rel. Carter v."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "<i>"
+            }
+          ],
+          "text": "<i>"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "reasoned"
+            }
+          ],
+          "text": "reasoned"
+        }
+      ],
+      "score": 0.531857,
+      "type": "affectedBy",
+      "sentence": "In making this determination, the trial court reasoned that municipalities have the power to adopt comprehensive zoning ordinances, <i>see generally </i><i>State ex rel. Carter v."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "<i>"
+            }
+          ],
+          "text": "<i>"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "municipalities"
+            }
+          ],
+          "text": "municipalities"
+        }
+      ],
+      "score": 0.386293,
+      "type": "locatedAt",
+      "sentence": "In making this determination, the trial court reasoned that municipalities have the power to adopt comprehensive zoning ordinances, <i>see generally </i><i>State ex rel. Carter v."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "ex"
+            }
+          ],
+          "text": "ex"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "State"
+            }
+          ],
+          "text": "State"
+        }
+      ],
+      "score": 0.87124,
+      "type": "employedBy",
+      "sentence": "In making this determination, the trial court reasoned that municipalities have the power to adopt comprehensive zoning ordinances, <i>see generally </i><i>State ex rel. Carter v."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Harper"
+            }
+          ],
+          "text": "Harper"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "N.W."
+            }
+          ],
+          "text": "N.W."
+        }
+      ],
+      "score": 0.517969,
+      "type": "locatedAt",
+      "sentence": "Harper,</i> 182 Wis. 148, 196 N.W. 451 (1923), and that zoning may be the most essential function performed by local government in that it permits the municipality to protect its citizens' quality of life, <i>Village of Belle Terre v."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Cardinal",
+              "text": "148"
+            }
+          ],
+          "text": "148"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Wis."
+            }
+          ],
+          "text": "Wis."
+        }
+      ],
+      "score": 0.530706,
+      "type": "populationOf",
+      "sentence": "Harper,</i> 182 Wis. 148, 196 N.W. 451 (1923), and that zoning may be the most essential function performed by local government in that it permits the municipality to protect its citizens' quality of life, <i>Village of Belle Terre v."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "N.W."
+            }
+          ],
+          "text": "N.W."
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Wis."
+            }
+          ],
+          "text": "Wis."
+        }
+      ],
+      "score": 0.769484,
+      "type": "locatedAt",
+      "sentence": "Harper,</i> 182 Wis. 148, 196 N.W. 451 (1923), and that zoning may be the most essential function performed by local government in that it permits the municipality to protect its citizens' quality of life, <i>Village of Belle Terre v."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "citizens"
+            }
+          ],
+          "text": "citizens"
+        },
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "its"
+            }
+          ],
+          "text": "its"
+        }
+      ],
+      "score": 0.769615,
+      "type": "employedBy",
+      "sentence": "Harper,</i> 182 Wis. 148, 196 N.W. 451 (1923), and that zoning may be the most essential function performed by local government in that it permits the municipality to protect its citizens' quality of life, <i>Village of Belle Terre v."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Boraas,</i>"
+            }
+          ],
+          "text": "Boraas,</i>"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "U.S."
+            }
+          ],
+          "text": "U.S."
+        }
+      ],
+      "score": 0.336686,
+      "type": "locatedAt",
+      "sentence": "Boraas,</i> 416 U.S. 1, 13 (1974) (Marshall, J., dissenting)."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</i>"
+            }
+          ],
+          "text": "</i>"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Wis."
+            }
+          ],
+          "text": "Wis."
+        }
+      ],
+      "score": 0.633219,
+      "type": "residesIn",
+      "sentence": "City of South Milwaukee,</i> 222 Wis. 2d 222, 588 N.W.2d 45 (Ct."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</i>"
+            }
+          ],
+          "text": "</i>"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Wis."
+            }
+          ],
+          "text": "Wis."
+        }
+      ],
+      "score": 0.810138,
+      "type": "residesIn",
+      "sentence": "City of South Milwaukee,</i> 222 Wis. 2d 222, 588 N.W.2d 45 (Ct."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</i>"
+            }
+          ],
+          "text": "</i>"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Wis."
+            }
+          ],
+          "text": "Wis."
+        }
+      ],
+      "score": 0.536511,
+      "type": "residesIn",
+      "sentence": "City of South Milwaukee,</i> 222 Wis. 2d 222, 588 N.W.2d 45 (Ct."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</i>"
+            }
+          ],
+          "text": "</i>"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Wis."
+            }
+          ],
+          "text": "Wis."
+        }
+      ],
+      "score": 0.820534,
+      "type": "residesIn",
+      "sentence": "City of South Milwaukee,</i> 222 Wis. 2d 222, 588 N.W.2d 45 (Ct."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</i>"
+            }
+          ],
+          "text": "</i>"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Wis."
+            }
+          ],
+          "text": "Wis."
+        }
+      ],
+      "score": 0.621595,
+      "type": "residesIn",
+      "sentence": "City of South Milwaukee,</i> 222 Wis. 2d 222, 588 N.W.2d 45 (Ct."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</i>"
+            }
+          ],
+          "text": "</i>"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Wis."
+            }
+          ],
+          "text": "Wis."
+        }
+      ],
+      "score": 0.774166,
+      "type": "residesIn",
+      "sentence": "City of South Milwaukee,</i> 222 Wis. 2d 222, 588 N.W.2d 45 (Ct."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</i>"
+            }
+          ],
+          "text": "</i>"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Wis."
+            }
+          ],
+          "text": "Wis."
+        }
+      ],
+      "score": 0.871101,
+      "type": "residesIn",
+      "sentence": "City of South Milwaukee,</i> 222 Wis. 2d 222, 588 N.W.2d 45 (Ct."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.584476,
+      "type": "agentOf",
+      "sentence": "Third, the trial court addressed whether an abatement order would result in non-economic gain to the City; it found that it would."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "addressed"
+            }
+          ],
+          "text": "addressed"
+        }
+      ],
+      "score": 0.956613,
+      "type": "agentOf",
+      "sentence": "Third, the trial court addressed whether an abatement order would result in non-economic gain to the City; it found that it would."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.555128,
+      "type": "agentOf",
+      "sentence": "The trial court pointed out that compliance with the zoning classification on the property would result in less crowding, more open area and green space, and greater access to air and light."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "pointed out"
+            }
+          ],
+          "text": "pointed out"
+        }
+      ],
+      "score": 0.964928,
+      "type": "agentOf",
+      "sentence": "The trial court pointed out that compliance with the zoning classification on the property would result in less crowding, more open area and green space, and greater access to air and light."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "class=\"star-pagination\">"
+            }
+          ],
+          "text": "class=\"star-pagination\">"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.579089,
+      "type": "affectedBy",
+      "sentence": "The vigilant protection of our shorelands is also a substantial interest, and it is advanced by the trial <span class=\"star-pagination\">*800</span> court's ruling."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "ruling"
+            }
+          ],
+          "text": "ruling"
+        }
+      ],
+      "score": 0.965636,
+      "type": "agentOf",
+      "sentence": "The vigilant protection of our shorelands is also a substantial interest, and it is advanced by the trial <span class=\"star-pagination\">*800</span> court's ruling."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Cardinal",
+              "text": "685"
+            }
+          ],
+          "text": "685"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Wis."
+            }
+          ],
+          "text": "Wis."
+        }
+      ],
+      "score": 0.453005,
+      "type": "populationOf",
+      "sentence": "<i>Goode,</i> 219 Wis. 2d at 685."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</p>\n<p>\u00b6"
+            }
+          ],
+          "text": "</p>\n<p>\u00b6"
+        },
+        {
+          "entities": [
+            {
+              "type": "Age",
+              "text": "27"
+            }
+          ],
+          "text": "27"
+        }
+      ],
+      "score": 0.975709,
+      "type": "hasAttribute",
+      "sentence": "</p> <p>\u00b6 27."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.573089,
+      "type": "agentOf",
+      "sentence": "The trial court's written decision provides an extensive and thorough consideration of all the appropriate factors."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "decision"
+            }
+          ],
+          "text": "decision"
+        }
+      ],
+      "score": 0.847695,
+      "type": "agentOf",
+      "sentence": "The trial court's written decision provides an extensive and thorough consideration of all the appropriate factors."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "property"
+            }
+          ],
+          "text": "property"
+        }
+      ],
+      "score": 0.654883,
+      "type": "locatedAt",
+      "sentence": "Lake Bluff purchased the property in question in December 1992."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</p>\n<p>\u00b6"
+            }
+          ],
+          "text": "</p>\n<p>\u00b6"
+        },
+        {
+          "entities": [
+            {
+              "type": "Age",
+              "text": "28"
+            }
+          ],
+          "text": "28"
+        }
+      ],
+      "score": 0.969033,
+      "type": "hasAttribute",
+      "sentence": "</p> <p>\u00b6 28. The trial court further considered what remedy would be appropriate."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</p>\n<p>\u00b6"
+            }
+          ],
+          "text": "</p>\n<p>\u00b6"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.635046,
+      "type": "agentOf",
+      "sentence": "</p> <p>\u00b6 28. The trial court further considered what remedy would be appropriate."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.513333,
+      "type": "affectedBy",
+      "sentence": "</p> <p>\u00b6 28. The trial court further considered what remedy would be appropriate."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.555632,
+      "type": "agentOf",
+      "sentence": "The trial court acknowledged that removal of the buildings constituted the most drastic option and, therefore, considered whether some other remedy might suffice."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "acknowledged"
+            }
+          ],
+          "text": "acknowledged"
+        }
+      ],
+      "score": 0.949904,
+      "type": "agentOf",
+      "sentence": "The trial court acknowledged that removal of the buildings constituted the most drastic option and, therefore, considered whether some other remedy might suffice."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.554644,
+      "type": "agentOf",
+      "sentence": "The trial court addressed whether the buildings could be modified in some fashion so as to comply with the R-A zoning classification."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "addressed"
+            }
+          ],
+          "text": "addressed"
+        }
+      ],
+      "score": 0.932458,
+      "type": "agentOf",
+      "sentence": "The trial court addressed whether the buildings could be modified in some fashion so as to comply with the R-A zoning classification."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.459914,
+      "type": "agentOf",
+      "sentence": "Next, the trial court considered imposing a fine in lieu of removing the buildings."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.516731,
+      "type": "agentOf",
+      "sentence": "The trial court found that levying a fine against Lake Bluff for the zoning violation would ignore the interest the public has in enforcing the zoning laws."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.564116,
+      "type": "agentOf",
+      "sentence": "The trial court reasoned that the interest would be \"compromised if the payment of a fine can be a substitute for compliance with the zoning,\" and would constitute a \"purchase\" of a variance, against which <i>Goode</i> explicitly warned."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "property"
+            }
+          ],
+          "text": "property"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "buildings"
+            }
+          ],
+          "text": "buildings"
+        }
+      ],
+      "score": 0.327128,
+      "type": "near",
+      "sentence": "At that time, the parcel was zoned C-2, which allowed the property to be used for multi-family buildings."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "reasoned"
+            }
+          ],
+          "text": "reasoned"
+        }
+      ],
+      "score": 0.968147,
+      "type": "agentOf",
+      "sentence": "The trial court reasoned that the interest would be \"compromised if the payment of a fine can be a substitute for compliance with the zoning,\" and would constitute a \"purchase\" of a variance, against which <i>Goode</i> explicitly warned."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "<i>Goode</i>"
+            }
+          ],
+          "text": "<i>Goode</i>"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "reasoned"
+            }
+          ],
+          "text": "reasoned"
+        }
+      ],
+      "score": 0.610132,
+      "type": "affectedBy",
+      "sentence": "The trial court reasoned that the interest would be \"compromised if the payment of a fine can be a substitute for compliance with the zoning,\" and would constitute a \"purchase\" of a variance, against which <i>Goode</i> explicitly warned."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "<i>Goode</i>"
+            }
+          ],
+          "text": "<i>Goode</i>"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "warned"
+            }
+          ],
+          "text": "warned"
+        }
+      ],
+      "score": 0.961343,
+      "type": "agentOf",
+      "sentence": "The trial court reasoned that the interest would be \"compromised if the payment of a fine can be a substitute for compliance with the zoning,\" and would constitute a \"purchase\" of a variance, against which <i>Goode</i> explicitly warned."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.554644,
+      "type": "agentOf",
+      "sentence": "Accordingly, the trial court concluded that the only remedy available was an abatement order."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "concluded"
+            }
+          ],
+          "text": "concluded"
+        }
+      ],
+      "score": 0.964725,
+      "type": "agentOf",
+      "sentence": "Accordingly, the trial court concluded that the only remedy available was an abatement order."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.5632,
+      "type": "agentOf",
+      "sentence": "The trial court's findings are not clearly erroneous and its ruling is reasonable."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "its"
+            }
+          ],
+          "text": "its"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "ruling"
+            }
+          ],
+          "text": "ruling"
+        }
+      ],
+      "score": 0.877884,
+      "type": "agentOf",
+      "sentence": "The trial court's findings are not clearly erroneous and its ruling is reasonable."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</p>\n<p>\u00b6"
+            }
+          ],
+          "text": "</p>\n<p>\u00b6"
+        },
+        {
+          "entities": [
+            {
+              "type": "Age",
+              "text": "29"
+            }
+          ],
+          "text": "29"
+        }
+      ],
+      "score": 0.958147,
+      "type": "hasAttribute",
+      "sentence": "CONCLUSION</h2> <p>[10]</p> <p>\u00b6 29."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "we"
+            }
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "conclude"
+            }
+          ],
+          "text": "conclude"
+        }
+      ],
+      "score": 0.984169,
+      "type": "agentOf",
+      "sentence": "In sum, we conclude that the trial court properly engaged in the equitable analysis under <span class=\"star-pagination\">*801</span> <i>Goode."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.495708,
+      "type": "affectedBy",
+      "sentence": "In sum, we conclude that the trial court properly engaged in the equitable analysis under <span class=\"star-pagination\">*801</span> <i>Goode."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "property"
+            }
+          ],
+          "text": "property"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "South Milwaukee"
+            }
+          ],
+          "text": "South Milwaukee"
+        }
+      ],
+      "score": 0.812191,
+      "type": "locatedAt",
+      "sentence": "Before any building permits were issued, however, South Milwaukee rezoned the property to R-A, which would have allowed only single family residences to be built on the property."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.451467,
+      "type": "agentOf",
+      "sentence": "The trial court also emphasized that it is only in a \"rare case\" when \"compelling equitable reasons\" exist that the requested order of abatement should not be issued."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "emphasized"
+            }
+          ],
+          "text": "emphasized"
+        }
+      ],
+      "score": 0.799929,
+      "type": "agentOf",
+      "sentence": "The trial court also emphasized that it is only in a \"rare case\" when \"compelling equitable reasons\" exist that the requested order of abatement should not be issued."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "it"
+            }
+          ],
+          "text": "it"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "case"
+            }
+          ],
+          "text": "case"
+        }
+      ],
+      "score": 0.375177,
+      "type": "affectedBy",
+      "sentence": "The trial court also emphasized that it is only in a \"rare case\" when \"compelling equitable reasons\" exist that the requested order of abatement should not be issued."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "citizens"
+            }
+          ],
+          "text": "citizens"
+        },
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "who"
+            }
+          ],
+          "text": "who"
+        }
+      ],
+      "score": 0.449776,
+      "type": "partOfMany",
+      "sentence": "The municipalities, and the citizens who reside there, have a right to enforce their zoning laws."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "its"
+            }
+          ],
+          "text": "its"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "City"
+            }
+          ],
+          "text": "City"
+        }
+      ],
+      "score": 0.618088,
+      "type": "partOf",
+      "sentence": "Under the totality of the circumstances presented, this is not one of those rare cases where equity overcomes the City's legal right and duty to secure compliance with its zoning classification."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</p>\n<p><i>"
+            }
+          ],
+          "text": "</p>\n<p><i>"
+        },
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Court"
+            }
+          ],
+          "text": "Court"
+        }
+      ],
+      "score": 0.691428,
+      "type": "employedBy",
+      "sentence": "</p> <p><i>By the Court."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</p>\n<h2>NOTES</h2>\n<p>[\u0086]"
+            }
+          ],
+          "text": "</p>\n<h2>NOTES</h2>\n<p>[\u0086]"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "denied"
+            }
+          ],
+          "text": "denied"
+        }
+      ],
+      "score": 0.942335,
+      "type": "agentOf",
+      "sentence": "</p> <h2>NOTES</h2> <p>[\u0086]  Petition to review denied."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</p>\n<p>[2]  Lake Bluff"
+            }
+          ],
+          "text": "</p>\n<p>[2]  Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "argues"
+            }
+          ],
+          "text": "argues"
+        }
+      ],
+      "score": 0.997259,
+      "type": "agentOf",
+      "sentence": "\"</p> <p>[2]  Lake Bluff argues that there is evidence in the record which contradicts the trial court's finding that single-family residences are a reasonable alternative use for the property."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.500898,
+      "type": "affectedBy",
+      "sentence": "\"</p> <p>[2]  Lake Bluff argues that there is evidence in the record which contradicts the trial court's finding that single-family residences are a reasonable alternative use for the property."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "our"
+            }
+          ],
+          "text": "our"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.509742,
+      "type": "agentOf",
+      "sentence": "Such evidence, however, does not alter our conclusion that the trial court's factual findings are not clearly erroneous because there is evidence in the record to support the findings."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "property"
+            }
+          ],
+          "text": "property"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "R-A"
+            }
+          ],
+          "text": "R-A"
+        }
+      ],
+      "score": 0.830888,
+      "type": "locatedAt",
+      "sentence": "Before any building permits were issued, however, South Milwaukee rezoned the property to R-A, which would have allowed only single family residences to be built on the property."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.433888,
+      "type": "agentOf",
+      "sentence": "Such evidence, however, does not alter our conclusion that the trial court's factual findings are not clearly erroneous because there is evidence in the record to support the findings."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.538798,
+      "type": "agentOf",
+      "sentence": "Mere disagreement with the trial court's findings is not a basis for error."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "suggests"
+            }
+          ],
+          "text": "suggests"
+        }
+      ],
+      "score": 0.994633,
+      "type": "agentOf",
+      "sentence": "</p> <p>[3]  In a related argument, Lake Bluff suggests that an abatement order cannot be issued without joining the tenants and mortgagee as necessary parties under WIS."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "hearing"
+            }
+          ],
+          "text": "hearing"
+        }
+      ],
+      "score": 0.73894,
+      "type": "affectedBy",
+      "sentence": "Lake Bluff made this argument for the first time during a hearing on the form of the judgment in May 2000."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Date",
+              "text": "May 2000"
+            }
+          ],
+          "text": "May 2000"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "hearing"
+            }
+          ],
+          "text": "hearing"
+        }
+      ],
+      "score": 0.774397,
+      "type": "timeOf",
+      "sentence": "Lake Bluff made this argument for the first time during a hearing on the form of the judgment in May 2000."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "party"
+            }
+          ],
+          "text": "party"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "Claims"
+            }
+          ],
+          "text": "Claims"
+        }
+      ],
+      "score": 0.44814,
+      "type": "agentOf",
+      "sentence": "Claims that a necessary party have not been joined are required to be made by responsive pleading, if one is required, or by motion."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "reply"
+            }
+          ],
+          "text": "reply"
+        }
+      ],
+      "score": 0.974118,
+      "type": "agentOf",
+      "sentence": "Lake Bluff's reply brief does not refute the City's assertion and, therefore, it is admitted."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</i>"
+            }
+          ],
+          "text": "</i>"
+        },
+        {
+          "entities": [
+            {
+              "type": "Age",
+              "text": "90"
+            }
+          ],
+          "text": "90"
+        }
+      ],
+      "score": 0.948286,
+      "type": "hasAttribute",
+      "sentence": "FPC Securities,</i> 90 Wis. 2d 97, 109, 279 N.W.2d 493 (Ct."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.619081,
+      "type": "agentOf",
+      "sentence": "The trial court's abatement order was properly issued."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</p>\n<p>[4]  Moreover"
+            }
+          ],
+          "text": "</p>\n<p>[4]  Moreover"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "ruled"
+            }
+          ],
+          "text": "ruled"
+        }
+      ],
+      "score": 0.571789,
+      "type": "agentOf",
+      "sentence": "</p> <p>[4]  Moreover, this court ruled that WHEDA's involvement does not entitle Lake Bluff to special treatment."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "family"
+            }
+          ],
+          "text": "family"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "which"
+            }
+          ],
+          "text": "which"
+        }
+      ],
+      "score": 0.5525,
+      "type": "residesIn",
+      "sentence": "Before any building permits were issued, however, South Milwaukee rezoned the property to R-A, which would have allowed only single family residences to be built on the property."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "ruled"
+            }
+          ],
+          "text": "ruled"
+        }
+      ],
+      "score": 0.992629,
+      "type": "agentOf",
+      "sentence": "</p> <p>[4]  Moreover, this court ruled that WHEDA's involvement does not entitle Lake Bluff to special treatment."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "WHEDA"
+            }
+          ],
+          "text": "WHEDA"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "ruled"
+            }
+          ],
+          "text": "ruled"
+        }
+      ],
+      "score": 0.542193,
+      "type": "affectedBy",
+      "sentence": "</p> <p>[4]  Moreover, this court ruled that WHEDA's involvement does not entitle Lake Bluff to special treatment."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "sued"
+            }
+          ],
+          "text": "sued"
+        }
+      ],
+      "score": 0.968696,
+      "type": "agentOf",
+      "sentence": "Lake Bluff sued, claiming that it had vested rights in the <span class=\"star-pagination\">*790</span> prior zoning classification because it had purchased the property when it was classified C-2, and because it had submitted its requests for building permits while the property was classified C-2."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "its"
+            }
+          ],
+          "text": "its"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "property"
+            }
+          ],
+          "text": "property"
+        }
+      ],
+      "score": 0.29195,
+      "type": "ownerOf",
+      "sentence": "Lake Bluff sued, claiming that it had vested rights in the <span class=\"star-pagination\">*790</span> prior zoning classification because it had purchased the property when it was classified C-2, and because it had submitted its requests for building permits while the property was classified C-2."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Court of Appeals"
+            }
+          ],
+          "text": "Court of Appeals"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Wisconsin"
+            }
+          ],
+          "text": "Wisconsin"
+        }
+      ],
+      "score": 0.475574,
+      "type": "locatedAt",
+      "sentence": "</center> <center><p><b>Court of Appeals of Wisconsin."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.520534,
+      "type": "agentOf",
+      "sentence": "The trial court agreed that Lake Bluff had vested rights and, on April 29, 1994, the trial court issued a writ of mandamus directing South Milwaukee's building inspector to issue the permits necessary for the construction of two multi-family apartment buildings."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "agreed"
+            }
+          ],
+          "text": "agreed"
+        }
+      ],
+      "score": 0.980382,
+      "type": "agentOf",
+      "sentence": "The trial court agreed that Lake Bluff had vested rights and, on April 29, 1994, the trial court issued a writ of mandamus directing South Milwaukee's building inspector to issue the permits necessary for the construction of two multi-family apartment buildings."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "inspector"
+            }
+          ],
+          "text": "inspector"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "South Milwaukee"
+            }
+          ],
+          "text": "South Milwaukee"
+        }
+      ],
+      "score": 0.828979,
+      "type": "residesIn",
+      "sentence": "The trial court agreed that Lake Bluff had vested rights and, on April 29, 1994, the trial court issued a writ of mandamus directing South Milwaukee's building inspector to issue the permits necessary for the construction of two multi-family apartment buildings."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.459393,
+      "type": "agentOf",
+      "sentence": "South Milwaukee issued the permits, pursuant to the trial court order."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "order"
+            }
+          ],
+          "text": "order"
+        }
+      ],
+      "score": 0.903455,
+      "type": "agentOf",
+      "sentence": "South Milwaukee issued the permits, pursuant to the trial court order."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "asking"
+            }
+          ],
+          "text": "asking"
+        }
+      ],
+      "score": 0.785761,
+      "type": "affectedBy",
+      "sentence": "The City of South Milwaukee (\"City\") filed a notice of appeal, asking this court to quash the writ."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "We"
+            }
+          ],
+          "text": "We"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.450965,
+      "type": "agentOf",
+      "sentence": "We affirmed the trial court's decision, agreeing that Lake Bluff had vested rights."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.542827,
+      "type": "agentOf",
+      "sentence": "We affirmed the trial court's decision, agreeing that Lake Bluff had vested rights."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "supreme court"
+            }
+          ],
+          "text": "supreme court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "ordering"
+            }
+          ],
+          "text": "ordering"
+        }
+      ],
+      "score": 0.495761,
+      "type": "agentOf",
+      "sentence": "Our supreme court, however, accepted the City's petition for review and, on November 20, 1995, it reversed our decision, ordering the writ of mandamus to be quashed."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "<i>Lake Bluff II,</i>"
+            }
+          ],
+          "text": "<i>Lake Bluff II,</i>"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Wis."
+            }
+          ],
+          "text": "Wis."
+        }
+      ],
+      "score": 0.834421,
+      "type": "residesIn",
+      "sentence": "<i>Lake Bluff II,</i> 197 Wis. 2d at 182."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "<i>Lake Bluff II,</i>"
+            }
+          ],
+          "text": "<i>Lake Bluff II,</i>"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Wis."
+            }
+          ],
+          "text": "Wis."
+        }
+      ],
+      "score": 0.695987,
+      "type": "residesIn",
+      "sentence": "<i>Lake Bluff II,</i> 197 Wis. 2d at 182."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Neill &amp; Shannon"
+            }
+          ],
+          "text": "Neill &amp; Shannon"
+        },
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "O"
+            }
+          ],
+          "text": "O"
+        }
+      ],
+      "score": 0.580368,
+      "type": "partOf",
+      "sentence": "</center> <p><span class=\"star-pagination\">*788</span> On behalf of the plaintiff-appellant, the cause was submitted on the briefs of <i>Fox, O'Neill &amp; Shannon, S.C.</i> by <i>Bruce C. O'Neill</i> and <i>Diane Slomowitz,</i> Milwaukee."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Cardinal",
+              "text": "182"
+            }
+          ],
+          "text": "182"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Wis."
+            }
+          ],
+          "text": "Wis."
+        }
+      ],
+      "score": 0.453005,
+      "type": "populationOf",
+      "sentence": "<i>Lake Bluff II,</i> 197 Wis. 2d at 182."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</i></p>\n<p>\u00b6"
+            }
+          ],
+          "text": "</i></p>\n<p>\u00b6"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "appealed"
+            }
+          ],
+          "text": "appealed"
+        }
+      ],
+      "score": 0.590881,
+      "type": "agentOf",
+      "sentence": "</i></p> <p>\u00b6 5. While this matter was being appealed, Lake Bluff decided to finish construction on the project."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "appealed"
+            }
+          ],
+          "text": "appealed"
+        }
+      ],
+      "score": 0.703331,
+      "type": "affectedBy",
+      "sentence": "</i></p> <p>\u00b6 5. While this matter was being appealed, Lake Bluff decided to finish construction on the project."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Date",
+              "text": "December 1994"
+            }
+          ],
+          "text": "December 1994"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "appeal"
+            }
+          ],
+          "text": "appeal"
+        }
+      ],
+      "score": 0.446984,
+      "type": "timeOf",
+      "sentence": "Lake Bluff's decision was based on several factors, including its belief that it would lose substantial tax credits if the buildings were not completed by December 1994, and the fact that it believed it would win on appeal."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "supreme court"
+            }
+          ],
+          "text": "supreme court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "filed"
+            }
+          ],
+          "text": "filed"
+        }
+      ],
+      "score": 0.55049,
+      "type": "agentOf",
+      "sentence": "</p> <p>\u00b6 6. When the supreme court remanded the matter with instructions to quash the writ, Lake Bluff filed a declaratory judgment action seeking to enjoin the <span class=\"star-pagination\">*791</span> City from revoking the building and occupancy permits, and from issuing any orders to raze the buildings."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "class=\"star-pagination\">"
+            }
+          ],
+          "text": "class=\"star-pagination\">"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "</span> City"
+            }
+          ],
+          "text": "</span> City"
+        }
+      ],
+      "score": 0.345753,
+      "type": "ownerOf",
+      "sentence": "</p> <p>\u00b6 6. When the supreme court remanded the matter with instructions to quash the writ, Lake Bluff filed a declaratory judgment action seeking to enjoin the <span class=\"star-pagination\">*791</span> City from revoking the building and occupancy permits, and from issuing any orders to raze the buildings."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "</span> City"
+            }
+          ],
+          "text": "</span> City"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "building"
+            }
+          ],
+          "text": "building"
+        }
+      ],
+      "score": 0.460941,
+      "type": "locatedAt",
+      "sentence": "</p> <p>\u00b6 6. When the supreme court remanded the matter with instructions to quash the writ, Lake Bluff filed a declaratory judgment action seeking to enjoin the <span class=\"star-pagination\">*791</span> City from revoking the building and occupancy permits, and from issuing any orders to raze the buildings."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "argued"
+            }
+          ],
+          "text": "argued"
+        }
+      ],
+      "score": 0.995222,
+      "type": "agentOf",
+      "sentence": "Lake Bluff argued that the City's failure to seek a stay during the pendency of the appeal should estop the City from revoking the permits or razing the buildings."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "buildings"
+            }
+          ],
+          "text": "buildings"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "City"
+            }
+          ],
+          "text": "City"
+        }
+      ],
+      "score": 0.769679,
+      "type": "locatedAt",
+      "sentence": "Lake Bluff argued that the City's failure to seek a stay during the pendency of the appeal should estop the City from revoking the permits or razing the buildings."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "City"
+            }
+          ],
+          "text": "City"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "filed"
+            }
+          ],
+          "text": "filed"
+        }
+      ],
+      "score": 0.930932,
+      "type": "agentOf",
+      "sentence": "The City filed a counterclaim against Lake Bluff, asking the court to declare that the City could lawfully revoke the building and occupancy permits and could require Lake Bluff to remove the buildings located on the property so as to conform to the present R-A single-family zoning."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "class=\"star-pagination\">"
+            }
+          ],
+          "text": "class=\"star-pagination\">"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "</span>"
+            }
+          ],
+          "text": "</span>"
+        }
+      ],
+      "score": 0.367287,
+      "type": "locatedAt",
+      "sentence": "</p> <p><span class=\"star-pagination\">*789</span> Before Wedemeyer, P.J., Fine and Curley, JJ.</p> <p>\u00b6 1."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "class=\"star-pagination\">"
+            }
+          ],
+          "text": "class=\"star-pagination\">"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "</span>"
+            }
+          ],
+          "text": "</span>"
+        }
+      ],
+      "score": 0.314208,
+      "type": "locatedAt",
+      "sentence": "</p> <p><span class=\"star-pagination\">*789</span> Before Wedemeyer, P.J., Fine and Curley, JJ.</p> <p>\u00b6 1."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "class=\"star-pagination\">"
+            }
+          ],
+          "text": "class=\"star-pagination\">"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "</span>"
+            }
+          ],
+          "text": "</span>"
+        }
+      ],
+      "score": 0.511646,
+      "type": "locatedAt",
+      "sentence": "</p> <p><span class=\"star-pagination\">*789</span> Before Wedemeyer, P.J., Fine and Curley, JJ.</p> <p>\u00b6 1."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "class=\"star-pagination\">"
+            }
+          ],
+          "text": "class=\"star-pagination\">"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "</span>"
+            }
+          ],
+          "text": "</span>"
+        }
+      ],
+      "score": 0.603199,
+      "type": "locatedAt",
+      "sentence": "</p> <p><span class=\"star-pagination\">*789</span> Before Wedemeyer, P.J., Fine and Curley, JJ.</p> <p>\u00b6 1."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "class=\"star-pagination\">"
+            }
+          ],
+          "text": "class=\"star-pagination\">"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "</span>"
+            }
+          ],
+          "text": "</span>"
+        }
+      ],
+      "score": 0.600555,
+      "type": "locatedAt",
+      "sentence": "</p> <p><span class=\"star-pagination\">*789</span> Before Wedemeyer, P.J., Fine and Curley, JJ.</p> <p>\u00b6 1."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "City"
+            }
+          ],
+          "text": "City"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "counterclaim"
+            }
+          ],
+          "text": "counterclaim"
+        }
+      ],
+      "score": 0.69184,
+      "type": "affectedBy",
+      "sentence": "The City filed a counterclaim against Lake Bluff, asking the court to declare that the City could lawfully revoke the building and occupancy permits and could require Lake Bluff to remove the buildings located on the property so as to conform to the present R-A single-family zoning."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "counterclaim"
+            }
+          ],
+          "text": "counterclaim"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        }
+      ],
+      "score": 0.440434,
+      "type": "locatedAt",
+      "sentence": "The City filed a counterclaim against Lake Bluff, asking the court to declare that the City could lawfully revoke the building and occupancy permits and could require Lake Bluff to remove the buildings located on the property so as to conform to the present R-A single-family zoning."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        }
+      ],
+      "score": 0.498605,
+      "type": "basedIn",
+      "sentence": "The City filed a counterclaim against Lake Bluff, asking the court to declare that the City could lawfully revoke the building and occupancy permits and could require Lake Bluff to remove the buildings located on the property so as to conform to the present R-A single-family zoning."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "asking"
+            }
+          ],
+          "text": "asking"
+        }
+      ],
+      "score": 0.911714,
+      "type": "affectedBy",
+      "sentence": "The City filed a counterclaim against Lake Bluff, asking the court to declare that the City could lawfully revoke the building and occupancy permits and could require Lake Bluff to remove the buildings located on the property so as to conform to the present R-A single-family zoning."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "buildings"
+            }
+          ],
+          "text": "buildings"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "property"
+            }
+          ],
+          "text": "property"
+        }
+      ],
+      "score": 0.299072,
+      "type": "locatedAt",
+      "sentence": "The City filed a counterclaim against Lake Bluff, asking the court to declare that the City could lawfully revoke the building and occupancy permits and could require Lake Bluff to remove the buildings located on the property so as to conform to the present R-A single-family zoning."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "parties"
+            }
+          ],
+          "text": "parties"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "filed"
+            }
+          ],
+          "text": "filed"
+        }
+      ],
+      "score": 0.798447,
+      "type": "agentOf",
+      "sentence": "The parties filed motions seeking summary judgment."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.471057,
+      "type": "agentOf",
+      "sentence": "The trial court agreed with Lake Bluff."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "City"
+            }
+          ],
+          "text": "City"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "appealed"
+            }
+          ],
+          "text": "appealed"
+        }
+      ],
+      "score": 0.922266,
+      "type": "agentOf",
+      "sentence": "The City appealed to this court, and we reversed the trial court's decision."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "appealed"
+            }
+          ],
+          "text": "appealed"
+        }
+      ],
+      "score": 0.452102,
+      "type": "affectedBy",
+      "sentence": "The City appealed to this court, and we reversed the trial court's decision."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "we"
+            }
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.434768,
+      "type": "affectedBy",
+      "sentence": "The City appealed to this court, and we reversed the trial court's decision."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "WEDEMEYER"
+            }
+          ],
+          "text": "WEDEMEYER"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        }
+      ],
+      "score": 0.526853,
+      "type": "locatedAt",
+      "sentence": "WEDEMEYER, P.J.</p> <p>Lake Bluff Housing Partners appeals from a judgment entered in favor of the City of South Milwaukee, ordering Lake Bluff to raze and remove two apartment buildings located on the shoreline in South Milwaukee."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.596525,
+      "type": "agentOf",
+      "sentence": "The City appealed to this court, and we reversed the trial court's decision."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "We"
+            }
+          ],
+          "text": "We"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "building"
+            }
+          ],
+          "text": "building"
+        }
+      ],
+      "score": 0.610596,
+      "type": "locatedAt",
+      "sentence": "We held that \"`a building permit grants no right to an unlawful use,'\" <i>Lake Bluff III,</i> 222 Wis. 2d at 227 (quoting <i>Lake Bluff II,</i> 197 Wis. 2d at 180), and the City's failure to seek a stay pending appeal does not bar it from enforcing its zoning requirements, <i>id."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "<i>Lake Bluff III,</i>"
+            }
+          ],
+          "text": "<i>Lake Bluff III,</i>"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Wis."
+            }
+          ],
+          "text": "Wis."
+        }
+      ],
+      "score": 0.65495,
+      "type": "residesIn",
+      "sentence": "We held that \"`a building permit grants no right to an unlawful use,'\" <i>Lake Bluff III,</i> 222 Wis. 2d at 227 (quoting <i>Lake Bluff II,</i> 197 Wis. 2d at 180), and the City's failure to seek a stay pending appeal does not bar it from enforcing its zoning requirements, <i>id."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "<i>Lake Bluff III,</i>"
+            }
+          ],
+          "text": "<i>Lake Bluff III,</i>"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Wis."
+            }
+          ],
+          "text": "Wis."
+        }
+      ],
+      "score": 0.688134,
+      "type": "residesIn",
+      "sentence": "We held that \"`a building permit grants no right to an unlawful use,'\" <i>Lake Bluff III,</i> 222 Wis. 2d at 227 (quoting <i>Lake Bluff II,</i> 197 Wis. 2d at 180), and the City's failure to seek a stay pending appeal does not bar it from enforcing its zoning requirements, <i>id."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "<i>Lake Bluff III,</i>"
+            }
+          ],
+          "text": "<i>Lake Bluff III,</i>"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Wis."
+            }
+          ],
+          "text": "Wis."
+        }
+      ],
+      "score": 0.795637,
+      "type": "residesIn",
+      "sentence": "We held that \"`a building permit grants no right to an unlawful use,'\" <i>Lake Bluff III,</i> 222 Wis. 2d at 227 (quoting <i>Lake Bluff II,</i> 197 Wis. 2d at 180), and the City's failure to seek a stay pending appeal does not bar it from enforcing its zoning requirements, <i>id."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "City"
+            }
+          ],
+          "text": "City"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "appeal"
+            }
+          ],
+          "text": "appeal"
+        }
+      ],
+      "score": 0.502862,
+      "type": "affectedBy",
+      "sentence": "We held that \"`a building permit grants no right to an unlawful use,'\" <i>Lake Bluff III,</i> 222 Wis. 2d at 227 (quoting <i>Lake Bluff II,</i> 197 Wis. 2d at 180), and the City's failure to seek a stay pending appeal does not bar it from enforcing its zoning requirements, <i>id."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "<i>id"
+            }
+          ],
+          "text": "<i>id"
+        },
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "its"
+            }
+          ],
+          "text": "its"
+        }
+      ],
+      "score": 0.381861,
+      "type": "employedBy",
+      "sentence": "We held that \"`a building permit grants no right to an unlawful use,'\" <i>Lake Bluff III,</i> 222 Wis. 2d at 227 (quoting <i>Lake Bluff II,</i> 197 Wis. 2d at 180), and the City's failure to seek a stay pending appeal does not bar it from enforcing its zoning requirements, <i>id."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</i>"
+            }
+          ],
+          "text": "</i>"
+        },
+        {
+          "entities": [
+            {
+              "type": "Phone",
+              "text": "229-30"
+            }
+          ],
+          "text": "229-30"
+        }
+      ],
+      "score": 0.614625,
+      "type": "hasAttribute",
+      "sentence": "</i> at 229-30."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "pointed out"
+            }
+          ],
+          "text": "pointed out"
+        }
+      ],
+      "score": 0.979386,
+      "type": "agentOf",
+      "sentence": "This court pointed out that Lake Bluff \"gambled on a favorable outcome\" when it decided to proceed with its construction, <i>id."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</i> We"
+            }
+          ],
+          "text": "</i> We"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "stated"
+            }
+          ],
+          "text": "stated"
+        }
+      ],
+      "score": 0.991287,
+      "type": "agentOf",
+      "sentence": "</i> We stated that to rule otherwise \"would encourage construction in violation of zoning codes."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "We"
+            }
+          ],
+          "text": "We"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.514586,
+      "type": "affectedBy",
+      "sentence": "We remanded, however, to the trial court to engage in a <i>Goode</i> analysis of whether \"there are compelling equitable reasons\" which would <span class=\"star-pagination\">*792</span> make this one of \"those rare cases\" where the requested order of abatement should not be issued, <i>Goode,</i> 219 Wis. 2d at 684; <i>Lake Bluff III,</i> 222 Wis. 2d at 232."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.68322,
+      "type": "agentOf",
+      "sentence": "We remanded, however, to the trial court to engage in a <i>Goode</i> analysis of whether \"there are compelling equitable reasons\" which would <span class=\"star-pagination\">*792</span> make this one of \"those rare cases\" where the requested order of abatement should not be issued, <i>Goode,</i> 219 Wis. 2d at 684; <i>Lake Bluff III,</i> 222 Wis. 2d at 232."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "apartment buildings"
+            }
+          ],
+          "text": "apartment buildings"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        }
+      ],
+      "score": 0.499749,
+      "type": "locatedAt",
+      "sentence": "WEDEMEYER, P.J.</p> <p>Lake Bluff Housing Partners appeals from a judgment entered in favor of the City of South Milwaukee, ordering Lake Bluff to raze and remove two apartment buildings located on the shoreline in South Milwaukee."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.497933,
+      "type": "agentOf",
+      "sentence": "On remand, the trial court engaged in the equitable analysis, and concluded that this was not one of the rare cases to not issue an order of abatement because there were no compelling equitable reasons requiring such an outcome."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "concluded"
+            }
+          ],
+          "text": "concluded"
+        }
+      ],
+      "score": 0.752548,
+      "type": "agentOf",
+      "sentence": "On remand, the trial court engaged in the equitable analysis, and concluded that this was not one of the rare cases to not issue an order of abatement because there were no compelling equitable reasons requiring such an outcome."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Date",
+              "text": "June 6, 2000"
+            }
+          ],
+          "text": "June 6, 2000"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.601008,
+      "type": "timeOf",
+      "sentence": "Accordingly, on June 6, 2000, the trial court issued a judgment ordering Lake Bluff to \"raze and remove the two apartment buildings."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.447368,
+      "type": "agentOf",
+      "sentence": "Accordingly, on June 6, 2000, the trial court issued a judgment ordering Lake Bluff to \"raze and remove the two apartment buildings."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "buildings"
+            }
+          ],
+          "text": "buildings"
+        },
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "apartment"
+            }
+          ],
+          "text": "apartment"
+        }
+      ],
+      "score": 0.617953,
+      "type": "locatedAt",
+      "sentence": "Accordingly, on June 6, 2000, the trial court issued a judgment ordering Lake Bluff to \"raze and remove the two apartment buildings."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "we"
+            }
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.530578,
+      "type": "agentOf",
+      "sentence": "DISCUSSION</h2> <p>\u00b6 9. Under our remand, we directed the trial court to weigh the equitable considerations discussed in <i>Goode."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.486564,
+      "type": "affectedBy",
+      "sentence": "DISCUSSION</h2> <p>\u00b6 9. Under our remand, we directed the trial court to weigh the equitable considerations discussed in <i>Goode."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Goode</i>"
+            }
+          ],
+          "text": "Goode</i>"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "provided"
+            }
+          ],
+          "text": "provided"
+        }
+      ],
+      "score": 0.983517,
+      "type": "agentOf",
+      "sentence": "Goode</i> provided that: \"[T]he circuit court, sitting in equity, should weigh heavily the factors considered by boards of adjustment in determining unnecessary hardship, as well as traditional equitable considerations."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "he"
+            }
+          ],
+          "text": "he"
+        },
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "circuit court"
+            }
+          ],
+          "text": "circuit court"
+        }
+      ],
+      "score": 0.681187,
+      "type": "managerOf",
+      "sentence": "Goode</i> provided that: \"[T]he circuit court, sitting in equity, should weigh heavily the factors considered by boards of adjustment in determining unnecessary hardship, as well as traditional equitable considerations."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Cardinal",
+              "text": "681-82"
+            }
+          ],
+          "text": "681-82"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Wis."
+            }
+          ],
+          "text": "Wis."
+        }
+      ],
+      "score": 0.457719,
+      "type": "populationOf",
+      "sentence": ",</i> 219 Wis. 2d at 681-82 (citation and footnotes omitted)."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "apartment buildings"
+            }
+          ],
+          "text": "apartment buildings"
+        },
+        {
+          "entities": [
+            {
+              "type": "Location",
+              "text": "shoreline"
+            }
+          ],
+          "text": "shoreline"
+        }
+      ],
+      "score": 0.756134,
+      "type": "locatedAt",
+      "sentence": "WEDEMEYER, P.J.</p> <p>Lake Bluff Housing Partners appeals from a judgment entered in favor of the City of South Milwaukee, ordering Lake Bluff to raze and remove two apartment buildings located on the shoreline in South Milwaukee."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</p>\n<p>\u00b6"
+            }
+          ],
+          "text": "</p>\n<p>\u00b6"
+        },
+        {
+          "entities": [
+            {
+              "type": "Age",
+              "text": "10"
+            }
+          ],
+          "text": "10"
+        }
+      ],
+      "score": 0.956253,
+      "type": "hasAttribute",
+      "sentence": "</p> <p>[1, 2]</p> <p>\u00b6 10."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "claims"
+            }
+          ],
+          "text": "claims"
+        }
+      ],
+      "score": 0.995944,
+      "type": "agentOf",
+      "sentence": "Lake Bluff claims the trial court erred on remand, citing three reasons why the abatement order should not have been issued: (1) the City had unclean hands; (2) abatement would cause unnecessary hardship; and (3) equity favored allowing the buildings to remain."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.502309,
+      "type": "affectedBy",
+      "sentence": "Lake Bluff claims the trial court erred on remand, citing three reasons why the abatement order should not have been issued: (1) the City had unclean hands; (2) abatement would cause unnecessary hardship; and (3) equity favored allowing the buildings to remain."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.671952,
+      "type": "agentOf",
+      "sentence": "Determining the equities of the situation presents an issue that is left to the discretion of the trial court."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "our"
+            }
+          ],
+          "text": "our"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.395347,
+      "type": "affectedBy",
+      "sentence": "Thus, our review is limited to whether or not the trial court erroneously exercised its discretion when it balanced the totality of the circumstances in this case."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.67722,
+      "type": "agentOf",
+      "sentence": "Thus, our review is limited to whether or not the trial court erroneously exercised its discretion when it balanced the totality of the circumstances in this case."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "it"
+            }
+          ],
+          "text": "it"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "case"
+            }
+          ],
+          "text": "case"
+        }
+      ],
+      "score": 0.586038,
+      "type": "affectedBy",
+      "sentence": "Thus, our review is limited to whether or not the trial court erroneously exercised its discretion when it balanced the totality of the circumstances in this case."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "</i> We"
+            }
+          ],
+          "text": "</i> We"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "conclude"
+            }
+          ],
+          "text": "conclude"
+        }
+      ],
+      "score": 0.982447,
+      "type": "agentOf",
+      "sentence": "</i> We conclude that the trial court <span class=\"star-pagination\">*793</span> did not erroneously exercise its discretion."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.417017,
+      "type": "agentOf",
+      "sentence": "</i> We conclude that the trial court <span class=\"star-pagination\">*793</span> did not erroneously exercise its discretion."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.622631,
+      "type": "agentOf",
+      "sentence": "In examining the trial court's decision, we will uphold any findings of fact that are not clearly erroneous."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Location",
+              "text": "shoreline"
+            }
+          ],
+          "text": "shoreline"
+        },
+        {
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "South Milwaukee"
+            }
+          ],
+          "text": "South Milwaukee"
+        }
+      ],
+      "score": 0.962035,
+      "type": "locatedAt",
+      "sentence": "WEDEMEYER, P.J.</p> <p>Lake Bluff Housing Partners appeals from a judgment entered in favor of the City of South Milwaukee, ordering Lake Bluff to raze and remove two apartment buildings located on the shoreline in South Milwaukee."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "we"
+            }
+          ],
+          "text": "we"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "uphold"
+            }
+          ],
+          "text": "uphold"
+        }
+      ],
+      "score": 0.568377,
+      "type": "agentOf",
+      "sentence": "In examining the trial court's decision, we will uphold any findings of fact that are not clearly erroneous."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "We"
+            }
+          ],
+          "text": "We"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.463736,
+      "type": "affectedBy",
+      "sentence": "We will also determine whether the trial court applied the pertinent law in addressing the equities of the situation."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.563655,
+      "type": "agentOf",
+      "sentence": "We will also determine whether the trial court applied the pertinent law in addressing the equities of the situation."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "claims"
+            }
+          ],
+          "text": "claims"
+        }
+      ],
+      "score": 0.991801,
+      "type": "agentOf",
+      "sentence": "We address each of Lake Bluff's claims in turn."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "claims"
+            }
+          ],
+          "text": "claims"
+        }
+      ],
+      "score": 0.996803,
+      "type": "agentOf",
+      "sentence": "Lake Bluff claims that the trial court failed to independently review its assertion that the City acted with unclean hands."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "claims"
+            }
+          ],
+          "text": "claims"
+        }
+      ],
+      "score": 0.564664,
+      "type": "affectedBy",
+      "sentence": "Lake Bluff claims that the trial court failed to independently review its assertion that the City acted with unclean hands."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.508578,
+      "type": "affectedBy",
+      "sentence": "Lake Bluff claims that the trial court failed to independently review its assertion that the City acted with unclean hands."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "asserts"
+            }
+          ],
+          "text": "asserts"
+        }
+      ],
+      "score": 0.998102,
+      "type": "agentOf",
+      "sentence": "Instead, Lake Bluff asserts that the trial court simply referred to and adopted facts set forth in the earlier appellate decisions."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "court"
+            }
+          ],
+          "text": "court"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "trial"
+            }
+          ],
+          "text": "trial"
+        }
+      ],
+      "score": 0.490005,
+      "type": "affectedBy",
+      "sentence": "Instead, Lake Bluff asserts that the trial court simply referred to and adopted facts set forth in the earlier appellate decisions."
+    },
+    {
+      "arguments": [
+        {
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Lake Bluff"
+            }
+          ],
+          "text": "Lake Bluff"
+        },
+        {
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "contends"
+            }
+          ],
+          "text": "contends"
+        }
+      ],
+      "score": 0.997151,
+      "type": "agentOf",
+      "sentence": "Lake Bluff contends that the trial court erroneously exercised its discretion when it did not conclude that the City acted with unclean hands."
+    }
+  ]
+}

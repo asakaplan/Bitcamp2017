@@ -1,0 +1,24 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1473579/",
+  "absolute_url": "/opinion/1473579/carver-v-commissioner-of-internal-revenue/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1473579/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2013-10-30T06:24:06.970344Z",
+  "date_modified": "2016-04-26T06:05:17.026643Z",
+  "type": "010combined",
+  "sha1": "c8f1783dbab119eb1f8d81880744eca62c7c95bb",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>173 F.2d 29 (1949)</b></center>\n<center><h1>CARVER<br>\nv.<br>\nCOMMISSIONER OF INTERNAL REVENUE.</h1></center>\n<center>No. 10730.</center>\n<center><p><b>United States Court of Appeals Sixth Circuit.</b></p></center>\n<center>February 14, 1949.</center>\n<p>Meyer A. Cook, of Cleveland, Ohio, for petitioner.</p>\n<p>Theron L. Caudle, Charles Oliphant, Bernard D. Daniels, Ellis N. Slack, A. F. Prescott and Howard P. Locke, all of Washington, D. C., for respondent.</p>\n<p>Before ALLEN, MARTIN, and MILLER, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>This cause came on to be heard on the petition of the taxpayer for review of the <span class=\"star-pagination\">*30</span> decision of the United States Tax Court determining a deficiency in his income tax for 1941, and having been duly considered upon the record and upon the oral arguments and briefs of the petitioner and the respondent Commissioner of Internal Revenue; and the question presented being the effect taxwise of a failure by the taxpayer to report his income for 1941 on an accrual basis to which he had changed his method of keeping books many years before rather than on a cash basis, and it appearing that the Tax Court properly applied the doctrine well stated in William Hardy, Inc., v. Commissioner of Internal Revenue, 2 Cir., 82 F.2d 249, to the effect that the fact that in previous years the Commissioner has accepted returns upon a basis other than that of the change he requires will not preclude him from insisting upon a method that will clearly reflect the income for the period being audited: The decision of the Tax Court is affirmed for the reasons stated in its opinion and upon the basis of its findings of fact, supported by the evidence.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation\" data-id=\"1473785\"><a href=\"/opinion/1473785/marcus-breier-sons-inc-v-marvlo-fabrics-inc/\"><span class=\"volume\">173</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">29</span></a></span> (1949)</b></center>\n<center><h1>CARVER<br>\nv.<br>\nCOMMISSIONER OF INTERNAL REVENUE.</h1></center>\n<center>No. 10730.</center>\n<center><p><b>United States Court of Appeals Sixth Circuit.</b></p></center>\n<center>February 14, 1949.</center>\n<p>Meyer A. Cook, of Cleveland, Ohio, for petitioner.</p>\n<p>Theron L. Caudle, Charles Oliphant, Bernard D. Daniels, Ellis N. Slack, A. F. Prescott and Howard P. Locke, all of Washington, D. C., for respondent.</p>\n<p>Before ALLEN, MARTIN, and MILLER, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>This cause came on to be heard on the petition of the taxpayer for review of the <span class=\"star-pagination\">*30</span> decision of the United States Tax Court determining a deficiency in his income tax for 1941, and having been duly considered upon the record and upon the oral arguments and briefs of the petitioner and the respondent Commissioner of Internal Revenue; and the question presented being the effect taxwise of a failure by the taxpayer to report his income for 1941 on an accrual basis to which he had changed his method of keeping books many years before rather than on a cash basis, and it appearing that the Tax Court properly applied the doctrine well stated in William Hardy, Inc., v. Commissioner of Internal Revenue, 2 Cir., <span class=\"citation\" data-id=\"1500462\"><a href=\"/opinion/1500462/william-hardy-inc-v-commissioner-of-internal-revenue/\"><span class=\"volume\">82</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">249</span></a></span>, to the effect that the fact that in previous years the Commissioner has accepted returns upon a basis other than that of the change he requires will not preclude him from insisting upon a method that will clearly reflect the income for the period being audited: The decision of the Tax Court is affirmed for the reasons stated in its opinion and upon the basis of its findings of fact, supported by the evidence.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": [
+    "http://www.courtlistener.com/api/rest/v3/opinions/1473785/",
+    "http://www.courtlistener.com/api/rest/v3/opinions/1500462/"
+  ]
+}

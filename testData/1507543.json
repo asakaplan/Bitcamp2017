@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1507543/",
+  "absolute_url": "/opinion/1507543/budd-v-commissioner-of-internal-revenue/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1507543/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2013-10-30T06:31:01.044936Z",
+  "date_modified": "2016-04-26T05:08:55.563145Z",
+  "type": "010combined",
+  "sha1": "58b98a445f00fa2f07fba601815a1b67ed592ae0",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>177 F.2d 198 (1947)</b></center>\n<center><h1>BUDD<br>\nv.<br>\nCOMMISSIONER OF INTERNAL REVENUE.</h1></center>\n<center>No. 10406.</center>\n<center><p><b>United States Circuit Court of Appeals Sixth Circuit.</b></p></center>\n<center>May 5, 1947.</center>\n<p>T. G. Thompson, Cleveland, Ohio, Wayland K. Sullivan, Cleveland, Ohio, for petitioner.</p>\n<p>Douglas W. McGregor, J. P. Wenchel, Sewall Key, John W. Smith, Helen R. Carloss and Muriel S. Paul, Washington, D. C., for respondent.</p>\n<p>Before HICKS, SIMONS and ALLEN, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>The question here is whether in re-computing the income of the petitioner for the taxable year ending December 31, 1943, the respondent rightly included in the petitioner's income the sum of $2400 out of $6,000 deducted by the petitioner as alimony payments under a separation agreement between the petitioner and his wife, in view of the language of § 22(k) of the Internal Revenue Code, 26 U.S.C.A. § 22(k), and Regulation 111, § 29.22(k)-1(d).</p>\n<p>Section 22(k) provides in substance that alimony payments constitute taxable income of the wife but that the subsection does not apply to any periodic payments which the terms of the decree or written instrument fix as a sum which is payable for the support of minor children. We agree with the Tax Court that in considering the separation instrument as a whole it becomes clear that of the $6,000 paid to the wife for the taxable year, a minimum of $200 per month is earmarked for the support of the petitioner's minor son.</p>\n<p>Wherefore, the decision of the Tax Court sustaining the deficiency assessment of the respondent is hereby affirmed upon the reasoning of the Tax Court's opinion.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">177</span> <span class=\"reporter\">F.2d</span> <span class=\"page\">198</span></span> (1947)</b></center>\n<center><h1>BUDD<br>\nv.<br>\nCOMMISSIONER OF INTERNAL REVENUE.</h1></center>\n<center>No. 10406.</center>\n<center><p><b>United States Circuit Court of Appeals Sixth Circuit.</b></p></center>\n<center>May 5, 1947.</center>\n<p>T. G. Thompson, Cleveland, Ohio, Wayland K. Sullivan, Cleveland, Ohio, for petitioner.</p>\n<p>Douglas W. McGregor, J. P. Wenchel, Sewall Key, John W. Smith, Helen R. Carloss and Muriel S. Paul, Washington, D. C., for respondent.</p>\n<p>Before HICKS, SIMONS and ALLEN, Circuit Judges.</p>\n<p>PER CURIAM.</p>\n<p>The question here is whether in re-computing the income of the petitioner for the taxable year ending December 31, 1943, the respondent rightly included in the petitioner's income the sum of $2400 out of $6,000 deducted by the petitioner as alimony payments under a separation agreement between the petitioner and his wife, in view of the language of § 22(k) of the Internal Revenue Code, 26 U.S.C.A. § 22(k), and Regulation 111, § 29.22(k)-1(d).</p>\n<p>Section 22(k) provides in substance that alimony payments constitute taxable income of the wife but that the subsection does not apply to any periodic payments which the terms of the decree or written instrument fix as a sum which is payable for the support of minor children. We agree with the Tax Court that in considering the separation instrument as a whole it becomes clear that of the $6,000 paid to the wife for the taxable year, a minimum of $200 per month is earmarked for the support of the petitioner's minor son.</p>\n<p>Wherefore, the decision of the Tax Court sustaining the deficiency assessment of the respondent is hereby affirmed upon the reasoning of the Tax Court's opinion.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}
