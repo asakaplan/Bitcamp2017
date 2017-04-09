@@ -2,8 +2,7 @@
   "name": "bitcamp2017",
   "description": "bitcamp 2017",
   "main": "app.js",
-  "authors": [
-  ],
+  "authors": [],
   "license": "MIT",
   "homepage": "https://github.com/asakaplan/Bitcamp2017",
   "ignore": [
@@ -12,5 +11,9 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "react": "^15.5.0",
+    "d3": "^4.7.4"
+  }
 }
