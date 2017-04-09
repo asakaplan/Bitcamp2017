@@ -13,7 +13,7 @@ function uiUpdate(o) {
   );
 }
 document.getElementById('back').onclick = () => window.filterAll();
-function updateList(people){
+function updateList(people, id='topSuspects', title='Top Suspects'){
   let rows = [];
   people.forEach( (person, index) => {
     // if(!person.name) continue;
@@ -39,8 +39,14 @@ function updateList(people){
     </table>
   );
   // if(!rows.length) table = <span></span>;
+  if(title){
+    ReactDOM.render(
+      <h2>{title}</h2>,
+      document.getElementById(id+'Title')
+    );
+  }
   ReactDOM.render(
     table,
-    document.getElementById('topSuspects')
+    document.getElementById(id)
   );
 }
