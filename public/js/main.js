@@ -120,11 +120,15 @@ d3.json("/js/data.json", function(error, graph) {
   }
 
   var filterCompany = window.filterCompany = function filterCompany(comp) {
+    renderComp(Object.assign({
+        comp: selected.comp
+    }));
     Object.keys(dict).forEach((key,i) => dict[key].visible = (dict[key].comp.toLowerCase() === comp.toLowerCase()));
     filter();
   }
 
   var filterAll = window.filterAll = function filterAll(comp) {
+    clearComp();
     Object.keys(dict).forEach((key,i) => dict[key].visible = true);
     filter();
   }

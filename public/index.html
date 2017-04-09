@@ -47,16 +47,29 @@ body {
 a.abtn:hover {
   cursor: pointer;
 }
+body {
+  margin-top: 20px;
+  background-image: linear-gradient(90deg, #8F767C, #FFFFFF);
+}
+.table td, .table th{
+    border: black solid 1px !important;
+}
+.table-hover>tbody>tr:hover>td, .table-hover>tbody>tr:hover>th {
+  background-color: #707990;
+  color:#eeeeee;
+}
     </style>
     <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css">
     <script src="/lib/d3/d3.js"></script>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
     <script src="/lib/react/react.js"></script>
     <script src="/lib/react/react-dom.js"></script>
   </head>
   <body>
     <div class="back">
-      <button id="back">↩️</button>
+      <button id="back" style = "font-size: 60px; margin-left:20px">←</button>
     </div>
+    <h1 id="title" align="center"> Social Ethics Propagator </h1>
     <div class="container">
       <div class="main">
         <div class="mleft">
@@ -72,7 +85,7 @@ a.abtn:hover {
         </div>
       </div>
       <div id="nodeInfo">
-        
+
       </div>
     </div>
     <script src="/js/ui.js"></script>

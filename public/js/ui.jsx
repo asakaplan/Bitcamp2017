@@ -12,6 +12,18 @@ function uiUpdate(o) {
     document.getElementById('nodeInfo')
   );
 }
+function renderComp(o){
+$("#title").fadeOut(function() {
+$(this).text(o.comp).fadeIn();
+});
+  //ReactDOM.render(<div>{o.comp}</div>,document.getElementById('title'));
+}
+function clearComp(){
+    $("#title").fadeOut(function() {
+  $(this).text("Social Ethics Propagator").fadeIn();
+});
+  ReactDOM.render(<h1>Social Ethics Propagator</h1>,document.getElementById('title'));
+}
 document.getElementById('back').onclick = () => window.filterAll();
 function updateList(people, id='topSuspects', title='Top Suspects'){
   let rows = [];
@@ -28,10 +40,10 @@ function updateList(people, id='topSuspects', title='Top Suspects'){
       </tr>
     );
   });
-  
+
   let table = (
-    <table className="table">
-      <thead>
+    <table className="table table-info table-hover  table-striped table-bordered">
+      <thead class ="thead-inverse">
         <tr>
           <th>#</th>
           <th>Name</th>
