@@ -167,9 +167,9 @@ d3.json("/js/data.json", function(error, graph) {
           .on("end", dragended)).merge(node);
 
       // Apply the general update pattern to the links.
-      link = link.data(graph.links, function(d) { return d.source.id + "-" + d.target.id; });
+      link = link.data(graph.links);//, function(d) { return d.source.id + "-" + d.target.id; });
       link.exit().remove();
-      link = link.enter().append("line").merge(link);
+      link = link.enter().append("line").attr("stroke-width", function(d) { return Math.pow(d.value, 2/3);}).merge(link);//return Math.pow(d.value, 2/3); }).merge(link);
 
       // Update and restart the simulation.
       simulation.nodes(graph.nodes);
