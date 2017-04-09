@@ -25,6 +25,7 @@ body {
   display: flex;
 }
 .mleft {
+  margin-top: 25px;
 }
     </style>
     <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css">
@@ -39,10 +40,14 @@ body {
           <svg width="800" height="600"></svg>
           <p id="status">Click on a point...</p>
         </div>
-        <div class="mright" id="topSuspects">
+        <div class="mright">
+          <h2>Top Suspects</h2>
+          <div id="topSuspects"></div>
         </div>
       </div>
-      <div id="nodeInfo"></div>
+      <div id="nodeInfo">
+        
+      </div>
     </div>
     <script src="/js/ui.js"></script>
     <script src="/js/main.js"></script>
