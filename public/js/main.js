@@ -17,7 +17,7 @@ function deprocess(data) {
         }))
     };
 }
-function removeNode(graph, dict, dedges, node){
+function removeNode(graph, dedges, node){
   for(var i = dedges.length -1; i >= 0 ; i--){
     if(dedges[i].source==node.id || dedges[i].target==node.id){
         dedges.splice(i, 1);
@@ -30,15 +30,11 @@ function removeNode(graph, dict, dedges, node){
   else{
     console.log("Unknown node to be removed: %d",node.id)
   }
-  dict.delete(node.id)
 }
 
-function addNode(graph, dict, dedges, node, edges){
+function addNode(graph, dedges, node, edges){
   dedges = dedges.concat(edges);
   graph.nodes.add(node);
-  dict[node.id]=node;
-  //Add edges to dedges
-  //add node to dict
 }
 
 function markovProb(dict, dedges, node, P, iters) {
