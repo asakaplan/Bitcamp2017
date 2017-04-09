@@ -18,7 +18,7 @@ function deprocess(data) {
     };
 }
 
-function markovProb(dict, dedges, node, P, iters) {
+function markovProb(dict, dedges, node, P, S, iters) {
     for(var k in dict) dict[k].cur = dict[k].prob = 0;
     node.cur = 1;
     for(var iter=0; iter<iters; iter++) {
@@ -34,10 +34,13 @@ function markovProb(dict, dedges, node, P, iters) {
         }
     }
     node.sketch = 0;
+    var totProb = 0;
     for(var k in dict) {
+      totProb += dict[k].prob;
       node.sketch += dict[k].prob*dict[k].bad;
     }
-    node.sketch = node.sketch*(1-P)+P*node.bad;
+    if(totProb === 0) S = 1;
+    node.sketch = S*node.bad + (1-S)*node.sketch;
 }
 function dirEdges(edges) {
     var seen = {};
@@ -87,6 +90,7 @@ d3.json("/js/data.json", function(error, graph) {
   graph = deprocess(graph);
   var dict = {};
   graph.nodes.forEach(n => dict[n.id] = n);
+  graph.nodes = Object.keys(dict).map(k => dict[k]);
   var dedges = dirEdges(graph.links);
   var link = svg.append("g")
       .attr("class", "links")
@@ -95,7 +99,7 @@ d3.json("/js/data.json", function(error, graph) {
     .enter().append("line")
       .attr("stroke-width", function(d) { return Math.pow(d.value, 2/3); });
   for(var k in dict) {
-    markovProb(dict, dedges, dict[k], 0.01, 100);
+    markovProb(dict, dedges, dict[k], 0.5, 0.7, 10);
   }
   var node = svg.append("g")
       .attr("class", "nodes")
@@ -103,7 +107,7 @@ d3.json("/js/data.json", function(error, graph) {
     .data(graph.nodes)
     .enter().append("circle")
       .attr("r", 5)
-      .attr("fill", function(d) { return d3.hsl((1-d.sketch)*100, 1, 0.5); })
+      .attr("fill", function(d) { return d3.hsl((1-Math.pow(d.sketch,1/2.5))*100, 1, 0.5); })
       .call(d3.drag()
           .on("start", dragstarted)
           .on("drag", dragged)
@@ -130,10 +134,10 @@ d3.json("/js/data.json", function(error, graph) {
   updateSel();
   function updateSel() {
     node.attr("class", function(d) { return selected === d ? 'selected' : ''; });
-    txt.text(selected ? 'Selected: '+selected.name + ", " + selected.comp : 'Click on a point...');
+    txt.text(selected ? 'Selected: '+selected.name + ", " + selected.comp+', '+selected.sketch : 'Click on a point...');
     if(!selected) return;
-    markovProb(dict, dedges, selected, 0.1, 5);
-    console.log(dict);
+    console.log(selected);
+    markovProb(dict, dedges, dict[k], 0.5, 0.7, 10);
   }
 
 
