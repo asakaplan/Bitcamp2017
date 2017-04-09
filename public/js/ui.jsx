@@ -3,6 +3,7 @@ function uiUpdate(o) {
     <div>
       <h2>{o.name}</h2>
       <h3>{o.comp}</h3>
+      <button onClick={window.filterCompany.bind(null,o.comp)} type="button" className="btn btn-primary">⛷ Corporation</button>
     </div>
   );
   const unselected = (<div><h3>Select a node...</h3></div>);
@@ -11,6 +12,7 @@ function uiUpdate(o) {
     document.getElementById('nodeInfo')
   );
 }
+document.getElementById('back').onclick = () => window.filterAll();
 function updateList(people){
   let rows = [];
   let counter = 0;

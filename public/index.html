@@ -26,6 +26,19 @@ body {
 }
 .mleft {
 }
+.back {
+  display: inline-block;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+.back #back {
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 3px;
+  font-size: 20px;
+}
     </style>
     <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css">
     <script src="/lib/d3/d3.js"></script>
@@ -33,6 +46,9 @@ body {
     <script src="/lib/react/react-dom.js"></script>
   </head>
   <body>
+    <div class="back">
+      <button id="back">↩️</button>
+    </div>
     <div class="container">
       <div class="main">
         <div class="mleft">
