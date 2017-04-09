@@ -218,13 +218,13 @@ d3.json("/js/data.json", function(error, graph) {
         name: node.name
     }));
     uiUpdate(Object.assign({
-        selected: !!selected,
-        mostWanted: mostWanted
+        selected: !!selected
     }, selected ? {
         name: selected.name,
         comp: selected.comp
     } : {}));
     if(!selected) return;
+    updateList(mostWanted);
     console.log(selected);
   }
 

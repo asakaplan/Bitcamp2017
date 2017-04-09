@@ -17,7 +17,7 @@ function updateList(people){
   for(person in people){
     counter++;
     rows.push(
-      <tr>
+      <tr key={person.id}>
         <td>{counter}</td>
         <td>{person.name}</td>
       </tr>
