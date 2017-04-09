@@ -154,15 +154,18 @@ d3.json("/js/data.json", function(error, graph) {
   window.dedgesStash = dedgesStash = JSON.parse(JSON.stringify(dedges));
 
   window.filter = function filter(){
-    updateNodes(graph,dict,dedgesStash)
-    node = node.data(graph.nodes, function(d) { return d.id;});
+      //Update nodes and edges backend data
+      updateNodes(graph,dict,dedgesStash)
+
+      node = node.data(graph.nodes, function(d) { return d.id;});
       node.exit().remove();
+      //
       node = node.enter().append("circle").attr("r", 5)
       .attr("fill", function(d) { return d3.hsl((1-Math.pow(d.sketch,1/2.5))*100, 1, 0.5); })
       .call(d3.drag()
           .on("start", dragstarted)
           .on("drag", dragged)
-          .on("end", dragended));
+          .on("end", dragended)).merge(node);
 
       // Apply the general update pattern to the links.
       link = link.data(graph.links, function(d) { return d.source.id + "-" + d.target.id; });
@@ -171,7 +174,7 @@ d3.json("/js/data.json", function(error, graph) {
 
       // Update and restart the simulation.
       simulation.nodes(graph.nodes);
-      simulation.force("link").links(graph.links);
+      //simulation.force("link").links(graph.links);
       simulation.alpha(1).restart();
 
 
