@@ -1,7 +1,8 @@
-samplePeopleRaw = [a.split(",") for a in open("frontEndTestData/samplePeopleMedium.csv","r")]
-sampleLinksRaw =  [a.split(",") for a in open("frontEndTestData/sampleLinksMedium.csv","r")]
+from sys import argv
+samplePeopleRaw = [a.split(",") for a in open("frontEndTestData/person%s.csv"%argv[1],"r").readlines()[1:]]
+sampleLinksRaw =  [a.split(",") for a in open("frontEndTestData/links%s.csv"%argv[1],"r").readlines()[1:]]
 
-outp = {"nodes":[[int(a[0]),a[1].strip()[1:-1],a[3].strip()[1:-1],float(a[2])] for a in samplePeopleRaw],
+outp = {"nodes":[[int(a[0]),a[1].strip().replace('"', ""),a[3].strip().replace('"', ""),float(a[2]), a[4].strip().replace('"', ""), a[5].strip().replace('"', "")] for a in samplePeopleRaw],
         "links":[[*map(int,a)] for a in sampleLinksRaw]
         }
 

@@ -7,7 +7,9 @@ function deprocess(data) {
             id: a[0],
             name: a[1],
             comp: a[2],
-            good: a[3]
+            bad: a[3],
+            location_state: a[4],
+            location_city: a[5]
         })),
         links: data.links.map(a => ({
             source: a[0], target: a[1],
@@ -94,7 +96,7 @@ d3.json("/js/data.json", function(error, graph) {
     .data(graph.nodes)
     .enter().append("circle")
       .attr("r", 5)
-      .attr("fill", function(d) { return d3.hsl(d.good*100, 1, 0.5); })
+      .attr("fill", function(d) { return d3.hsl((1-d.bad)*100, 1, 0.5); })
       .call(d3.drag()
           .on("start", dragstarted)
           .on("drag", dragged)
@@ -121,7 +123,7 @@ d3.json("/js/data.json", function(error, graph) {
   updateSel();
   function updateSel() {
     node.attr("class", function(d) { return selected === d ? 'selected' : ''; });
-    txt.text(selected ? 'Selected: '+selected.name : 'Click on a point...');
+    txt.text(selected ? 'Selected: '+selected.name + ", " + selected.comp : 'Click on a point...');
     if(!selected) return;
     markovProb(dict, dedges, selected, 0.1, 5);
     console.log(dict);
@@ -129,7 +131,7 @@ d3.json("/js/data.json", function(error, graph) {
 
 
   node.append("title")
-      .text(function(d) { return d.name; });
+      .text(function(d) { return d.name+", "+d.comp; });
 
   simulation
       .nodes(graph.nodes)
