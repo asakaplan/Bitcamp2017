@@ -34,32 +34,15 @@ body {
   </head>
   <body>
     <div class="container">
-      <div id="root"></div>
       <div class="main">
         <div class="mleft">
           <svg width="800" height="600"></svg>
           <p id="status">Click on a point...</p>
         </div>
-        <div class="mright">
-          <table class="table">
-            <thead><th>#</th><th>Top suspects</th></thead>
-            <tbody>
-              <tr>
-                <td>1</td>
-                <td>Abraham Lincoln</td>
-              </tr>
-              <tr>
-                <td>2</td>
-                <td>George Washington</td>
-              </tr>
-              <tr>
-                <td>3</td>
-                <td>John F. Kennedy</td>
-              </tr>
-            </tbody>
-          </table>
+        <div class="mright" id="topSuspects">
         </div>
       </div>
+      <div id="nodeInfo"></div>
     </div>
     <script src="/js/ui.js"></script>
     <script src="/js/main.js"></script>
