@@ -214,10 +214,6 @@ d3.json("/js/data.json", function(error, graph) {
     var mostWanted = graph.nodes.slice();
     mostWanted.sort((a,b) => (b.sketch-b.bad)-(a.sketch-a.bad));
     mostWanted.length = 10;
-    mostWanted = mostWanted.map(node => ({
-        id: node.id,
-        name: node.name
-    }));
     uiUpdate(Object.assign({
         selected: !!selected
     }, selected ? {
