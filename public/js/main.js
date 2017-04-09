@@ -149,7 +149,7 @@ d3.json("/js/data.json", function(error, graph) {
     .enter().append("line")
       .attr("stroke-width", function(d) { return Math.pow(d.value, 2/3); });
   for(var k in dict) {
-    markovProb(dict, dedges, dict[k], 0.5, 0.7, 10);
+    markovProb(dict, dedges, dict[k], 0.4, 0.6, 10);
   }
   window.dedgesStash = dedgesStash = JSON.parse(JSON.stringify(dedges));
 
@@ -176,7 +176,7 @@ d3.json("/js/data.json", function(error, graph) {
       simulation.nodes(graph.nodes);
       //simulation.force("link").links(graph.links);
       simulation.alpha(1).restart();
-
+      updateSel();
 
   }
   var node = svg.append("g")
@@ -213,7 +213,21 @@ d3.json("/js/data.json", function(error, graph) {
   function updateSel() {
     node.attr("class", function(d) { return selected === d ? 'selected' : ''; });
     txt.text(selected ? 'Selected: '+selected.name + ", " + selected.comp+', '+selected.sketch : 'Click on a point...');
+    var mostWanted = graph.nodes.slice();
+    mostWanted.sort((a,b) => (b.sketch-b.bad)-(a.sketch-a.bad));
+    mostWanted.length = 10;
+    mostWanted = mostWanted.map(node => ({
+        id: node.id,
+        name: node.name
+    }));
+    uiUpdate(Object.assign({
+        selected: !!selected
+    }, selected ? {
+        name: selected.name,
+        comp: selected.comp
+    } : {}));
     if(!selected) return;
+    updateList(mostWanted);
     console.log(selected);
   }
 
