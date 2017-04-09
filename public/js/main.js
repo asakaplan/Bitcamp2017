@@ -120,6 +120,23 @@ d3.json("/js/data.json", function(error, graph) {
     }).map(o => Object.assign({}, o)));
   }
 
+  var filterCompany = window.filterCompany = function filterCompany(comp) {
+    Object.keys(dict).forEach((key,i) => dict[key].visible = (dict[key].comp === comp));
+    filter();
+  }
+
+  var filterAll = window.filterAll = function filterAll(comp) {
+    Object.keys(dict).forEach((key,i) => dict[key].visible = true);
+    filter();
+  }
+
+  var filterLoc = window.filterLoc = function filterLoc(comp, city, state) {
+    Object.keys(dict).forEach((key,i) => dict[key].visible = (dict[key].comp === comp
+    && dict[key].location_city === city && dict[key]
+    && dict[key].location_state === state));
+    filter();
+  }
+
   graph = deprocess(graph);
   var dict = window.dict = {};
   graph.nodes.forEach(n => dict[n.id] = n);
@@ -140,7 +157,12 @@ d3.json("/js/data.json", function(error, graph) {
     updateNodes(graph,dict,dedgesStash)
     node = node.data(graph.nodes, function(d) { return d.id;});
       node.exit().remove();
-      node = node.enter().append("circle").attr("fill", function(d) { return color(d.id); }).attr("r", 8).merge(node);
+      node = node.enter().append("circle").attr("r", 5)
+      .attr("fill", function(d) { return d3.hsl((1-Math.pow(d.sketch,1/2.5))*100, 1, 0.5); })
+      .call(d3.drag()
+          .on("start", dragstarted)
+          .on("drag", dragged)
+          .on("end", dragended));
 
       // Apply the general update pattern to the links.
       link = link.data(graph.links, function(d) { return d.source.id + "-" + d.target.id; });
