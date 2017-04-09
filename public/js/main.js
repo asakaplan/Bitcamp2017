@@ -120,7 +120,7 @@ d3.json("/js/data.json", function(error, graph) {
   }
 
   var filterCompany = window.filterCompany = function filterCompany(comp) {
-    Object.keys(dict).forEach((key,i) => dict[key].visible = (dict[key].comp === comp));
+    Object.keys(dict).forEach((key,i) => dict[key].visible = (dict[key].comp.toLowerCase() === comp.toLowerCase()));
     filter();
   }
 
@@ -211,7 +211,6 @@ d3.json("/js/data.json", function(error, graph) {
   updateSel();
   function updateSel() {
     node.attr("class", function(d) { return selected === d ? 'selected' : ''; });
-    txt.text(selected ? 'Selected: '+selected.name + ", " + selected.comp+', '+selected.sketch : 'Click on a point...');
     var mostWanted = graph.nodes.slice();
     mostWanted.sort((a,b) => (b.sketch-b.bad)-(a.sketch-a.bad));
     mostWanted.length = 10;
