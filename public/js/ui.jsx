@@ -22,7 +22,7 @@ function clearComp(){
     $("#title").fadeOut(function() {
   $(this).text("Social Ethics Propagator").fadeIn();
 });
-  ReactDOM.render(<h1>Social Ethics Propagator</h1>,document.getElementById('title'));
+  //ReactDOM.render(<h1>Social Ethics Propagator</h1>,document.getElementById('title'));
 }
 document.getElementById('back').onclick = () => window.filterAll();
 function updateList(people, id='topSuspects', title='Top Suspects'){
