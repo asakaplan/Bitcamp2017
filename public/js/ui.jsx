@@ -15,17 +15,17 @@ function uiUpdate(o) {
 document.getElementById('back').onclick = () => window.filterAll();
 function updateList(people){
   let rows = [];
-  let counter = 0;
-  for(person in people){
-    counter++;
+  people.forEach( (person, index) => {
+    // if(!person.name) continue;
     rows.push(
       <tr key={person.id}>
-        <td>{counter}</td>
+        <td>{index+1}</td>
         <td>{person.name}</td>
       </tr>
     );
-  }
-  const table = (
+  });
+  
+  let table = (
     <table className="table">
       <thead>
         <tr>
@@ -38,6 +38,7 @@ function updateList(people){
       </tbody>
     </table>
   );
+  // if(!rows.length) table = <span></span>;
   ReactDOM.render(
     table,
     document.getElementById('topSuspects')
