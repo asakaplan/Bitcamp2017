@@ -8,7 +8,9 @@
   stroke: #999;
   stroke-opacity: 0.6;
 }
-
+.mright {
+  flex-grow: 1;
+}
 .nodes circle {
   stroke: #fff;
   stroke-width: 1.5px;
@@ -25,21 +27,41 @@ body {
 .mleft {
 }
     </style>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css">
     <script src="/lib/d3/d3.js"></script>
     <script src="/lib/react/react.js"></script>
     <script src="/lib/react/react-dom.js"></script>
   </head>
   <body>
-    <div id="root"></div>
-    <div class="main">
-      <div class="mleft">
-        <svg width="800" height="600"></svg>
-        <p id="status">Click on a point...</p>
-      </div>
-      <div class="mright">
+    <div class="container">
+      <div id="root"></div>
+      <div class="main">
+        <div class="mleft">
+          <svg width="800" height="600"></svg>
+          <p id="status">Click on a point...</p>
+        </div>
+        <div class="mright">
+          <table class="table">
+            <thead><th>#</th><th>Top suspects</th></thead>
+            <tbody>
+              <tr>
+                <td>1</td>
+                <td>Abraham Lincoln</td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <td>George Washington</td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>John F. Kennedy</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
       </div>
     </div>
-    <script src="/js/main.js"></script>
     <script src="/js/ui.js"></script>
+    <script src="/js/main.js"></script>
   </body>
 </html>

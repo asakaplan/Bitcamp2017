@@ -1,4 +1,11 @@
+const nodeInfo = (
+  <div>
+    <h2>Some Person</h2>
+    <h3>Mopley Starnely Bank</h3>
+  </div>
+);
+
 ReactDOM.render(
-  <h1>Hello, world!</h1>,
+  nodeInfo,
   document.getElementById('root')
 );
