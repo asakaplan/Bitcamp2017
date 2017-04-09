@@ -227,6 +227,7 @@ d3.json("/js/data.json", function(error, graph) {
     if(!selected) return;
     updateList(mostWanted);
   }
+  window.updateSel = updateSel;
 
 
   node.append("title")

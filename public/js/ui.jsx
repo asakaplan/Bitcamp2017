@@ -16,11 +16,15 @@ document.getElementById('back').onclick = () => window.filterAll();
 function updateList(people, id='topSuspects', title='Top Suspects'){
   let rows = [];
   people.forEach( (person, index) => {
+    let pick = () => {
+      window.selected = person;
+      window.updateSel();
+    }
     // if(!person.name) continue;
     rows.push(
       <tr key={person.id}>
         <td>{index+1}</td>
-        <td>{person.name}</td>
+        <td><a className="abtn" onClick={pick}>{person.name}</a></td>
       </tr>
     );
   });
