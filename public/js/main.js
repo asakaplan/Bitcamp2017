@@ -94,16 +94,15 @@ var color = d3.scaleOrdinal(d3.schemeCategory20);
 
 var charge =  d3.forceManyBody();
 charge.distanceMax(100);
+charge.strength(-100);
 var grav =  d3.forceManyBody();
-grav.strength(1);
+grav.strength(8);
 
 var simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(function(d) { return d.id; }))
     .force("charge", charge)
     .force("grav", grav)
     .force("center", d3.forceCenter(width / 2, height / 2));
-
-//simulation.force("link").strength(-15);
 
 var selected = null;
 
