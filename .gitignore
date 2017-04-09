@@ -5,3 +5,4 @@ consolodatedOutput.pic
 node_modules/
 bower_components/
 *.log
+public/js/ui.js
