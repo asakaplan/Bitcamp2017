@@ -149,7 +149,7 @@ d3.json("/js/data.json", function(error, graph) {
     .enter().append("line")
       .attr("stroke-width", function(d) { return Math.pow(d.value, 2/3); });
   for(var k in dict) {
-    markovProb(dict, dedges, dict[k], 0.5, 0.7, 10);
+    markovProb(dict, dedges, dict[k], 0.4, 0.6, 10);
   }
   window.dedgesStash = dedgesStash = JSON.parse(JSON.stringify(dedges));
 
