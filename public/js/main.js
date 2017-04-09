@@ -9,7 +9,8 @@ function deprocess(data) {
             comp: a[2],
             bad: a[3],
             location_state: a[4],
-            location_city: a[5]
+            location_city: a[5],
+            visible: true
         })),
         links: data.links.map(a => ({
             source: a[0], target: a[1],
@@ -94,20 +95,34 @@ var color = d3.scaleOrdinal(d3.schemeCategory20);
 var charge =  d3.forceManyBody();
 charge.distanceMax(100);
 var grav =  d3.forceManyBody();
-grav.strength(30);
+grav.strength(1);
 
 var simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(function(d) { return d.id; }))
     .force("charge", charge)
-    .force("grav", d3.for)
+    .force("grav", grav)
     .force("center", d3.forceCenter(width / 2, height / 2));
+
+//simulation.force("link").strength(-15);
 
 var selected = null;
 
 d3.json("/js/data.json", function(error, graph) {
   if (error) throw error;
+
+  var updateNodes = window.updateNodes = function updateNodes(graph, dict, dedgesT){
+    //graph.nodes = ;
+    graph.nodes.length=0;
+    [].push.apply(graph.nodes,Object.keys(dict).map(e => dict[e]).filter(e => e.visible))
+    graph.links.length = 0;
+    [].push.apply(graph.links,dedgesT.filter(e => {
+      console.log(e)
+      return (dict[e.source].visible && dict[e.target].visible)
+    }).map(o => Object.assign({}, o)));
+  }
+
   graph = deprocess(graph);
-  var dict = {};
+  var dict = window.dict = {};
   graph.nodes.forEach(n => dict[n.id] = n);
   graph.nodes = Object.keys(dict).map(k => dict[k]);
   var dedges = dirEdges(graph.links);
@@ -119,6 +134,26 @@ d3.json("/js/data.json", function(error, graph) {
       .attr("stroke-width", function(d) { return Math.pow(d.value, 2/3); });
   for(var k in dict) {
     markovProb(dict, dedges, dict[k], 0.5, 0.7, 10);
+  }
+  window.dedgesStash = dedgesStash = JSON.parse(JSON.stringify(dedges));
+
+  window.filter = function filter(){
+    updateNodes(graph,dict,dedgesStash)
+    node = node.data(graph.nodes, function(d) { return d.id;});
+      node.exit().remove();
+      node = node.enter().append("circle").attr("fill", function(d) { return color(d.id); }).attr("r", 8).merge(node);
+
+      // Apply the general update pattern to the links.
+      link = link.data(graph.links, function(d) { return d.source.id + "-" + d.target.id; });
+      link.exit().remove();
+      link = link.enter().append("line").merge(link);
+
+      // Update and restart the simulation.
+      simulation.nodes(graph.nodes);
+      simulation.force("link").links(graph.links);
+      simulation.alpha(1).restart();
+
+
   }
   var node = svg.append("g")
       .attr("class", "nodes")
@@ -156,7 +191,6 @@ d3.json("/js/data.json", function(error, graph) {
     txt.text(selected ? 'Selected: '+selected.name + ", " + selected.comp+', '+selected.sketch : 'Click on a point...');
     if(!selected) return;
     console.log(selected);
-    markovProb(dict, dedges, dict[k], 0.5, 0.7, 10);
   }
 
 
