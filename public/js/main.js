@@ -33,6 +33,11 @@ function markovProb(dict, dedges, node, P, iters) {
             dict[k].prob += dict[k].ncur * P;
         }
     }
+    node.sketch = 0;
+    for(var k in dict) {
+      node.sketch += dict[k].prob*dict[k].bad;
+    }
+    node.sketch = node.sketch*(1-P)+P*node.bad;
 }
 function dirEdges(edges) {
     var seen = {};
@@ -89,14 +94,16 @@ d3.json("/js/data.json", function(error, graph) {
     .data(graph.links)
     .enter().append("line")
       .attr("stroke-width", function(d) { return Math.pow(d.value, 2/3); });
-
+  for(var k in dict) {
+    markovProb(dict, dedges, dict[k], 0.01, 100);
+  }
   var node = svg.append("g")
       .attr("class", "nodes")
     .selectAll("circle")
     .data(graph.nodes)
     .enter().append("circle")
       .attr("r", 5)
-      .attr("fill", function(d) { return d3.hsl((1-d.bad)*100, 1, 0.5); })
+      .attr("fill", function(d) { return d3.hsl((1-d.sketch)*100, 1, 0.5); })
       .call(d3.drag()
           .on("start", dragstarted)
           .on("drag", dragged)
