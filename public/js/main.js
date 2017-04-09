@@ -115,7 +115,6 @@ d3.json("/js/data.json", function(error, graph) {
     [].push.apply(graph.nodes,Object.keys(dict).map(e => dict[e]).filter(e => e.visible))
     graph.links.length = 0;
     [].push.apply(graph.links,dedgesT.filter(e => {
-      console.log(e)
       return (dict[e.source].visible && dict[e.target].visible)
     }).map(o => Object.assign({}, o)));
   }
@@ -228,7 +227,6 @@ d3.json("/js/data.json", function(error, graph) {
     } : {}));
     if(!selected) return;
     updateList(mostWanted);
-    console.log(selected);
   }
 
 
