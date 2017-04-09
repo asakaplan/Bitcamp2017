@@ -140,17 +140,17 @@ d3.json("/js/data.json", function(error, graph) {
   var dict = window.dict = {};
   graph.nodes.forEach(n => dict[n.id] = n);
   graph.nodes = Object.keys(dict).map(k => dict[k]);
-  var dedges = dirEdges(graph.links);
   var link = svg.append("g")
       .attr("class", "links")
     .selectAll("line")
     .data(graph.links)
     .enter().append("line")
       .attr("stroke-width", function(d) { return Math.pow(d.value, 2/3); });
+  window.dedgesStash = dedgesStash = JSON.parse(JSON.stringify(graph.links));
+  var dedges = dirEdges(graph.links);
   for(var k in dict) {
     markovProb(dict, dedges, dict[k], 0.4, 0.6, 10);
   }
-  window.dedgesStash = dedgesStash = JSON.parse(JSON.stringify(dedges));
 
   window.filter = function filter(){
       //Update nodes and edges backend data
