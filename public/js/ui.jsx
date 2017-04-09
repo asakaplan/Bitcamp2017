@@ -22,9 +22,9 @@ function updateList(people, id='topSuspects', title='Top Suspects'){
     }
     // if(!person.name) continue;
     rows.push(
-      <tr key={person.id}>
+      <tr className='abtn' onClick={pick} key={person.id}>
         <td>{index+1}</td>
-        <td><a className="abtn" onClick={pick}>{person.name}</a></td>
+        <td>{person.name}</td>
       </tr>
     );
   });
