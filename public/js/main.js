@@ -17,6 +17,25 @@ function deprocess(data) {
         }))
     };
 }
+function removeNode(graph, dedges, node){
+  for(var i = dedges.length -1; i >= 0 ; i--){
+    if(dedges[i].source==node.id || dedges[i].target==node.id){
+        dedges.splice(i, 1);
+    }
+  }
+  index = graph.nodes.indexOf(node);
+  if (index>-1){
+    graph.nodes.splice(index,1)
+  }
+  else{
+    console.log("Unknown node to be removed: %d",node.id)
+  }
+}
+
+function addNode(graph, dedges, node, edges){
+  dedges = dedges.concat(edges);
+  graph.nodes.add(node);
+}
 
 function markovProb(dict, dedges, node, P, S, iters) {
     for(var k in dict) dict[k].cur = dict[k].prob = 0;
